@@ -1,0 +1,18 @@
+<\s*div class='questao'[^>]*>(.*?) (<\s*span class='livro'[^>]*>(.*?)<\s*/\s*span>)<\s*/\s*div>
+
+**$1**{class=questao} **$3**{class=livro}
+
+
+<\s*span class='livro'[^>]*>(.*?)<\s*/\s*span>
+
+**$1**{class=livro}
+
+
+<\s*q class='verso'[^>]*>(.*?)<\s*/\s*q>
+
+**$1**{class=verso}
+
+
+(\*\*Nota:\*\*)(.*)
+
+!!!note Nota $1\n\t$2

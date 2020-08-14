@@ -1,0 +1,185 @@
+.code-line .titulo_capa {
+  font-family: Chicle;
+  font-size: 2.5em;
+  color: rgb(13, 35, 75);
+  letter-spacing: 0.5rem;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table-of-contents ul li {
+  list-style-type:none
+}
+
+@media print {
+  h1, .page { 
+    page-break-before: always;
+  }
+  h3, h4 {
+    page-break-after: avoid;
+  }
+  pre, blockquote {
+    page-break-inside: avoid;
+  }
+}
+
+body {
+  font-size: 18px !important;
+  font-family: "Noticia Text", "Lato", "Times New Roman", Times, serif   !important;
+  text-align: justify;
+  color: black;
+}
+
+.code-line img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.verso {
+  font-family: "Merienda One";
+  font-size: 18px;
+  color: #005cc5;
+}
+.questao {
+  font-family: "Oregano";
+  font-size: 28px;
+  font-weight: bold;
+  color: black
+}
+
+.livro {
+  font-family: "Charm", "Calligraffitti", "Alike";
+  font-size: 20px;
+  color: #d73a49;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Julee", 'Cantora One';
+  font-size: 2.05em;
+  color: rgb(13, 35, 75);
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+h2 {
+  font-family: "FrutigerSerifLTPro-HvyCnIt";
+  font-size: 1.85em;
+  color: rgb(4, 78, 40);
+  border-bottom: black;
+  border-bottom-width: 2px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 44px;
+  margin: 0 0 12px;
+  text-align: center;
+}
+h3 {
+  font-family: "Mafra Condensed Headline Bd It";
+  font-size: 1.65em;
+  color: rgb(13, 35, 75);
+}
+
+ol.alpha {
+  list-style-type: lower-alpha;
+}
+
+@page {
+  @bottom-right {
+    content: counter(page) " de " counter(pages);
+  }
+}
+
+.versoQ {
+  display: ;
+}
+
+blockquote {
+  background: #f7f8fa;
+  border-left: 4px solid #34de82;
+  border-bottom: 1px solid #ddddde;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+/*
+
+Google Fonts - no Linux use o app "Type Catcher" para instalar
+
+- Alegreya
+- Alex Brush
+- Allura
+- Architects Daughter
+- Arizonia
+- Average
+- Balthazar
+- basic
+- belle fair
+- Bree Serif
+- Caladea *
+- Charm *
+- Cookie *
+- Courgette
+- Crimson Pro
+- Dancing Script
+- David Libre
+- Farsan *
+- Gabriela
+- Great Vibes
+- Gupter
+- Inika
+- Italianno *
+- Julee
+- Kalam
+- katibeh
+- Kavivanar
+- Lato
+- Lekton
+- Libre Baskerville
+- Linden Hill
+- Literata
+- Lobster Two
+- Marck Script
+- Markazi Text
+- Mate *
+- Merienda
+- Merienda One
+- Merryweather
+- Neucha
+- Neuton *
+- Niconne
+- Noticia Text
+- Noto Serif *
+- Noto Serif KR
+- Overlock
+- Ovo
+- Pt Serif
+- Paprika
+- parisiense
+- patrick hand
+- petrona *
+- pinyon script
+- playball
+- Poly
+- Pompiere
+- Port Lligat Slab
+- Prociono
+- Quando
+- Quintessential
+- Rasa
+- Sacramento
+- Salsa
+- Satisfy *
+- Seaweed Script
+- Simonetta
+- Slabo 27px
+- Song Myung
+- Special Elite (maquina de escrever)
+- Tangerine
+- Tillana
+
+*/

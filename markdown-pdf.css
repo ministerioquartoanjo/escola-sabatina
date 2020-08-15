@@ -29,6 +29,12 @@ body {
   font-family: "Noticia Text", "Lato", "Times New Roman", Times, serif   !important;
   text-align: justify;
   color: black;
+  letter-spacing: -0.02rem;
+}
+
+code {
+  font-family: monospace !important;
+  font-size: 18px !important;
 }
 
 .code-line img {
@@ -67,16 +73,14 @@ h1 {
 }
 
 h2 {
-  font-family: "FrutigerSerifLTPro-HvyCnIt";
-  font-size: 1.85em;
+  font-family: "Aref Ruqaa", "FrutigerSerifLTPro-HvyCnIt";
+  font-size: 1.95em;
   color: rgb(4, 78, 40);
   border-bottom: black;
-  border-bottom-width: 2px;
-  font-weight: 400;
-  font-style: italic;
   line-height: 44px;
   margin: 0 0 12px;
   text-align: center;
+  text-shadow: 4px 4px 4px #aaa;
 }
 h3 {
   font-family: "Mafra Condensed Headline Bd It";
@@ -104,6 +108,12 @@ blockquote {
   border-bottom: 1px solid #ddddde;
   font-size: 1em;
   text-decoration: none;
+}
+
+
+.table-of-contents {
+  font-family: "Charm";
+  font-size: 28px;
 }
 
 /*

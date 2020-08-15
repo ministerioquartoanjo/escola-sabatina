@@ -5,13 +5,16 @@ Para editar os arquivos .md (markdown) você deve utilizar o editor VSCODE
 1) Adicionar o complemento `jebbs.markdown-extended`
 2) Configurar, abrir o menu: File > Preferences > Settings  ou pression CTRL+,
 ```
-"markdown-pdf.styles": [
-    "markdown-pdf.css"
-],
-"markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> <span class='title'></span></div></div>",
-"markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"> <span class='pageNumber'></span></div>",
-"markdown-pdf.breaks": true,
-"markdown-pdf.highlightStyle": "a11y-dark.css",
+    "markdown.styles": [
+        //"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css",
+        "markdown-pdf.css"
+    ],
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false, // use 2 espaços no final para ter uma quebra de linha
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true
+    },
+
 ```
 
 3) Abrir esta pasta como o principal (aonde esta o arquivo mardown-pdf.css)
@@ -90,4 +93,11 @@ Exemplos (se tiver instalado o complemento `jebbs.markdown-extended`):
 
 ## Gerando e Salvando Versão
 
-Na branch de desenvolvimento salvar todos os markdown e html e outros elementos para gerar o pdf, então salve no git (commit). Ao ter uma versão final do pdf, mude de branch (para master) e commit o arquivo pdf nela. Assim só teremos na master as versões finais dos arquivos pdf.
+Na branch de **desenv** salvar todos os arquivos markdown (.md) e html e outros elementos para gerar o pdf, então salve no git (commit). 
+
+Ao ter uma versão final do pdf, mude de branch (para master) e então faça o commit do arquivo pdf na master. Assim só teremos branch as versões finais dos arquivos PDF.
+
+
+<script>
+document.write("aaaa");
+</script>

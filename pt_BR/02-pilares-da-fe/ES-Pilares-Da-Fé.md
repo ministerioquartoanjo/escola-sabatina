@@ -12,7 +12,6 @@ puppeteer:
         quality: 100
         fullPage: true
 ---
-<link rel="stylesheet" type="text/css" href="../markdown-pdf.css"/>
 
 **Lição da Escola Bíblica**{class=titulo_capa}
 

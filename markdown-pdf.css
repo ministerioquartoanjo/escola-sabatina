@@ -25,11 +25,11 @@
 }
 
 body {
-  font-size: 18px !important;
+  font-size: 20px !important;
   font-family: "Noticia Text", "Lato", "Times New Roman", Times, serif   !important;
   text-align: justify;
   color: black;
-  letter-spacing: -0.02rem;
+  letter-spacing: -0.03rem;
 }
 
 code {
@@ -43,9 +43,52 @@ code {
   margin-right: auto;
 }
 
-.verso {
-  font-family: "Merienda One";
-  font-size: 18px;
+/* Verso Aureo */
+.admonition.quote .code-line {
+  font-family: "Cormorant Upright";
+  font-size: 27px;
+  margin-top: 15px;
+}
+
+/* Notas */
+.admonition.note .code-line {
+  font-family: "Farsan";
+  font-size: 27px;
+  margin-top: 15px;
+}
+/* Decisão do final da lição */
+.admonition.example .code-line {
+  font-family: "Cormorant Upright";
+  font-size: 27px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.code-line {
+  line-height: 27px;
+}
+
+/*
+  font-family: "Bilbo";
+  font-size: 35px;
+
+  font-family: "Calligraffitti";
+  font-size: 27px;
+
+  font-family: "Charm";
+  font-size: 27px;
+
+  font-family: "Cookie";
+  font-size: 33px;
+
+  font-family: "Cormorant Upright";
+  font-size: 27px;
+  line-height: 30px;
+*/
+.verso, .versoQ {
+  font-family: "Farsan";
+  font-size: 28px;
+  line-height: 30px;
   color: #005cc5;
 }
 .questao {
@@ -55,9 +98,9 @@ code {
   color: black
 }
 
-.livro {
+.livro, .livroQ, .livroVerso {
   font-family: "Charm", "Calligraffitti", "Alike";
-  font-size: 20px;
+  font-size: 21px;
   color: #d73a49;
 }
 
@@ -81,6 +124,7 @@ h2 {
   margin: 0 0 12px;
   text-align: center;
   text-shadow: 4px 4px 4px #aaa;
+  font-weight: bolder;
 }
 h3 {
   font-family: "Mafra Condensed Headline Bd It";
@@ -98,9 +142,9 @@ ol.alpha {
   }
 }
 
-.versoQ {
-  display: ;
-}
+/* Para ocultar */
+.livroQ { display: none1; }
+.versoQ, .livroVerso, .questao ~ br { display: none1; }
 
 blockquote {
   background: #f7f8fa;

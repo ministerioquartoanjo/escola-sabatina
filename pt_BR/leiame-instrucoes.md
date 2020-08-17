@@ -1,5 +1,11 @@
 [[TOC]]
 
+## Requisitos
+
+- Editor VSCODE
+- Fontes TTF: https://github.com/google/fonts/archive/master.zip
+
+
 Para editar os arquivos .md (markdown) você deve utilizar o editor VSCODE
 
 1) Adicionar o complemento `jebbs.markdown-extended`
@@ -14,6 +20,9 @@ Para editar os arquivos .md (markdown) você deve utilizar o editor VSCODE
         "editor.wordWrap": "on",
         "editor.quickSuggestions": true
     },
+    "markdownExtended.pdfHeaderTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"></div>",
+    "markdownExtended.pdfFooterTemplate": "<div style=\"font-size: 8px; margin: 0 auto;\"> <span class='pageNumber'></span></div>",
+
 
 ```
 
@@ -29,7 +38,7 @@ https://github.com/puppeteer/puppeteer/blob/v1.4.0/docs/api.md#pagepdfoptions
 Exemplos (se tiver instalado o complemento `jebbs.markdown-extended`):
 
 !!!note ""
-    This is the **note** admonition body
+    This is the **note** admonition body, without title
  
 !!!note
     This is the **note** admonition body
@@ -37,7 +46,7 @@ Exemplos (se tiver instalado o complemento `jebbs.markdown-extended`):
  !!! danger
     This is the danger admonition body
 
-!!!summary ""
+!!!summary
     This is the **note** admonition body
 
 !!!abstract

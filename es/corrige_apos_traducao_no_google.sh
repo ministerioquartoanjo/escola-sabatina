@@ -2,62 +2,61 @@ FILE="$1"
 FILE="02-Pilares-Da-Fe/ES-Pilares-Da-Fé.md"
 cp -f "02-Pilares-Da-Fe/ES-Pilares-Da-Fé copy.md" $FILE
 
-# Titulo
+# Generico
+CLASS="clase|class"
+sed -ri "s/\*[ ]{0,2}\*[ ]{0,2}\{[ ]{0,2}($CLASS)[ ]{0,2}=[ ]{0,2}([a-z_ ]+)[ ]{0,2}\}/**{class=\2}/gi" $FILE
 
-sed -ri 's/\*\* (.*) \*\* \{class = titulo_capa\}$/**\1**{class=titulo_capa}/' $FILE
+sed -ri "s/\{class=(pregunta|question)[ ]{0,1}\}[ ]{0,1}\*\*[ ]+/{class=questao}** /gi" $FILE
+sed -ri "s/\{class=(versoQ|verseQ)[ ]{0,1}\}[ ]{0,1}\*\*[ ]+/{class=versoQ}** /gi" $FILE
+sed -ri "s/\{class=(verse)\}[ ]{0,1}\*\*[ ]+/{class=verso}** /gi" $FILE
 
-# Pagina
-sed -ri "s@<div class = 'página'> & nbsp; </div>@<div class='page'>&nbsp;</div>@" $FILE
+sed -ri "s/(bookVerse|libroVerso)[ ]{0,1}/livroVerso/ig" $FILE
+sed -ri "s/(bookQ|libroQ)[ ]{0,1}/livroQ/ig" $FILE
+sed -ri "s/(book|libro)[ ]{0,1}\}/livro}/ig" $FILE
+sed -ri "s/(verse|verso del livro)[ ]{0,1}\}/verso}/ig" $FILE
+sed -ri "s/(question)[ ]{0,1}\}/questao}/ig" $FILE
+
+sed -ri "s/ \*\*\{class=(questao|livro|livroQ|verso|versoQ|livroVerso)\}/**{class=\1}/g" $FILE
+sed -ri 's/\}\*\*/} **/g' $FILE
+
+sed -ri "s/ \*\*\{class=titulo_capa\}/**{class=titulo_capa}/" $FILE
+
+sed -ri 's/!!! /!!!/' $FILE # !!! note ""
+sed -ri 's/ \*\*[ ]{0,2}$/**  /' $FILE # **Tick the correct answer: **  
+sed -ri "s/^\*\* /**/" $FILE # ** Tick the correct answer: ** 
 
 # Imagens
 sed -ri 's@\! \[\] \(../ logo-mqa.jpg\)@![](../logo-mqa.jpg)@' $FILE
 sed -ri 's@\! \[\] \((.*)\)@![](\1)@' $FILE
 
-# admonition
-sed -ri 's/\!\!\!( ejemplo )/!!!example /i' $FILE
-sed -ri 's/\!\!\!( Nota |Nota )/!!!note /i' $FILE
-sed -ri 's/\!\!\!( citar | cita )/!!!example /i' $FILE
+# Parenteses
+sed -ri "s/\(\)/( )/" $FILE
 
-# titulos
-sed -ri 's/\*\* (.*) \*\*(|  )$/**\1**\2/' $FILE
+sed -ri 's/\*\* ([a-z,; ]+\*\*\{class=)/**\1/gi' $FILE # ** The Sabbath was made because of man**{class=verso}
 
-ASK="pregunta|pregunta |question|question "
-AST="\*\*| \*\*|\*\* | \*\* |\* \*| \* \*| \* \* "
-CLASS="clase| clase|class| class"
-LIVRO="libroQ|bookQ"
+sed -ri 's/\*\* "/**"/' $FILE # ** "Thus says
+sed -ri 's/ "\*\*/"**/' $FILE # God. "**
+sed -ri 's/\*\* ([a-z])/**\1/gi' $FILE
 
-# perguntas
-sed -ri "s/($AST)(.*)($AST)\{(| )($CLASS)(=| =| = )($ASK)(| )\}/**\2**{class=questao}/" $FILE
-sed -ri "s/ ($AST)(.*)($AST)\{($CLASS)(=| =| = )($LIVRO)\}/ **\2**{class=livroQ}/" $FILE
-sed -ri 's/\*\* (.*) \*\*\{class=questao\} \*\* (.*) \*\*\{class=livroQ\}/**\1**{class=questao} **\2**{class=livroQ}/' $FILE
+ACCENTS="áéíóúâêîôûãẽĩõũç"
+sed -ri "s/(\*\*[a-z$ACCENTS ]+:) \*\*/\1**/gi" $FILE
+sed -ri "s/\* \"([a-z$ACCENTS \(\)]+)\"(|,) \*/*\"\1\"\2*/gi" $FILE # * "Holy" *
 
-
-VERSO="versoQ|verseQ"
-LIVRO="bookVerse"
-sed -ri "s/($AST)(.*)($AST)\{(| )($CLASS)(=| =| = )($VERSO)(| )\}/**\2**{class=versoQ}/" $FILE
-sed -ri "s/\{class=versoQ\}($AST)(.*)($AST)\{($CLASS)(=| =| = )($LIVRO)(| )\}/{class=versoQ} **\2**{class=livroVerso}/" $FILE
-
-sed -ri 's/\*\* (.*) \*\*\{class=versoQ\} \*\* (.*) \*\*\{class=livroVerso\}/**\1**{class=versoQ} **\2**{class=livroVerso}/' $FILE
-
-
-VERSO="verse|verso"
-LIVRO="book|libro|libroVerso"
-sed -ri "s/($AST)(.*)($AST)\{(| )($CLASS)(=| =| = )($VERSO)(| )\}/**\2**{class=verso}/" $FILE
-sed -ri "s/\{class=verso\}($AST)(.*)($AST)\{($CLASS)(=| =| = )($LIVRO)(| )\}/{class=verso} **\2**{class=livro}/" $FILE
-
-sed -ri 's/\*\* (.*) \*\*\{class=verso\} \*\* (.*) \*\*\{class=livro\}/ **\1**{class=verso} **\2**{class=livro}/' $FILE
-
-
-
-#**(Levítico 16:23; 23: 27-32). ** {class = book}
-LIVRO="libro|book"
-sed -ri "s/($AST)(.*)($AST)\{($CLASS)(=| =| = )($LIVRO)\}/**\2**{class=livro}/" $FILE
-sed -ri "s/\*\* (.*) \*\*\{class=livro}/ **\1**{class=livro}/" $FILE
+sed -ri 's/\*\*[ ]+.../**.../' $FILE # ** ...
 
 # Code
-sed -ri "s/''/\`\`\`/" $FILE
+sed -ri "s/\`\`/\`\`\`/" $FILE #    ``	
+sed -ri "s/''/\`\`\`/" $FILE #    ``	
 
-# Finais
-CLASSV="verso del libro|libro"
-# Classes
-sed -ri "s/(| )\{(| )(clase|class)(=| =|= | = )($CLASSV)(| )\}/{class=livro}/" $FILE
+sed -ri 's/([0-9]+:) ([0-9])/\1\2/g' $FILE # **I Timothy 2: 5**
+
+sed -ri "s/\*\*[ ]\(([a-z0-9$ACCENTS: -]+)\)[ ]{0,}([,\.]{0,1})[ ]{0,}\**/**(\1)\2**/gi" $FILE # ** (Revelation 13:11-17),**
+
+# admonition
+sed -ri 's/!!![ ]{0,2}(ejemplo)[ ]{0,2}/!!!example /i' $FILE
+sed -ri 's/!!![ ]{0,2}(Nota)[ ]{0,2}/!!!note /i' $FILE
+sed -ri 's/!!![ ]{0,2}(cita|citar)[ ]{0,2}/!!!cite /i' $FILE
+
+
+# ( ) Sí No
+sed -ri 's/[ ]{1,}Sí[ ]{1,}No/ Sí  ( ) No/i' $FILE

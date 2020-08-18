@@ -2,7 +2,7 @@
 puppeteer:
     pdf:
         format: A4
-        displayHeaderFooter: false
+        displayHeaderFooter: true
         margin:
             top: .7cm
             right: .7cm
@@ -1612,7 +1612,7 @@ c) O espírito santo é a sabedoria de Deus.
 
 **Assinale a resposta correta:**  
 a) Cristo sempre existiu pois é Deus.   
-b) Cristo teve um princípio, Ele foi gerado de Deus antes que o mundo existisse. As suas origens são desde "os dias da eternidade" (Miquéias 5:2).   
+b) Cristo teve um princípio, Ele foi gerado de Deus antes que o mundo existisse. As suas origens são desde "os dias da eternidade" **(Miquéias 5:2).**{class=livro}   
 c) Cristo nasceu em Belém.   
 
 **Depois de dizer que o único Deus é o Pai, o que é dito que Jesus é?**{class=questao} **I Coríntios 8:6**{class=livroQ}  
@@ -1621,7 +1621,7 @@ c) Cristo nasceu em Belém.
 **Assinale a resposta correta:**  
 a) Jesus é Deus também.   
 b) Jesus é Deus e Senhor.   
-c) Jesus Cristo é chamado de Senhor pela Palavra de Deus. O Senhor é aquele que governa a casa (Mateus 24:45-46). Ele é o cabeça da igreja (Efésios 5:22-25).   
+c) Jesus Cristo é chamado de Senhor pela Palavra de Deus. O Senhor é aquele que governa a casa **(Mateus 24:45-46).**{class=livro} Ele é o cabeça da igreja **(Efésios 5:22-25).**{class=livro}   
 
 **Jesus pode ser adorado?**{class=questao} **Hebreus 1:6; João 5:23**{class=livroQ}  
 **E, novamente, ao introduzir o Primogênito no mundo, diz: E todos os anjos de Deus o adorem.**{class=versoQ} **Hebreus 1:6**{class=livroVerso}  
@@ -2925,7 +2925,7 @@ c) Compras de mercado, reparos de roupas, cultivo de hortas e jardins.
 	 O sábado é um dia de "santa convocação", ou seja, é um dia onde o povo de Deus deve se reunir para adorar ao Deus Criador de todas as coisas.
 
 **Que dia Jesus frequentava a igreja (sinagoga)?**{class=questao} **Lucas 4:16,31**{class=livroQ}  
-**Indo para Nazaré, onde fora criado, entrou, num sábado, na sinagoga, segundo o seu costume, e levantou-se para ler." Lucas 4:16 "E desceu a Cafarnaum, cidade da Galiléia, e os ensinava no sábado.**{class=versoQ} **Lucas 4:31**{class=livroVerso}
+**Indo para Nazaré, onde fora criado, entrou, num sábado, na sinagoga, segundo o seu costume, e levantou-se para ler. E desceu a Cafarnaum, cidade da Galiléia, e os ensinava no sábado.**{class=versoQ} **Lucas 4:16,31**{class=livroVerso}
 
 a) Jesus costumava ir à igreja no sábado.   
 b) Jesus costumava ir à igreja aos domingos.   

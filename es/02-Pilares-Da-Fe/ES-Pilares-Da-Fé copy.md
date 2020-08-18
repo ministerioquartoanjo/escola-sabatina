@@ -1,16 +1,16 @@
 ---
-titiritero:
+puppeteer:
     pdf:
-        formato: A4
-        displayHeaderFooter: false
-        margen:
-            superior: .7cm
-            derecha: .7cm
-            abajo: .9cm
-            izquierda: .7cm
+        format: A4
+        displayHeaderFooter: true
+        margin:
+            top: .7cm
+            right: .7cm
+            bottom: .9cm
+            left: .7cm
     imagen:
-        calidad: 100
-        fullPage: verdadero
+        quality: 100
+        fullPage: true
 ---
 ** Lección de la Escuela Bíblica ** {class = titulo_capa}
 

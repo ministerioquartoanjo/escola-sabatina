@@ -1245,12 +1245,12 @@ Cuando entramos al servicio de Cristo, nos convertimos en portadores de la Vida 
 
 **¿Quiénes serán juzgados?**{class=questao} **I Pedro 4:17; II Corintios 5:10**{class=livroQ}  
 **Porque ha llegado el momento de iniciar el juicio en la casa de Dios; ahora, si viene primero por nosotros, ¿cuál será el fin de aquellos que no obedecen el evangelio de Dios?**{class=versoQ} **I Pedro 4:17**{class=livroVerso}  
-**Porque es importante que todos comparezcamos ante el tribunal de Cristo, para que cada uno reciba según el bien o el mal que haya hecho a través del cuerpo.**{class=versoQ} **II Crónicas 5:10**{class=livroVerso}  
+**Porque es importante que todos comparezcamos ante el tribunal de Cristo, para que cada uno reciba según el bien o el mal que haya hecho a través del cuerpo.**{class=versoQ} **II Corintios 5:10**{class=livroVerso}  
 
 **Marque la respuesta correcta:**  
 a) El pueblo de Israel.   
 b) Todos los habitantes de la Tierra.   
-c) Los que aceptaron a Jesucristo.   
+c) Los colaboradores de Jesucristo.   
 
 !!!note ""
 	 En este tribunal se analizarán los casos de todos los que entraron al servicio de Cristo.

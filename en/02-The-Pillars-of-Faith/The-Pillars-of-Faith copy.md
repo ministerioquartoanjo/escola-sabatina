@@ -1245,12 +1245,12 @@ When we enter into the service of Christ, we become carriers of Eternal Life and
 
 ** Who will be judged? ** {class = question} ** I Peter 4:17; II Corinthians 5:10 ** {class = bookQ}  
 ** Because the time to start judgment at the house of God has come; now, if it comes for us first, what will be the end of those who do not obey the gospel of God? ** {class = versoQ} ** I Peter 4:17 ** {class = bookVerse}  
-** Because it is important that we all appear before the judgment seat of Christ, so that each one may receive according to the good or evil he has done through the body. ** {class = versoQ} ** II Chronicles 5:10 ** { class = bookVerse}  
+** Because it is important that we all appear before the judgment seat of Christ, so that each one may receive according to the good or evil he has done through the body. ** {class = versoQ} ** II Corinthians 5:10 ** { class = bookVerse}  
 
 ** Tick the correct answer: **  
 a) The people of Israel.   
 b) All the inhabitants of the Earth.   
-c) Those who accepted Jesus Christ.   
+c) The co-workers of Jesus Christ..   
 
 !!! note ""
 	 In this court, the cases of all those who entered the service of Christ will be analyzed.

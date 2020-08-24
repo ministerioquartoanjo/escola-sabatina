@@ -1,6 +1,6 @@
 FILE="$1"
-FILE="02-Pilares-Da-Fe/ES-Pilares-Da-Fé.md"
-cp -f "02-Pilares-Da-Fe/ES-Pilares-Da-Fé copy.md" $FILE
+FILE="02-Los-pilares-de-la-fe/Los-pilares-de-la-fe.md"
+cp -f "02-Los-pilares-de-la-fe/Los-pilares-de-la-fe copy.md" $FILE
 
 # Generico
 CLASS="clase|class"

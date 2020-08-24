@@ -1245,12 +1245,12 @@ Quando entramos para o serviço de Cristo, passamos a ser portadores da Vida Ete
 
 **Quem será julgado?**{class=questao} **I Pedro 4:17; II Coríntios 5:10**{class=livroQ}  
 **Porque a ocasião de começar o juízo pela casa de Deus é chegada; ora, se primeiro vem por nós, qual será o fim daqueles que não obedecem ao evangelho de Deus?**{class=versoQ} **I Pedro 4:17**{class=livroVerso}  
-**Porque importa que todos nós compareçamos perante o tribunal de Cristo, para que cada um receba segundo o bem ou o mal que tiver feito por meio do corpo.**{class=versoQ} **II Crônicas 5:10**{class=livroVerso}  
+**Porque importa que todos nós compareçamos perante o tribunal de Cristo, para que cada um receba segundo o bem ou o mal que tiver feito por meio do corpo.**{class=versoQ} **II Coríntios 5:10**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
 a) O povo de Israel.   
 b) Todos os habitantes da Terra.   
-c) Os que aceitaram a Jesus Cristo.   
+c) Os cooperadores de Jesus Cristo.   
 
 !!!note ""
 	 Neste tribunal, os casos de todos aqueles que entraram para o serviço de Cristo serão analisados.
@@ -1375,7 +1375,7 @@ a) A classe dos que dizem: Senhor, Senhor.
 b) A classe dos que fazem a vontade de Deus.   
 c) A classe que crê e não obedece.   
 
-Desde que o juízo começou, `em 1844`, os casos dos que morreram estão a passar diante de Deus. Em 2001, os vivos começaram a ser julgados, Jesus declara que os que estão sendo santificados deverão continuar a ser santificados quando Ele terminar Sua obra de Julgar. Portanto precisamos do poder de Jesus em nossas vidas para lutar e vencer toda falta de caráter a fim de estarmos limpos, diante dEle, na Sua vinda. A Bíblia diz que Jesus vem buscar uma igreja pura, pronta, perfeita e adornada para o Seu esposo o qual é Cristo. Os que fazem parte deste grupo seguem o Cordeiro por onde quer que Ele vai. Foram comprados como primícias para Deus e para o Cordeiro. E na sua boca não se achou engano; porque são irrepreensíveis diante do trono de Deus. ¡Amén!
+Desde que o juízo começou, `em 1844`, os casos dos que morreram estão a passar diante de Deus. Em 2001, os vivos começaram a ser julgados, Jesus declara que os que estão sendo santificados deverão continuar a ser santificados quando Ele terminar Sua obra de Julgar. Portanto precisamos do poder de Jesus em nossas vidas para lutar e vencer toda falta de caráter a fim de estarmos limpos, diante dEle, na Sua vinda. A Bíblia diz que Jesus vem buscar uma igreja pura, pronta, perfeita e adornada para o Seu esposo o qual é Cristo. Os que fazem parte deste grupo seguem o Cordeiro por onde quer que Ele vai. Foram comprados como primícias para Deus e para o Cordeiro. E na sua boca não se achou engano; porque são irrepreensíveis diante do trono de Deus. Amén!
 
 !!!example ""
 	Desejo ardentemente preparar-me para o Juízo.

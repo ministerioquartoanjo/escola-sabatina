@@ -18,14 +18,15 @@ puppeteer:
 
 **The Pillars of Faith**{class=titulo_capa}
 
-<div class='page'> &nbsp; </div>
+<div class = 'page'> & nbsp; </div>
 
-[[TOC]]
+[[OCD]]
 
+**Biblical citations:**ARA: Almeida Revised and Updated, ARC: Almeida Revised and Corrected
+ 
+**Version:**...00817
 
-**Version:** 20200817
-
-# Introduction
+#Introduction
 
 The church is the place where members of the body of Christ are to be loved, preserved from false doctrines or teachings; it must also strengthen them in faith and word, growing in the knowledge of the Bible as the truth and the source of spiritual knowledge.
 
@@ -1244,12 +1245,12 @@ When we enter into the service of Christ, we become carriers of Eternal Life and
 
 **Who will be judged?**{class=questao} **I Peter 4:17; II Corinthians 5:10**{class=livroQ}  
 **Because the time to start judgment at the house of God has come; now, if it comes for us first, what will be the end of those who do not obey the gospel of God?**{class=versoQ} **I Peter 4:17**{class=livroVerso}  
-**Because it is important that we all appear before the judgment seat of Christ, so that each one may receive according to the good or evil he has done through the body.**{class=versoQ} **II Chronicles 5:10**{class=livroVerso}  
+**Because it is important that we all appear before the judgment seat of Christ, so that each one may receive according to the good or evil he has done through the body.**{class=versoQ} **II Corinthians 5:10**{class=livroVerso}  
 
 **Tick the correct answer:**  
 a) The people of Israel.   
 b) All the inhabitants of the Earth.   
-c) Those who accepted Jesus Christ.   
+c) The co-workers of Jesus Christ..   
 
 !!!note ""
 	 In this court, the cases of all those who entered the service of Christ will be analyzed.

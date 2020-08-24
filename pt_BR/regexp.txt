@@ -16,3 +16,7 @@
 (\*\*Nota:\*\*)(.*)
 
 !!!note Nota $1\n\t$2
+
+
+
+(<\s*span class='livro'[^>]*>(.*?)<\s*/\s*span>)

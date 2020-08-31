@@ -52,7 +52,7 @@ Ministério Quarto Anjo- Advertência Final
 
 # (1) O Evangelho em Símbolos
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     **E me farão um santuário, para que eu possa habitar no meio deles.**{class=verso} **Êxodo 25:8**{class=livro}
 
 ## Domingo
@@ -128,15 +128,17 @@ c) Sete pilares ou colunas.
 
 A Palavra de Deus nos mostra que a casa de Deus, que somos nós (Sua igreja), possui sete colunas (ou pilares). Nos próximos estudos veremos com mais detalhes cada um dos pilares de nossa fé, que são:
 
-```
-I - O TEMPLO DE DEUS NO CÉU
-II - A PURIFICAÇÃO DO SANTUÁRIO
-III - AS TRÊS MENSAGENS ANGÉLICAS
-IV - OS MANDAMENTOS DE DEUS E A FÉ DE JESUS
-V - A LEI DE DEUS
-VI - O SÁBADO
-VII - A MORTALIDADE DA ALMA
-```
+
+| #| Pilares |
+|-|-|
+| I 	| O TEMPLO DE DEUS NO CÉU|
+| II 	| A PURIFICAÇÃO DO SANTUÁRIO|
+| III | AS TRÊS MENSAGENS ANGÉLICAS|
+| IV 	| OS MANDAMENTOS DE DEUS E A FÉ DE JESUS|
+| V 	| A LEI DE DEUS|
+| VI 	| O SÁBADO|
+| VII | A MORTALIDADE DA ALMA|
+
 
 ## Quarta-Feira
 
@@ -581,7 +583,7 @@ c) Porque Jesus sempre nos aceita.
 
 # (3) A Purificação do Santuário
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Mas, no segundo, o sumo sacerdote, ele sozinho, uma vez por ano, não sem sangue, que ele oferece por si e pelos pecados de ignorância do povo. **Hebreus 9:7**{class=livro}
 
 ## Domingo
@@ -837,7 +839,7 @@ Toda esta cerimônia tinha por fim impressionar os israelitas com a santidade de
 
 # (4) A Profecia das 2300 tardes e manhãs
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado. **Daniel 8:14**{class=livro}
 
 ## Domingo
@@ -1134,7 +1136,7 @@ Conquanto a oferta pelo pecado apontasse para Cristo como sacrifício, e o sumo 
 
 # (5) O Juízo Investigativo
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Continuei olhando, até que foram postos uns tronos, e o Ancião de Dias Se assentou; Sua veste era branca como a neve, e os cabelos da cabeça, como a pura lã; o Seu trono eram chamas de fogo, e suas rodas eram fogo ardente. Um rio de fogo manava e saía de diante dEle; milhares de milhares O serviam, miríades de miríades estavam diante dEle; assentou-se o tribunal, e se abriram os livros. **Daniel 7:9,10**{class=livro}
 
 ## Domingo
@@ -1385,7 +1387,7 @@ Desde que o juízo começou, `em 1844`, os casos dos que morreram estão a passa
 
 # (6) A Primeira Mensagem Angélica
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     dizendo em grande voz: Temei a Deus e dai-lhe glória, pois é chegada a hora do Seu juízo; e adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas. **Apocalipse 14:7**{class=livro}
 
 ## Domingo
@@ -1501,7 +1503,7 @@ a) Deus, o soberano do universo, é Criador de tudo.
 b) O mundo não foi criado, mas surgiu de uma grande explosão, o Big Bem.  
 c) Os anjos criaram todas as coisas.  
 
-Veja também: **Gênesis 2:1-3; Éxodo 20: 10.11; Salmos 95:3-6.**{class=livro}
+Veja também: **Gênesis 2:1-3; Êxodo 20: 10.11; Salmos 95:3-6.**{class=livro}
 
 **Quantos deuses existem?**{class=questao} **I Coríntios 8:5,6**{class=livroQ}  
 **Porque, ainda que há também alguns que se chamem deuses, quer no céu ou sobre a terra, como há muitos deuses e muitos senhores, todavia, para nós há um só Deus, o Pai, de quem são todas as coisas e para quem existimos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós também, por ele.**{class=versoQ} **I Coríntios 8:5,6**{class=livroVerso}  
@@ -1739,7 +1741,7 @@ c) ( ) Jesus e Deus e o Espírito Santo são todos o mesmo e único Deus.
 
 # (7) A Mensagem do Segundo Anjo
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Seguiu-se outro anjo, o segundo, dizendo: Caiu, caiu a grande Babilônia que tem dado a beber a todas as nações do vinho da ira da sua prostituição. **Apocalipse 14:6,7**{class=livro}
 
 ## Domingo
@@ -2046,7 +2048,7 @@ c) Vamos para uma festa de casamento!
 
 # (8) A Mensagem do Terceiro Anjo
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Seguiu-se a estes outro anjo, o terceiro, dizendo, em grande voz: Se alguém adorar a besta e a sua imagem e recebe a sua marca na fronte ou sobre a mão... **Apocalipse 14:9-12**{class=livro}
 
 ## Domingo
@@ -2319,7 +2321,7 @@ c) Os vencedores da Copa do Mundo.
 
 # (9) Os Mandamentos de Deus e a fé de Jesus
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé de Jesus. **Apocalipse 14:12**{class=livro}
 
 ## Domingo
@@ -2674,7 +2676,7 @@ c) O mais importante é obedecer aos pastores.
 
 # (10) Sábado - O dia do Senhor
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Tu, pois, fala aos filhos de Israel, dizendo: Certamente guardareis meus sábados; porquanto isso é um sinal entre mim e vós nas vossas gerações; para que saibais que eu sou o SENHOR, que vos santifica **Êxodo 31:13**{class=livro}
 
 ## Domingo
@@ -3017,7 +3019,7 @@ c) O sábado era só para os judeus.
 
 # (11) Selo de Deus x Marca da Besta - O Sinal da Apostasia
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Se alguém adora a besta e a sua imagem e recebe a sua marca na fronte ou sobre a mão, também esse beberá do vinho da cólera de Deus, preparado, sem mistura, do cálice da sua ira. **Apocalipse 14:9,10**{class=livro}
 
 ## Domingo
@@ -3322,7 +3324,7 @@ a) Sim     b) Não   c) Não sei.
 
 # (12) A Mortalidade da Alma
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Sabei que aquele que converte o pecador do caminho errado salvará da morte a alma dele e cobrirá multidão de pecados. **Tiago 5:20**{class=livro}
 
 ## Domingo
@@ -3556,7 +3558,7 @@ Assim o príncipe dos demônios reveste com seus próprios atributos ao Criador 
 
 # (13) Espiritismo ou Espiritualismo
 
-!!!quote Verso Áreo
+!!!quote Verso Áureo
     Quando vos disserem: consultai os necromantes e os advinhos, que chilreiam e murmuram, acaso, não consultará o povo ao seu Deus? Em favor dos vivos se consultarão os mortos? **Isaías 8:19**{class=livro}
 
 ## Domingo

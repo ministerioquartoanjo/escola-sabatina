@@ -24,7 +24,7 @@ puppeteer:
 
 **Citações bíblicas:** ARA: Almeida Revista e Atualizada, ARC: Almeida Revista e Corrigida
  
-**Versão:** 20200828
+**Versão:** 20200904
 
 # Introdução
 
@@ -1750,7 +1750,7 @@ Um anjo seguiu o primeiro que enviava uma mensagem para todos os habitantes da T
 
 Vários pontos importantes foram vistos e que precisamos tê-los em mente: O juízo no Céu está em curso, e precisamos nos preparar para ele, pois todos nós, que aceitamos a Jesus como nosso Salvador e Senhor, seremos julgados; Deus espera que reconheçamos que Ele é o único Deus verdadeiro, digno de adoração e nenhum outro mais. 
 
-Cuando miramos al mundo cristiano de hoy, nos enfrentamos a la creencia y aceptación de muchas doctrinas que no encuentran apoyo bíblico para su aceptación y enseñanza. E incluso los protestantes que al principio defendían la pureza de las doctrinas bíblicas, hoy rechazan muchas doctrinas fundamentales defendidas por la Biblia. En este estudio de la Biblia estudiaremos algunos de ellos y la forma en que el Cielo, Dios y Su hijo Jesús son deshonrados por esta confusión.
+Quando observamos o mundo cristão hoje nos deparamos com a crença e aceitação de muitas doutrinas que não encontram nenhum apoio bíblico para sua aceitação e ensino. E mesmo os protestantes que a principio defendiam a pureza das doutrinas bíblicas, hoje rejeitam muitas doutrinas fundamentais defendidas pela Bíblia. No estudo desta verdade da Bíblia vamos estudar algumas delas e a forma como o Céu, Deus e Seu filho Jesus são desonrados com esta confusão.
 
 **O que diz a mensagem do segundo anjo?**{class=questao} **Apocalipse 14:8; Isaías 21:9**{class=livroQ}  
 **Seguiu-se outro anjo, o segundo, dizendo: Caiu, caiu a grande Babilônia que tem dado a beber a todas as nações do vinho da fúria da sua prostituição.**{class=versoQ} **Apocalipse 14:8**{class=livroVerso}  
@@ -1765,7 +1765,7 @@ c) A mensagem do segundo anjo pede para que fiquemos longe das prostituições.
 	 A mensagem do segundo anjo aponta a queda de Babilônia.
 
 **Quem é a Babilônia moderna ou também chamada Babilônia mãe?**{class=questao} **Apocalipse 17:4,5**{class=livroQ}  
-** Y la mujer estaba vestida de púrpura y escarlata, y adornada con oro, piedras preciosas y perlas; y en su mano tenía una copa de oro llena de abominaciones y la inmundicia de su fornicación; E na sua testa estava escrito o nome: Mistério, a grande babilônia, a mãe das prostituições e abominações da terra.**{class=versoQ} **Apocalipse 17:4,5**{class=livroVerso}
+**Achava-se a mulher vestida de púrpura e de escarlata, adornada de ouro, de pedras preciosas e de pérolas, tendo na mão um cálice de ouro transbordante de abominações e com as imundícias da sua prostituição. Na sua fronte, achava-se escrito um nome, um mistério: Babilônia, a grande, a mãe das meretrizes e das abominações da terra.**{class=versoQ} **Apocalipse 17:4,5**{class=livroVerso}
 
 **Assinale a resposta correta:**  
 a) A Babilônia moderna é apresentada como sendo uma mulher que se prostitui e que é mãe de outras mulheres prostitutas.  
@@ -2131,6 +2131,7 @@ c) Não sei.
 
 !!!note ""
 	 Animal na Bíblia significa *"reino"* ou *"rei"* **(Daniel 7:17,23).**{class=livro} A mulher (Igreja Católica) está montada neste reino, ou seja, governa sobre ele. O reino sobre o qual a Igreja Católica governa é o Vaticano. No Apocalipse encontramos algumas características que nos permitem identificá-la. Se ela é adorada, é um poder religioso. Foi lhe permitido fazer guerra aos santos, e, vencê-los **(Apocalipse 13:5).**{class=livro} Daí entendemos que é um poder perseguidor dos santos de Deus. E deu-se-lhe autoridade sobre toda a tribo, e povo, e língua e nação. **Apocalipse 13:7**{class=livro}. A besta tinha autoridade sobre reis. Apenas um poder cumpre todas as características aqui descritas; o papado medieval. Foi um poder religioso que perseguia e matava os santos, aos quais chamava *"hereges"*, e tinha autoridade sobre reis. O papa tem em sua tiara a inscrição: `VICARIVS FILII DEI`, que significa Vigário, ou substituto do Filho de Deus. Diz ser o representante divino na terra. Mas manda matar os que não aceitam suas doutrinas. Não foi assim que Cristo procedeu; pelo contrario Ele deu a vida pelos que o rejeitaram.
+
 A mensagem do terceiro anjo mostra que a parte dos que adorarem a besta ou se associarem a ela será sofrerem a ira de Deus e serem destruídos no lago de fogo, preparado para o diabo e seus anjos. A besta vai a perdição. A mensagem do terceiro anjo dá um aviso a todos os sinceros para que não sigam e não partilhem da sua sorte. Ela nos dá a oportunidade de mudarmos de caminho. E assim, podemos romper toda e qualquer ligação com ela e salvar nossa alma.
 
 **Que dizem as pessoas que adoram a besta, cujos nomes não estão escritos no livro da vida?**{class=questao} **Apocalipse 13:4**{class=livroQ}  
@@ -2162,10 +2163,10 @@ A mensagem adverte quanto a adorar a besta e também a sua imagem. A imagem não
 A imagem da besta não é ela mesma, mas uma cópia dela. Deve, portanto representar a união do poder religioso com o civil, para perseguir e matar os santos. Não é difícil perceber quem a imagem da besta representa. Da mesma forma que a igreja católica no passado fazia acordos com os governantes para obter vantagens, hoje vemos as igrejas protestantes e evangélicas agirem da mesma forma. Por meio do movimento ecumênico, católicos e protestantes estão unindo-se em um só corpo, buscando atingir os mesmos objetivos. 
 
 Como a imagem da besta é uma cópia fiel da união igreja/estado que caracterizou o papado no passado, ela é hoje a união das igrejas protestantes e evangélicas com o estado.
-''
+```
 Besta = união da igreja papal com os governos da Terra. 
 Imagem da besta = união das igrejas protestantes com os governos de Terra.
-''
+```
 
 **A mensagem do terceiro anjo também adverte quanto a adoração de que?**{class=questao} **Apocalipse 14:9**{class=livroQ}  
 **E seguiu-os o terceiro anjo, dizendo com grande voz: Se alguém adorar a besta, e a sua imagem, e receber o sinal na sua testa, ou na sua mão.**{class=versoQ} **Apocalipse 14:9**{class=livroVerso}  

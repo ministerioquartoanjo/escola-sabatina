@@ -24,7 +24,7 @@ puppeteer:
 
 **Citações bíblicas:** ARA: Almeida Revista e Atualizada, ARC: Almeida Revista e Corrigida
  
-**Versão:** 20200904
+**Versão:** 20200918
 
 # Introdução
 
@@ -57,21 +57,20 @@ Ministério Quarto Anjo- Advertência Final
 
 ## Domingo
 
-Deus deseja que Seu povo, que estiver vivo no momento final da história deste mundo conheça as verdades especiais ou fundamentais que os ajudará a conhecer o tempo e os acontecimentos que os cercam e sua relação com os propósitos de Deus.
+Deus deseja que Seu povo conheça as verdades especiais ou fundamentais, antes do final da história deste mundo, que os ajudará a conhecer o tempo e os acontecimentos que os cercam e sua relação com os propósitos de Deus.
 
-O conhecimento da verdade e a aplicação destas verdades em nossa vida nos farão testemunhas vivas a pregar e proclamar a última advertência; a ADVERTÊNCIA FINAL aos habitantes da Terra a fim de que façam sua decisão ao lado de Deus ou ao lado do inimigo de Deus e das almas por quem Jesus morreu.
+O conhecimento da verdade e a aplicação destas verdades em nossa vida nos farão testemunhas vivas a pregar e proclamar a última advertência; a ADVERTÊNCIA FINAL aos habitantes da terra a fim de que façam sua decisão ao lado de Deus ou ao lado do inimigo de Deus e das almas por quem Jesus morreu.
 
-Há quase dois mil anos atrás, quando Cristo andava entre os homens, alguns o aceitaram como o profeta e o messias que havia de vir; outros O viram como um novo mestre entre eles; ainda outros como um homem bom. Porém alguns ao saberem de Jesus não se contentaram com o que diziam sobre Ele e nem com Seus ensinamentos públicos, mas quiseram e sentiram necessidade de mais tempo com Ele à sós; reconheceram-nO como Salvador e Senhor e por isso queriam saber onde Ele morava. Ficaram com Ele em Sua casa. **João 1:35-39.**{class=livro}
+Há quase dois mil anos atrás, Cristo andava entre os homens, alguns o aceitaram como o profeta e ou como messias que havia de vir; outros O viram apenas como um novo mestre entre eles; ainda outros cocmo um homem bom. Porém alguns ao saberem de Jesus não se contentaram com o que diziam sobre Ele e nem com Seus ensinamentos públicos, mas quiseram e sentiram necessidade de mais tempo com Ele à sós; reconheceram-nO como Salvador e Senhor e por isso queriam saber onde Ele morava. Ficaram com Ele em Sua casa. **João 1:35-39.**{class=livro}
 
-Ainda quando Jesus ensinava as multidões; depois em particular, alguns de forma mais íntima perguntavam e tinham maior entendimento, estes eram conhecidos como os doze apóstolos e mesmo entre os apóstolos existia um grupo menor que acompanhava Jesus em situações especiais. Por fim, a Bíblia fala do discípulo amado João, que dos doze foi o mais chegado do Mestre. A este João foi dado conhecer de forma especial sobre o Salvador, como podemos ver no evangelho que ele escreveu, como nas suas cartas repletas de amor pelos irmãos. Também a João foi dado o Apocalipse, a revelação das coisas que em breve deveriam acontecer.
+Depois que Jesus ensinava as multidões; posteriormente em particular, alguns de forma mais íntima perguntavam mais detalhes para terem maior entendimento, estes eram conhecidos como os doze apóstolos e mesmo entre os apóstolos existia um grupo menor que acompanhava Jesus em situações especiais. Por fim, a Bíblia fala do discípulo amado João, que dos doze foi o mais chegado do Mestre. A este João foi dado conhecer de forma especial sobre o Salvador, como podemos ver no evangelho que ele escreveu, como nas suas cartas repletas de amor pelos irmãos. Também a João foi dado o Apocalipse, a revelação das coisas que em breve deveriam acontecer.
 
 Como povo, devemos conhecer as verdades para o tempo do fim, mas como indivíduos podemos manter um relacionamento mais íntimo com Jesus a fim de revelar ao mundo o poder de Deus que se manifesta por Cristo vivendo em nós.
 
-**1) Como será o povo peculiar de Deus na Terra pouco antes da volta de Jesus?**{class=questao} **Apocalipse 14:1,4,5**{class=livroQ}  
+**1) Como será o povo peculiar de Deus na terra pouco antes da volta de Jesus?**{class=questao} **Apocalipse 14:1,4,5**{class=livroQ}  
 **Olhei, e eis o Cordeiro em pé sobre o monte Sião, e com ele cento e quarenta e quatro mil, tendo na fronte escrito o seu nome e o nome de seu Pai. São estes os que não se contaminaram com mulheres, porque são castos. São eles os que seguem o Cordeiro por onde quer que vá. São os que foram redimidos dentre os homens, primícias para Deus e para o Cordeiro; e não se achou engano na sua boca; não têm mácula.**{class=versoQ} **Apocalipse 14:1,4,5**{class=livroVerso}
 
-**Marque as afirmações com V quando verdadeiras e F quando falsas.**
-
+**Marque as afirmações com V quando verdadeiras e F quando falsas.**  
 a) ( ) O povo de Deus que viverá nos últimos dias será um povo santo, ou seja, separado da corrupção do mundo.  
 b) ( ) Serão testemunhas vivas do poder transformador de Deus.  
 c) ( ) Não terão nenhuma doutrina ou ensinamento diferente daqueles da Bíblia.  
@@ -79,7 +78,7 @@ d) ( ) Serão extremamente estranhos e diferentes de Jesus.
 
 ## Segunda-Feira
 
-Vimos no livro de Apocalipse que o povo de Deus neste tempo em que vivemos, que a Bíblia denomina tempo do fim, não se contaminaram com "mulheres" porque são castos e seguem o Cordeiro por onde quer que vá.
+Vimos no livro de Apocalipse que o povo de Deus (neste tempo em que vivemos), em que a Bíblia denomina tempo do fim, não se contaminaram com "mulheres" porque são castos e seguem o Cordeiro por onde quer que vá.
 
 **2) O que representa o símbolo *"mulher"* na profecia?**{class=questao} **Efésios 5:22-25**{class=livroQ}  
 **As mulheres sejam submissas ao seu próprio marido, como ao Senhor; porque o marido é o cabeça da mulher, como também Cristo é o cabeça da igreja, sendo este mesmo o salvador do corpo... Maridos, amai vossa mulher, como também Cristo amou a igreja e a si mesmo se entregou por ela.**{class=versoQ} **Efésios 5:22-25**{class=livroVerso}
@@ -101,7 +100,7 @@ b) Nós somos a casa de Cristo, se o Espírito de Deus habita em nós.
 c) A casa de Cristo está no céu com os anjos.  
 
 !!!note ""
-	Devemos considerar a Jesus Cristo, apóstolo e sumo sacerdote da nossa confissão, como, sendo fiel a Deus, que O constituiu sobre Sua casa ou Sua igreja. Porque toda casa é edificada por alguém, mas o que edificou todas as coisas é Deus.
+	Devemos considerar a Jesus Cristo, apóstolo e sumo sacerdote da nossa confissão, como, sendo fiel a Deus, que O constituiu sobre Sua casa ou Sua igreja. Porque toda casa é edificada por alguém, mas o que edificou todas as coisas é Deus. Veja **Hebreus 3:4**{class=livro}
 
 ## Terça-Feira
 
@@ -114,9 +113,9 @@ b) Cristo é chamado de sabedoria de Deus.
 c) Cristo é chamado de casa.  
 
 !!!note ""
-	Cristo quer que nossa mente seja sua casa, onde Ele deseja morar. Vemos em Apocalipse a figura de Jesus estando à porta de nosso coração solicitando permissão para entrar. **Eis que estou a porta e bato, se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e com ele cearei com ele e ele comigo.**{class=verso} **Apocalipse 3:20**{class=livro}
+	Cristo quer que nossa mente seja sua casa, onde Ele deseja morar. Vemos em Apocalipse a figura de Jesus estando à porta de nosso coração solicitando permissão para entrar. **"Eis que estou a porta e bato, se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e com ele cearei com ele e ele comigo."**{class=verso} **Apocalipse 3:20**{class=livro}
 
-Toda a casa possui pilares que a sustentam.
+Toda casa possui pilares que a sustentam.
 
 **5) Quantos são os pilares da casa ou igreja de Deus?**{class=questao} **Provérbios 9:1**{class=livroQ}  
 **A Sabedoria edificou a sua casa, lavrou as suas sete colunas.**{class=versoQ} **Provérbios 9:1**{class=livroVerso}
@@ -129,7 +128,7 @@ c) Sete pilares ou colunas.
 A Palavra de Deus nos mostra que a casa de Deus, que somos nós (Sua igreja), possui sete colunas (ou pilares). Nos próximos estudos veremos com mais detalhes cada um dos pilares de nossa fé, que são:
 
 
-| #   | Pilares                                |
+|     | Pilares                                |
 | --- | -------------------------------------- |
 | I   | O TEMPLO DE DEUS NO CÉU                |
 | II  | A PURIFICAÇÃO DO SANTUÁRIO             |
@@ -144,30 +143,30 @@ A Palavra de Deus nos mostra que a casa de Deus, que somos nós (Sua igreja), po
 
 **O Santuário - O Evangelho em símbolos**
 
-Os israelitas eram o povo de Deus ao sair do Egito. Eles estiveram ali como escravos por quatrocentos e trinta anos e tinham perdido muito do conhecimento do Deus que nos criou. Como escravos não tinham como adorar e servir ao Seu Deus e, agora ao saírem pelo poder manifestado pelo Grande Deus, eles deveriam aprender ou reaprender muito da adoração, gratidão e louvor ao único Deus verdadeiro. Era propósito de Deus ser revelado a todos os povos através do amor, misericórdia, bondade e conhecimento de Si mesmo manifestado ao povo de Israel. Foi comunicada a Moisés, enquanto se achava no monte com Deus, uma ordem...
+Os israelitas eram o povo de Deus ao sair do Egito. Eles estiveram ali como escravos por quatrocentos e trinta anos e tinham perdido muito do conhecimento do Deus que nos criou. Como escravos não tinham como adorar e servir ao Seu Deus e, agora ao saírem pelo poder manifestado pelo grande Deus, eles deveriam aprender ou reaprender muito da adoração, gratidão e louvor ao único Deus verdadeiro. Era propósito de Deus ser revelado a todos os povos através do amor, misericórdia, bondade e conhecimento de Si mesmo manifestado ao povo de Israel. Foi comunicada a Moisés, enquanto se achava no monte com Deus, uma ordem...
 
-**6) O que ordenou Deus ao povo de Israel, por intermédio de Moisés?**{class=questao} **Êxodo 25:8,9,40**{class=livroQ}  
+**6) O que Deus ordenou ao povo de Israel, por intermédio de Moisés?**{class=questao} **Êxodo 25:8,9,40**{class=livroQ}  
 **E me farão um santuário, para que eu possa habitar no meio deles. Segundo tudo o que eu te mostrar para modelo do tabernáculo e para modelo de todos os seus móveis, assim mesmo o fareis. Vê, pois, que tudo faça segundo o modelo que te foi mostrado no monte.**{class=versoQ} **Êxodo 25:8,9,40**{class=livroVerso}
 
 **Assinale a resposta correta:**  
 a) Deus ordenou a Moisés que fizesse uma grande festa.  
-b) Deus ordenou a Moisés que fizesse um lugar para Sua habitação. Mostrou a Moisés o modelo - o santuário do céu para que fizesse uma cópia dele aqui na Terra.  
+b) Deus ordenou a Moisés que fizesse um lugar para Sua habitação. Mostrou a Moisés o modelo - o santuário do céu para que fizesse uma cópia dele aqui na terra.  
 c) Deus ordenou que o povo fosse à igreja, pois ali e só ali Ele estaria com Seu povo.  
 
 !!!note ""
-	Em virtude de sua apostasia, os israelitas ficaram despojados da bênção da presença divina, e por algum tempo impossibilitaram a ereção de um santuário para Deus, entre eles. Mas, depois de novamente haverem sido recebidos no favor do Céu, o grande chefe procedeu à execução da ordem divina. O santuário era uma tenda desmontável composta de diversas coberturas. Continha um pátio e uma tenda propriamente dita com dois compartimentos: o lugar santo e o lugar santíssimo os quais eram separados por um véu. Cada compartimento tinha móveis específicos a fim de ensinar sobre a obra da redenção e salvação de Cristo por nós.
+	Em virtude de sua apostasia, os israelitas ficaram despojados da bênção da presença divina, e por algum tempo impossibilitaram a edificação de um santuário para Deus, entre eles. Mas, depois de novamente haverem sido recebidos no favor do Céu, o grande chefe procedeu à execução da ordem divina. O santuário era uma tenda desmontável composta de diversas coberturas. Continha um pátio e uma tenda propriamente dita com dois compartimentos: o lugar santo e o lugar santíssimo os quais eram separados por um véu. Cada compartimento tinha móveis específicos a fim de ensinar sobre a obra da redenção e salvação de Cristo por nós.
 
-**7) Como e onde se encontram o modelo, mostrado a Moisés no monte para que ele fizesse igual?**{class=questao} **Hebreus 9:24**{class=livroQ}  
+**7) Aonde está o modelo, mostrado a Moisés no monte para que ele fizesse igual?**{class=questao} **Hebreus 9:24**{class=livroQ}  
 **Porque Cristo não entrou num santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para agora comparecer por nós, perante a face de Deus.**{class=versoQ} **Hebreus 9:24**{class=livroVerso}
 
 **Assinale a resposta correta:**  
 a) O verdadeiro santuário foi feito por mãos humanas e se encontra em Jerusalém.  
 b) A cópia do santuário não foi feita por mãos humanas e se encontra no Egito.  
-c) O verdadeiro santuário se encontra no céu e não foi feito por mãos humanas.  
+c) O verdadeiro santuário está no céu e não foi feito por mãos humanas.  
 
 ## Quinta-Feira
 
-**8) O que era oferecido no Santuário?**{class=questao} **Hebreus 9:9**{class=livroQ}  
+**8) O que era oferecido no santuário?**{class=questao} **Hebreus 9:9**{class=livroQ}  
 **É isto uma parábola para a época presente; e, segundo esta, se oferecem tanto dons como sacrifícios, embora estes, no tocante à consciência, sejam ineficazes para aperfeiçoar aquele que presta culto.**{class=versoQ} **Hebreus 9:9**{class=livroVerso}
 
 **Assinale a resposta correta:**  
@@ -188,7 +187,7 @@ c) Muitos bancos para o povo se assentar.
 !!!note ""
 	O altar do holocausto ou sacrifício, que ficava bem próximo a entrado do pátio, representava ou apontava para o grande sacrifício da cruz do calvário onde Jesus, o verdadeiro Cordeiro de Deus morreu em nosso lugar. Ali o pecador arrependido comparecia levando um animal como seu substituto, ou para ocupar o lugar do pecador; orientado pelos sacerdotes do plano da salvação, o pecador colocava sua mão sobre a cabeça da vítima e o matava. Nossos pecados mataram o Filho de Deus. Depois o sacerdote tomava o sangue da vítima e colocava sobre o altar e aspergia no véu. O pecado ficava registrado no santuário e o pecador saia perdoado. A pia ou bacia era onde o sacerdote deveria lavar as mãos e os pés sempre que entrasse nos compartimentos sagrados ou se aproximasse do altar para oferecer uma oferta queimada ao Senhor. Após o sacrifício do animal em seu lugar o pecador era substituído pelo sacerdote que oficiava em seu favor no santuário. Onde o pecador não podia entrar. Ele era lavado e limpo pela água na pia, assim como Cristo nos limpa e purifica pela Palavra aplicada a nossa experiência de vida.
 
-**10) Além do pátio, quantas partes havia neste santuário?**{class=questao} **Hebreus 9:2,3**{class=livroQ}  
+**10) Além do pátio, quantas partes haviam neste santuário?**{class=questao} **Hebreus 9:2,3**{class=livroQ}  
 **Com efeito, foi preparado o tabernáculo, cuja parte anterior, onde estavam o candeeiro, e a mesa, e a exposição dos pães, se chama o Santo Lugar; por trás do segundo véu, se encontrava o tabernáculo que se chama o Santo dos Santos**{class=versoQ} **Hebreus 9:2,3**{class=livroVerso}
 
 **Assinale a resposta correta:**  
@@ -212,13 +211,13 @@ c) Mesa de pães, castiçal, e diante do véu o altar de ouro.
 
 Os três móveis que estavam no Lugar Santo, como vimos eram:
 
-a) O Candeeiro ou Castiçal que servia para iluminação do Santuário, assim como Cristo é a Luz do mundo; os cristãos são chamados para serem luz, serem como Jesus neste mundo atraindo as pessoas para Cristo.  
-b) Mesa dos pães da proposição que apontam para Jesus, o verdadeiro Pão do céu que nos alimenta e nos dá vida eterna; nos livrando do pecado.  
-c) Altar de incenso que aponta para Cristo Jesus, o único mediador entre Deus e o pecador. Este móvel estava mais próximo da Arca da aliança e isto para nos lembrar que através da oração nos aproximamos mais de Deus. Precisamente, diante do véu que separava o lugar santo do santíssimo e da presença imediata de Deus, achava-se o áureo altar de incenso. Sobre este altar o sacerdote devia queimar incenso todas as manhãs e toda as tardes; suas pontas eram tocadas com o sangue da oferta para o pecado, e era aspergido com sangue no grande dia de expiação. O fogo neste altar fora aceso pelo próprio Deus, e conservado de maneira sagrada. A fragrância do incenso santo era difundida pelos compartimentos do santuário e ainda ao seu exterior ao longe se podia sentir sua suave fragrância.
+a) O **Candeeiro ou Castiçal** que servia para iluminação do santuário, assim como Cristo é a Luz do mundo; os cristãos são chamados para serem luz, serem como Jesus neste mundo atraindo as pessoas para Cristo.  
+b) **Mesa dos pães da proposição** que apontam para Jesus, o verdadeiro Pão do céu que nos alimenta e nos dá vida eterna; nos livrando do pecado.  
+c) **Altar de incenso** que aponta para Cristo Jesus, o único mediador entre Deus e o pecador. Este móvel estava mais próximo da **Arca da aliança** e isto para nos lembrar que através da oração nos aproximamos mais de Deus. Precisamente, diante do véu que separava o lugar santo do santíssimo e da presença imediata de Deus, achava-se o áureo altar de incenso. Sobre este altar o sacerdote devia queimar incenso todas as manhãs e toda as tardes; suas pontas eram tocadas com o sangue da oferta para o pecado, e era aspergido com sangue no grande dia de expiação. O fogo neste altar fora aceso pelo próprio Deus, e conservado de maneira sagrada. A fragrância do incenso santo era difundida pelos compartimentos do santuário e ainda ao seu exterior ao longe se podia sentir sua suave fragrância.
 
 ## Sexta-Feira
 
-Era no santo dos santos ou no santíssimo lugar, além do véu interior que se centralizava o serviço simbólico da expiação e da intercessão, e que formava o elo entre o céu e a Terra.
+Era no santo dos santos ou no santíssimo lugar, além do véu interior que se centralizava o serviço simbólico da expiação e da intercessão, e que formava o elo entre o céu e a terra.
 
 **12) O que havia no lugar santíssimo do santuário?**{class=questao} **Hebreus 9:3-5 e Êxodo 26:33**{class=livroQ}  
 **Mas depois do segundo véu estava o tabernáculo que se chama o santo dos santos.**{class=versoQ} **Hebreus 9:3**{class=livroVerso}  
@@ -230,7 +229,7 @@ b) Uma grande estátua de santo para ser adorado.
 c) A arca que Noé usou no dilúvio.  
 
 **13) O que havia dentro da arca da aliança, sob o propiciatório?**{class=questao} **Deuteronômio 10:4,5**{class=livroQ}  
-**Então escreveu nas tábuas, conforme à primeira escritura, os dez mandamentos, que o SENHOR vos falara no dia da assembleia, no monte, do meio do fogo; e o SENHOR mas deu a mim; E virei-me, e desci do monte, e pus as tábuas na arca que fizera; e ali estão, como o SENHOR me ordenou.**{class=versoQ} **Deuteronômio.10:4,5**{class=livroVerso}
+**Então escreveu nas tábuas, conforme à primeira escritura, os dez mandamentos, que o SENHOR vos falara no dia da assembleia, no monte, do meio do fogo; e o SENHOR as deu a mim; E virei-me, e desci do monte, e pus as tábuas na arca que fizera; e ali estão, como o SENHOR me ordenou.**{class=versoQ} **Deuteronômio.10:4,5**{class=livroVerso}
 
 **Assinale a resposta correta:**  
 a) Muito ouro e prata.  
@@ -239,9 +238,9 @@ c) Não havia nada.
 
 !!!note ""
 	No lugar Santíssimo estava a arca da aliança e dentro dela estava:  
-		1. Uma porção do maná, alimento dado para os Israelitas enquanto estiveram no deserto por quarenta anos (símbolo do alimento divinamente escolhido para nós. **I  Coríntios 10:31**{class=livro}  
-		2. A vara de Arão que floresceu (uma lembrança da murmuração do povo contra Deus). **Números 17:5**{class=livro}  
-		3. Os Dez Mandamentos; a santa lei; a regra do governo de Deus. **Deuteronômio.9:9,10**{class=livro}
+		1. Uma porção do _maná,_ alimento dado para os Israelitas enquanto estiveram no deserto por quarenta anos (símbolo do alimento divinamente escolhido para nós. **I  Coríntios 10:31**{class=livro}  
+		2. A _vara de Arão_ que floresceu (uma lembrança da murmuração do povo contra Deus). **Números 17:5**{class=livro}  
+		3. O _testemunho,_ os _dez mandamentos;_ a santa lei; a regra do governo de Deus. **Deuteronômio.9:9,10**{class=livro}
 
 
 **14) Como se chamava a cobertura da arca da aliança?**{class=questao} **Êxodo 25:21**{class=livroQ}  
@@ -266,7 +265,7 @@ c) Todos os adoradores, quando iam a casa do Senhor.
 !!!note ""
 	Era permitido somente aos sacerdotes entrarem no compartimento *"santo"* do santuário, quando da realização dos serviços sagrados.
 
-**16) Quem somente entrava no Santíssimo e quando?**{class=questao} **Hebreus 9:7**{class=livroQ}  
+**16) Quem podia entrar no lugar Santíssimo e quando?**{class=questao} **Hebreus 9:7**{class=livroQ}  
 **Mas, no segundo, só o sumo sacerdote, uma vez no ano, não sem sangue, que oferecia por si mesmo e pelas culpas do povo;**{class=versoQ} **Hebreus 9:7**{class=livroVerso}
 
 **Assinale a resposta correta:**  
@@ -292,8 +291,7 @@ d) ( ) Às vezes celebravam casamentos ali.
 
 **18) O perdão dos pecados exigia um sacrifício pelo pecado?**{class=questao}
 
-**Assinale a resposta correta:**  
-( ) Sim ( ) Não
+**Assinale a resposta correta:**  ( ) Sim ( ) Não
 
 !!!note ""
 	O pecado era simbolicamente transferido do pecador para o santuário, via sacerdote, simbolizando absolvição. O pecador saía perdoado, enquanto seu pecado ficava registrado até o dia da purificação anual do santuário.
@@ -311,13 +309,13 @@ c) De todos os pecados que o povo tinha cometido e dos que ainda iriam cometer, 
 
 **Para estudar e meditar em família:**
 
-O Santuário referido pelo apóstolo Paulo em Hebreus era aquele construído por Moisés, por ordem de Deus, enquanto os israelitas jornadeavam pelo deserto. Foi construído de maneira que pudesse ser levado de um lugar para outro. Além do pátio exterior, onde estava o altar das ofertas queimadas; o tabernáculo continha dois compartimentos chamados santo e santíssimo; separados por uma rica e bela cortina ou véu idêntico ao que cerrava a entrada ao primeiro compartimento.
+O santuário referido pelo apóstolo Paulo em Hebreus era aquele construído por Moisés, por ordem de Deus, enquanto os israelitas jornadeavam pelo deserto. Foi construído de maneira que pudesse ser levado de um lugar para outro. Além do pátio exterior, onde estava o altar das ofertas queimadas; o tabernáculo continha dois compartimentos chamados santo e santíssimo; separados por uma rica e bela cortina ou véu idêntico ao que cerrava a entrada ao primeiro compartimento.
 
 No lugar santo estava de um lado a mesa com os pães da presença e, do lado sul o castiçal com sete lâmpadas a iluminar o santuário dia e noite; e, diante do véu que separava o lugar santo do lugar santíssimo ficava o altar de ouro para o incenso, do qual a fragrante nuvem, com as orações de Israel, ascendiam diariamente à presença de Deus. No lugar santíssimo estava a arca coberta de ouro e depositária das tábuas de pedra sobre as quais Deus inscrevera a lei dos Dez Mandamentos.
 
 Acima da arca formando a cobertura desse receptáculo sagrado, estava o propiciatório, encimado por dois querubins, um de cada lado, tudo trabalhado de ouro maciço. Neste lugar a presença divina se manifestava na nuvem de glória entre os querubins. Quando os hebreus se estabeleceram em Canaã, o tabernáculo foi substituído pelo templo de Salomão, uma estrutura permanente que guardava as mesmas proporções e era guarnecido de modo semelhante. Sob esta forma o santuário existiu até a sua destruição pelos romanos, no ano 70 de nossa era, exceção feita no tempo em que esteve em ruínas durante a época de Daniel.
 
-**20) Este santuário terreno continua vigente ainda hoje após a morte de Jesus Cristo?**{class=questao} **Mateus 27:50,51**{class=livroQ}  
+**20) Este santuário terreno continua vigente atualmente, mesmo após a morte de Jesus Cristo?**{class=questao} **Mateus 27:50,51**{class=livroQ}  
 **E Jesus, clamando outra vez com grande voz, rendeu o espírito. E eis que o véu do templo se rasgou em dois, de alto a baixo; e tremeu a terra, e fenderam-se as pedras;**{class=versoQ} **Mateus 27:50,51**{class=livroVerso}
 
 **Assinale a resposta correta:**  
@@ -325,8 +323,8 @@ a) Sim em cada igreja que existe.
 b) Não, sua validade foi até a morte do verdadeiro Cordeiro de Deus que tira o pecado do mundo, Jesus.  
 c) Sim ele está em Jerusalém até hoje e se quero ser perdoado de meus pecados tenho que ir até lá.  
 
-!!!example ""
-	Aceito hoje a Jesus como único mediador e oro para ser limpo e perdoado de meus pecados e viva uma vida plena em Cristo Jesus.
+!!!check Decisão
+	Aceito hoje, o Senhor Jesus como meu único mediador e salvador. Oro para ser limpo, perdoado de meus pecados e viva uma vida plena em Cristo Jesus.
 
 	( ) Sim ( ) Não
 
@@ -339,7 +337,7 @@ c) Sim ele está em Jerusalém até hoje e se quero ser perdoado de meus pecados
 
 ## Domingo
 
-A Bíblia relata a existência de um outro santuário, que na verdade já existia, no céu, o qual o próprio Deus mostrou para Moisés, quando ordenou que construísse um santuário conforme o modelo que lhe foi mostrado. **Ora a suma do que havemos dito é que temos um sacerdote tal, que está assentado nos Céus à destra do trono da Majestade, ministro do santuário, e do verdadeiro tabernáculo, o qual o Senhor fundou, e não o homem.**{class=verso} **Hebreus 8:1,2**{class=livro}
+A Bíblia relata a existência de um outro santuário, que na verdade já existia, no céu, o qual o próprio Deus mostrou para Moisés, quando ordenou que construísse um santuário conforme o modelo que lhe foi mostrado. **"Ora a suma do que havemos dito é que temos um sacerdote tal, que está assentado nos Céus à destra do trono da Majestade, ministro do santuário, e do verdadeiro tabernáculo, o qual o Senhor fundou, e não o homem."**{class=verso} **Hebreus 8:1,2**{class=livro}
 
 Este é revelado como o santuário do novo concerto. O santuário do primeiro concerto foi erigido pelo homem, construído por Moisés. O último foi construído pelo Senhor e não pelo homem. Quando o apóstolo João recebeu a visão do Apocalipse, ele contemplou o santuário celestial, conforme podemos observar pelos compartimentos e móveis que são relatados...
 
@@ -352,11 +350,11 @@ a) João viu anjos.
 b) João viu um santuário.  
 c) João viu o céu.  
 
-**2) A obra que os Sacerdotes realizavam no Santuário terrestre era um exemplo de que?**{class=questao} **Hebreus 8:5**{class=livroQ}  
+**2) A obra que os sacerdotes realizavam no santuário terrestre era um exemplo de que?**{class=questao} **Hebreus 8:5**{class=livroQ}  
 **Os quais ministram em figura e sombra das coisas celestes, assim como foi Moisés divinamente instruído, quando estava para construir o tabernáculo; pois diz ele: Vê que faças todas as coisas de acordo com o modelo que te foi mostrado no monte.**{class=versoQ} **Hebreus 8:5**{class=livroVerso}
 
 **Assinale a resposta correta:**  
-a) A ministração feita pelos sacerdotes no santuário da Terra era uma *"figura"* (exemplo) da ministração de Cristo no verdadeiro Santuário do céu.  
+a) A ministração feita pelos sacerdotes no santuário da terra era uma *"figura"* (exemplo) da ministração de Cristo no verdadeiro santuário do céu.  
 b) A ministração feita pelos sacerdotes no santuário da terra era uma imitação dos cultos pagãos de outros povos.  
 c) A ministração feita pelos sacerdotes no santuário da terra não representava nada.  
 
@@ -385,13 +383,13 @@ a) Jesus ofereceu-se como sacrifício para pagar a nossa culpa. Ele morreu por n
 b) Os sacerdotes da terra eram as vítimas dos sacrifícios.  
 c) Um cordeiro é morto no céu todos os dias como sacrifício.  
 
-**5) Havia alguma relação do Santuário da Terra, do antigo testamento, e seus serviços com o santuário do Céu?**{class=questao} **Êxodo 25:8,9,40**{class=livroQ}  
+**5) Havia alguma relação do santuário da terra, do antigo testamento, e seus serviços com o santuário do Céu?**{class=questao} **Êxodo 25:8,9,40**{class=livroQ}  
 **E me farão um santuário, para que eu possa habitar no meio deles. Segundo tudo o que eu te mostrar para modelo do tabernáculo e para modelo de todos os seus móveis, assim mesmo o fareis. Êxodo 25:8,9 Vê, pois, que tudo faças segundo o modelo que te foi mostrado no monte.**{class=versoQ} **Êxodo 25:40**{class=livroVerso}
 
 **Assinale a resposta correta:**  
 a) Não havia relação nenhuma.  
 b) Assim como nos cultos pagãos, o santuário da terra foi feito para acalmar a ira de Deus.  
-c) O santuário da Terra foi feito baseado no modelo celeste, no verdadeiro tabernáculo feito por Deus.  
+c) O santuário da terra foi feito baseado no modelo celeste, no verdadeiro tabernáculo feito por Deus.  
 
 **6) A quem representavam todos os sacrifícios do Antigo Testamento?**{class=questao} **João 1:29**{class=livroQ}  
 **No dia seguinte, viu João a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo!**{class=versoQ} **João 1:29**{class=livroVerso}
@@ -424,20 +422,20 @@ b) No átrio ou pátio.
 c) No compartimento Santíssimo.  
 
 !!!note ""
-	Quando João foi levado em visão ao céu, ele viu que Jesus se achava entre os candeeiros de ouro. Como vimos no estudo anterior, o candeeiro era um móvel do compartimento *"Santo"* do Santuário, portanto, quando João teve a visão (no século I), Jesus estava ministrando em favor dos pecadores no compartimento *"Santo"* do Santuário celestial.
+	Quando João foi levado em visão ao céu, ele viu que Jesus se achava entre os candeeiros de ouro. Como vimos no estudo anterior, o candeeiro era um móvel do compartimento *"Santo"* do santuário, portanto, quando João teve a visão (no século I), Jesus estava ministrando em favor dos pecadores no compartimento *"Santo"* do santuário celestial.
 
-**9) Para que entrou Jesus no Santuário Celestial?**{class=questao} **Hebreus 9:24; 7:25**{class=livroQ}
+**9) Para que entrou Jesus no santuário celestial?**{class=questao} **Hebreus 9:24; 7:25**{class=livroQ}
 **Porque Cristo não entrou em santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para comparecer, agora, por nós, diante de Deus; Hebreus 9:24 Por isso, também pode salvar totalmente os que por ele se chegam a Deus, vivendo sempre para interceder por eles.**{class=versoQ} **Hebreus 7:25**{class=livroVerso}
 
 **Assinale a resposta correta:**  
-a) Jesus entrou no Santuário Celestial para interceder por nós diante de Deus, o Pai.  
-b) Jesus entrou no Santuário Celestial para descansar um poucos
-c) Jesus não está no Santuário Celestial, está no céu.  
+a) Jesus entrou no santuário celestial para interceder por nós diante de Deus, o Pai.  
+b) Jesus entrou no santuário celestial para descansar um poucos
+c) Jesus não está no santuário celestial, está no céu.  
 
 **Assinale a resposta correta:**  
 a) Não havia relação nenhuma.  
 b) Assim como nos cultos pagãos, o santuário da terra foi feito para acalmar a ira de Deus.  
-c) O santuário da Terra foi feito baseado no modelo celeste, no verdadeiro tabernáculo feito por Deus.  
+c) O santuário da terra foi feito baseado no modelo celeste, no verdadeiro tabernáculo feito por Deus.  
 
 **10) A quem representavam todos os sacrifícios do Antigo Testamento?**{class=questao} **João 1:29**{class=livroQ}  
 **No dia seguinte, viu João a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo!**{class=versoQ} **João 1:29**{class=livroVerso}  
@@ -471,20 +469,20 @@ b) No átrio ou pátio.
 c) No compartimento Santíssimo.  
 
 !!!note ""
-	 Quando João foi levado em visão ao céu, ele viu que Jesus se achava entre os candeeiros de ouro. Como vimos no estudo anterior, o candeeiro era um móvel do compartimento *"Santo"* do Santuário, portanto, quando João teve a visão (no século I), Jesus estava ministrando em favor dos pecadores no compartimento *"Santo"* do Santuário celestial.
+	 Quando João foi levado em visão ao céu, ele viu que Jesus se achava entre os candeeiros de ouro. Como vimos no estudo anterior, o candeeiro era um móvel do compartimento *"Santo"* do santuário, portanto, quando João teve a visão (no século I), Jesus estava ministrando em favor dos pecadores no compartimento *"Santo"* do santuário celestial.
 
-**13) Para que entrou Jesus no Santuário Celestial?**{class=questao} **Hebreus 9:24; 7:25**{class=livroQ}  
+**13) Para que entrou Jesus no santuário celestial?**{class=questao} **Hebreus 9:24; 7:25**{class=livroQ}  
 **Porque Cristo não entrou em santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para comparecer, agora, por nós, diante de Deus;**{class=versoQ} **Hebreus 9:24**{class=livroVerso}  
 **Por isso, também pode salvar totalmente os que por ele se chegam a Deus, vivendo sempre para interceder por eles.**{class=versoQ} **Hebreus 7:25**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) Jesus entrou no Santuário Celestial para interceder por nós diante de Deus, o Pai.  
-b) Jesus entrou no Santuário Celestial para descansar um poucos  
-c) Jesus não está no Santuário Celestial, está no céu.  
+a) Jesus entrou no santuário celestial para interceder por nós diante de Deus, o Pai.  
+b) Jesus entrou no santuário celestial para descansar um poucos  
+c) Jesus não está no santuário celestial, está no céu.  
 
 ## Quarta-Feira
 
-Precisamente diante do véu que separava o lugar santo do santíssimo e da presença imediata de Deus, achava-se o áureo altar de incenso. Sobre este altar o sacerdote devia queimar incenso todas as manhãs e tardes, suas pontas eram tocadas com o sangue da oferta para o pecado, e era aspergido com sangue no grande dia da expiação. Assim também Cristo como nosso sacerdote apresenta seu próprio e suficiente sacrifício em nosso favor, formando um elo entre a Terra e o Céu. Vivendo sempre para interceder por nós.
+Precisamente diante do véu que separava o lugar santo do santíssimo e da presença imediata de Deus, achava-se o áureo altar de incenso. Sobre este altar o sacerdote devia queimar incenso todas as manhãs e tardes, suas pontas eram tocadas com o sangue da oferta para o pecado, e era aspergido com sangue no grande dia da expiação. Assim também Cristo como nosso sacerdote apresenta seu próprio e suficiente sacrifício em nosso favor, formando um elo entre a terra e o Céu. Vivendo sempre para interceder por nós.
 
 **14) O que Jesus faz, quando confessamos nossos pecados?**{class=questao} **I João 1:9**{class=livroQ}  
 **Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.**{class=versoQ} **I João 1:9**{class=livroVerso}  
@@ -574,8 +572,8 @@ a) Jesus é nosso advogado junto Pai.
 b) Porque o Pai sempre nos ama.  
 c) Porque Jesus sempre nos aceita.  
 
-!!!example ""
-	Conhecendo a verdade do santuário celestial e, que Cristo intercede por mim ali. Desejo aceitar a mediação dEle por mim?
+!!!check Decisão
+	Conhecendo a verdade sobre o santuário celestial e a intercessão de Cristo por mim, aceito a mediação dEle por mim?
 
 	( ) Sim ( ) Não
 
@@ -588,7 +586,7 @@ c) Porque Jesus sempre nos aceita.
 
 ## Domingo
 
-A Bíblia faz referência no livro do profeta Daniel, a um santuário que deveria ser purificado **E ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado**{class=verso} **Daniel 8:14**{class=livro}. Não poderia ser o tabernáculo que fora construído por Moisés; pois, no tempo de Daniel ele já não existia, e, também o anjo falou para o profeta e disse: **Entende, filho do homem, porque esta visão se realizará no tempo do fim**{class=verso} **Daniel 8:17**{class=livro}. 
+A Bíblia faz referência no livro do profeta Daniel, a um santuário que deveria ser purificado **"E ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado"**{class=verso} **Daniel 8:14**{class=livro}. Não poderia ser o tabernáculo que fora construído por Moisés; pois, no tempo de Daniel ele já não existia, e, também o anjo falou para o profeta e disse: **"Entende, filho do homem, porque esta visão se realizará no tempo do fim"**{class=verso} **Daniel 8:17**{class=livro}. 
 
 Portanto um tempo muito à frente dos dias do profeta Daniel. O termo santuário na Bíblia refere- se, primeiramente ao tabernáculo terreno construído por Moisés, como modelo das coisas celestiais; e, em segundo lugar, ao verdadeiro tabernáculo, no Céu, para o qual o santuário apontava. Na morte de Cristo, terminou o serviço típicos O *"verdadeiro tabernáculo"*, no Céu, é o santuário do concerto, e deve ser aquele que deveria ser purificado, conforme as palavras do anjo.
 
@@ -621,7 +619,7 @@ b) Não, quando pedimos perdão pelos nossos pecados Deus apaga-os como se nunca
 c) Não, no céu não há santuário.  
 
 !!!note ""
-	 Da mesma forma que no santuário da Terra, quando nós, pelos méritos de Cristo, arrependemo-nos de nossos pecados, Ele nos perdoa; mas, permanece no Céu um registro de nossos pecados.
+	 Da mesma forma que no santuário da terra, quando nós, pelos méritos de Cristo, arrependemo-nos de nossos pecados, Ele nos perdoa; mas, permanece no Céu um registro de nossos pecados.
 
 ## Segunda-Feira
 
@@ -654,9 +652,9 @@ c) No compartimento Santíssimo.
 **Arão fará chegar o bode sobre o qual cair a sorte para o SENHOR e o oferecerá por oferta pelo pecado. Mas o bode sobre que cair a sorte para bode emissário será apresentado vivo perante o SENHOR, para fazer expiação por meio dele e enviá-lo ao deserto como bode emissário.**{class=versoQ} **Levítico 16:9,10**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) Eram levados dois bodes perante o Sumo Sacerdote. Lançava- se sorte sobre ambos. Um era escolhido para ser sacrificado para purificação dos pecados do povo, enquanto o outro permanecia vivo e recebia todos os pecados sobre si. Assim o Santuário era limpo dos pecados do povo.  
-b) O Santuário era lavado com água pelos levitas. Assim o Santuário era limpo dos pecados do povo.  
-c) Trocava-se o Santuário de lugar. Assim o Santuário era limpo  
+a) Eram levados dois bodes perante o Sumo Sacerdote. Lançava- se sorte sobre ambos. Um era escolhido para ser sacrificado para purificação dos pecados do povo, enquanto o outro permanecia vivo e recebia todos os pecados sobre si. Assim o santuário era limpo dos pecados do povo.  
+b) O santuário era lavado com água pelos levitas. Assim o santuário era limpo dos pecados do povo.  
+c) Trocava-se o santuário de lugar. Assim o santuário era limpo  
 dos pecados do povo.
 
 **6) O que era feito com o sangue do bode sobre o qual recaia a sorte do Senhor?**{class=questao} **Levítico 16:15**{class=livroQ}  
@@ -665,11 +663,11 @@ dos pecados do povo.
 **Assinale a resposta correta:**  
 a) O sangue do bode era jogado fora, uma vez que estava cheio dos pecados do povo.  
 b) O sangue do bode era levado ao Santíssimo para ser oferecido como expiação pelos pecados de todo o povo. Da mesma forma, Cristo, ao entrar no santuário celestial, entrou não com sangue de bodes, mas com Seu próprio sangue. (Veja também: **Hebreus 9:11-13**{class=livro})  
-c) O sangue do bode era derramado no altar de holocausto no átrio do Santuário.  
+c) O sangue do bode era derramado no altar de holocausto no átrio do santuário.  
 
 ## Terça-Feira
 
-Deus ordenou que fosse feita expiação para cada um dos compartimentos sagrados. **Fará expiação pelo santuário por causa das imundícias dos filhos de Israel e das suas transgressões, segundo todos os seus pecados: para a tenda da congregação que mora com eles no meio das suas imundícias.**{class=verso} **Levítico 16:16**{class=livro} 
+Deus ordenou que fosse feita expiação para cada um dos compartimentos sagrados. **"Fará expiação pelo santuário por causa das imundícias dos filhos de Israel e das suas transgressões, segundo todos os seus pecados: para a tenda da congregação que mora com eles no meio das suas imundícias."**{class=verso} **Levítico 16:16**{class=livro} 
 
 E, uma expiação deveria ser feita pelo altar, para purificá-lo.
 
@@ -704,7 +702,7 @@ c) Os pecados do povo eram colocados sobre o bode e este era solto no meio da co
 **Assinale a resposta correta:**  
 a) Não representava nada.  
 b) Representava apenas um ato de se desfazer do bode.  
-c) A prisão de Satanás por mil anos na Terra desolada.  
+c) A prisão de Satanás por mil anos na terra desolada.  
 
 !!!note ""
 	 Como o bode emissário recebia os pecados e era levado para o deserto, quando Cristo terminar Sua intercessão no céu Satanás será preso nesta terra deserta, longe da congregação dos santos que estará no céu, e como originador do mal receberá todos os pecados que induziu o povo de Deus cometer, para que receba a sentença sobre si.
@@ -732,8 +730,8 @@ Importantes verdades concernentes à expiação eram ensinadas pelo serviço tí
 
 **Assinale a resposta correta:**  
 a) O santuário terrestre era uma "parábola", uma ilustração do verdadeiro santuário do céu. Tudo que ali havia era uma representação do que no futuro aconteceria no céu.  
-b) O Santuário era uma ilustração dos cultos pagãos da época.  
-c) O Santuário era um exemplo ineficaz.  
+b) O santuário era uma ilustração dos cultos pagãos da época.  
+c) O santuário era um exemplo ineficaz.  
 
 !!!note ""
 	 Durante todo o ano, o ministério sacerdotal no primeiro compartimento do santuário, para dentro do véu que constituía a porta e separava o lugar santo do pátio exterior, representa a obra de ministração a qual Cristo deu início ao ascender ao Céu. Era a obra do sacerdote no ministério diário, a fim de apresentar perante Deus o sangue da oferta pelo pecado, bem como o incenso que ascendia com as orações de Israel. Era feito durante todo o ano. Assim pleiteia Cristo perante o Pai e mediante Seu sangue, em favor dos pecadores, e apresenta diante dEle também, com a preciosa fragrância de Sua própria justiça, as orações dos crentes arrependidos. Essa era a obra de ministração no primeiro compartimento do santuário celeste.
@@ -744,9 +742,9 @@ A fé dos discípulos acompanhou Jesus quando Ele subiu ao Céu diante de seus o
 **E Jesus, clamando outra vez com grande voz, entregou o espírito. Eis que o véu do santuário se rasgou em duas partes de alto a baixo; tremeu a terra, fenderam-se as rochas;**{class=versoQ} **Mateus 27:50,51**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) O Santuário da terra ainda não perdeu sua vigência.  
-b) Quando Jesus, o verdadeiro Cordeiro, foi sacrificado por nossos pecados, o véu do santuário se rasgou mostrando que aquele santuário terrestre já não estava mais em vigor e que Cristo estaria então entrando no verdadeiro Santuário do céu. (Veja também:  **Hebreus 9:23-24**{class=livro})  
-c) O Santuário da terra nunca valeu, era um simples culto judeu.  
+a) O santuário da terra ainda não perdeu sua vigência.  
+b) Quando Jesus, o verdadeiro Cordeiro, foi sacrificado por nossos pecados, o véu do santuário se rasgou mostrando que aquele santuário terrestre já não estava mais em vigor e que Cristo estaria então entrando no verdadeiro santuário do céu. (Veja também:  **Hebreus 9:23-24**{class=livro})  
+c) O santuário da terra nunca valeu, era um simples culto judeu.  
 
 ## Quinta-Feira
 
@@ -755,9 +753,9 @@ c) O Santuário da terra nunca valeu, era um simples culto judeu.
 **Era necessário, portanto, que as figuras das coisas que se acham nos céus se purificassem com tais sacrifícios, mas as próprias coisas celestiais, com sacrifícios a eles superiores.**{class=versoQ} **Hebreus 9:23**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) Assim como o Santuário da terra precisava ser purificado por causa dos pecados registrados dos filhos de Israel, o Santuário do céu também precisa ser purificado por causa dos registros de nossos pecados.  
-b) O Santuário do céu não precisa ser purificado, ele já é puro pois lá no céu não entra pecado.  
-c) Não existe Santuário.  
+a) Assim como o santuário da terra precisava ser purificado por causa dos pecados registrados dos filhos de Israel, o santuário do céu também precisa ser purificado por causa dos registros de nossos pecados.  
+b) O santuário do céu não precisa ser purificado, ele já é puro pois lá no céu não entra pecado.  
+c) Não existe santuário.  
 
 **14) Que decreto será feito ao terminar Cristo sua obra mediadora no santuário celestial?**{class=questao} **Apocalipse 22:11**{class=livroQ}  
 **Continue o injusto fazendo injustiça, continue o imundo ainda sendo imundo; o justo continue na prática da justiça, e o santo continue a santificar-se.**{class=versoQ} **Apocalipse 22:11**{class=livroVerso}  
@@ -768,9 +766,9 @@ b) Cristo decretará a morte dos ímpios.
 c) O justo continuará justo e o imundo ainda continuará praticando injustiças, e o santo prosseguirá a santificar-se.  
 
 !!!note ""
-	 Quando a obra mediadora de Cristo terminar no céu, o caso de todos os habitantes desta Terra estará decidido para sempre, todos terão tomado a sua decisão, ou para a justiça, para receberem o galardão da vida eterna, ou para a injustiça, para a morte eterna.
+	 Quando a obra mediadora de Cristo terminar no céu, o caso de todos os habitantes desta terra estará decidido para sempre, todos terão tomado a sua decisão, ou para a justiça, para receberem o galardão da vida eterna, ou para a injustiça, para a morte eterna.
 
-**15) Depois que Cristo terminar a Sua obra no Santuário Celestial o que Ele fará?**{class=questao} **Apocalipse 22:12; Atos 3:19,20**{class=livroQ}  
+**15) Depois que Cristo terminar a Sua obra no santuário celestial o que Ele fará?**{class=questao} **Apocalipse 22:12; Atos 3:19,20**{class=livroQ}  
 **E eis que venho sem demora, e comigo está o galardão que tenho para retribuir a cada um segundo as suas obras.**{class=versoQ} **Apocalipse 22:12**{class=livroVerso}  
 **Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, e venham assim os tempos do refrigério pela presença do Senhor, E envie ele a Jesus Cristo, que já dantes vos foi pregado.**{class=versoQ} **Atos 3:19,20**{class=livroVerso}
 
@@ -778,13 +776,13 @@ c) O justo continuará justo e o imundo ainda continuará praticando injustiças
 **Assinale a resposta correta:**  
 a) Cristo virá nos buscar e dará a recompensa de cada um segundo as suas obras.  
 b) Cristo não fará nada.  
-c) Cristo destruirá a Terra.  
+c) Cristo destruirá a terra.  
 
 **16) Que acontecimento está diretamente ligado ao apagamento do pecado e ao final refrigério da presença de Deus?**{class=questao} **Atos 3: 19-21**{class=livroQ}  
 **Arrependei-vos, pois, e convertei-vos para serem cancelados os vossos pecados, a fim de que, da presença do Senhor, venham tempos de refrigério, e que envie ele o Cristo, que já vos foi designado, Jesus, ao qual é necessário que o céu receba até aos tempos da restauração de todas as coisas, de que Deus falou por boca dos seus santos profetas desde a antiguidade.**{class=versoQ} **Atos 3:19 -21**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) A volta de Jesus a esta Terra  
+a) A volta de Jesus a esta terra  
 b) Jesus será recebido no Céu.  
 c) Deus falará aos profetas.  
 
@@ -800,13 +798,13 @@ c) Deus falará aos profetas.
 **Assinale a resposta correta:**  
 a) A profecia dada a Daniel indica o tempo em que se iniciaria a obra de purificação do santuário celestial.  
 b) A profecia de 2012.  
-c) Não há tempo para a purificação do Santuário.  
+c) Não há tempo para a purificação do santuário.  
 
 **18) Seria este santuário o santuário terrestre?**{class=questao} **Daniel 8:17**{class=livroQ}  
 **Veio, pois, para perto donde eu estava; ao chegar ele, fiquei amedrontado e prostrei-me com o rosto em terra; mas ele me disse: Entende, filho do homem, pois esta visão se refere ao tempo do fim.**{class=versoQ} **Daniel 8:17**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) Não, o Santuário ou templo de Jerusalém foi destruído em 70 d.C., logo não se trata de um santuário terrestre e sim de um santuário celestial.  
+a) Não, o santuário ou templo de Jerusalém foi destruído em 70 d.C., logo não se trata de um santuário terrestre e sim de um santuário celestial.  
 b) Sim, quando os judeus o construírem de novo.  
 c) Não sei.  
 
@@ -827,11 +825,11 @@ Por mais de dezoito séculos Jesus fez a obra de oferecer Seu sangue em favor do
 
 Mas, antes que isso seja consumado, deve haver um exame dos livros de registro para determinar quem, por meio de arrependimento dos pecados e fé em Cristo, tem direito aos benefícios de Sua expiação. A purificação do santuário, portanto envolve uma investigação - um julgamento. Essa obra tem de ser feita antes da vinda de Cristo para resgatar Seu povo, já que quando Ele vier trará Sua recompensa a fim de dar a cada um de acordo com suas obras.
 
-**E Arão (o sumo sacerdote) porá as suas mãos sobre a cabeça do bode vivo, e sobre ele confessará todas as iniquidades dos filhos de Israel, e todas as suas transgressões, segundo todos os seus pecados; e os porá sobre a cabeça do bode, e enviá-lo-á ao deserto, pela mão de um homem designado para isso. Assim a aquele bode levará sobre si as iniquidades deles à terra solitária**{class=verso} (**Levítico 16:21,22**{class=livro}). O bode emissário não vinha mais ao acampamento de Israel, e exigia-se que o homem, que o levara, lavasse com água a si e suas vestes, antes de voltar ao acampamento.
+**"E Arão (o sumo sacerdote) porá as suas mãos sobre a cabeça do bode vivo, e sobre ele confessará todas as iniquidades dos filhos de Israel, e todas as suas transgressões, segundo todos os seus pecados; e os porá sobre a cabeça do bode, e enviá-lo-á ao deserto, pela mão de um homem designado para isso. Assim a aquele bode levará sobre si as iniquidades deles à terra solitária"**{class=verso} (**Levítico 16:21,22**{class=livro}). O bode emissário não vinha mais ao acampamento de Israel, e exigia-se que o homem, que o levara, lavasse com água a si e suas vestes, antes de voltar ao acampamento.
 
 Toda esta cerimônia tinha por fim impressionar os israelitas com a santidade de Deus e o Seu horror ao pecado; e, demais, mostrar-lhes que não poderiam entrar em contato com o pecado sem se poluir. Exigia-se que enquanto a obra da expiação se efetuava, todas as ocupações fossem postas de parte, e toda a congregação de Israel deveria passar o dia em solene humilhação diante de Deus, com oração, jejum e profundo exame de coração.
 
-!!!example ""
+!!!check Decisão
 	Quero me preparar para que no dia em que meu caso for analisado eu seja encontrado limpo por Jesus.
 	
 	( ) Sim ( ) Não
@@ -846,7 +844,7 @@ Toda esta cerimônia tinha por fim impressionar os israelitas com a santidade de
 ## Domingo
 
 Deus havia estabelecido de antemão no Seu calendário profético uma data em que iniciaria no santuário celestial a obra de purificação do mesmo.
-A Daniel, que viveu a maior parte de sua vida em Babilônia, depois de ter sido deportado para lá por volta do ano 606 a.C. foi revelada a data que teria início a *"Purificação do Santuário"*. Daniel nos relata no livro que leva o seu nome, no capítulo 9:1,2 da Escritura, que estudando os livros do profeta Jeremias chegou à conclusão de que os anos do cativeiro do seu povo estavam perto do fim e por isso começou a orar a Deus sobre isto. Este era o primeiro ano do rei Dario, 538 a.C. Os anos da assolação, conforme o profeta Jeremias deveriam ser de 70 anos; portanto, faltavam aproximadamente dois anos para a restauração...
+A Daniel, que viveu a maior parte de sua vida em Babilônia, depois de ter sido deportado para lá por volta do ano 606 a.C. foi revelada a data que teria início a *"Purificação do santuário"*. Daniel nos relata no livro que leva o seu nome, no capítulo 9:1,2 da Escritura, que estudando os livros do profeta Jeremias chegou à conclusão de que os anos do cativeiro do seu povo estavam perto do fim e por isso começou a orar a Deus sobre isto. Este era o primeiro ano do rei Dario, 538 a.C. Os anos da assolação, conforme o profeta Jeremias deveriam ser de 70 anos; portanto, faltavam aproximadamente dois anos para a restauração...
 
 **1) Ao aproximar-se o tempo da libertação do cativeiro, que fez Daniel então?**{class=questao} **Daniel 9:3**{class=livroQ}  
 **E eu dirigi o meu rosto ao Senhor Deus, para o buscar com oração e súplicas, com jejum, e saco e cinza.**{class=versoQ} **Daniel 9:3**{class=livroVerso}  
@@ -907,7 +905,7 @@ c) Daniel não estava preocupado com nada.
 
 ## Segunda-Feira
 
-**7) Em que tempo o Santuário deveria ser purificado?**{class=questao} **Daniel 8:14**{class=livroQ}  
+**7) Em que tempo o santuário deveria ser purificado?**{class=questao} **Daniel 8:14**{class=livroQ}  
 **Ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.**{class=versoQ} **Daniel 8:14**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
@@ -1055,7 +1053,7 @@ Como não houve o ano "0" na contagem da história, ou seja, do ano 1 a.C. passo
 
 ## Quinta-Feira
 
-Em 1844 começou a purificação do Santuário do céu, o juízo e a restauração da verdade na Terra.
+Em 1844 começou a purificação do santuário do céu, o juízo e a restauração da verdade na terra.
 
 Vamos tirar a prova real da profecia:
 
@@ -1087,7 +1085,7 @@ Para entender melhor o que vimos da profecia até aqui, acompanhe as datas e os 
 ![](grafico-2300-anos-de-Daniel.png)
 
 !!!note ""
-	 No ano de 1844 Jesus entrou no compartimento Santíssimo do Santuário Celestial para iniciar a última obra de intercessão em favor do Seu povo.
+	 No ano de 1844 Jesus entrou no compartimento Santíssimo do santuário celestial para iniciar a última obra de intercessão em favor do Seu povo.
 
 O juízo está em andamento, você deseja consagrar-se hoje a Deus para ser aprovado quando o seu nome for passado em pauta? O anjo afirmou que ao se concluir o período de 2300 dias proféticos ou anos literais começaria nesse tempo a grande obra finalizadora de Cristo para o mundo, a expiação, ou o juízo investigativo. O típico Dia da expiação para Israel ocupava só um dia do ano. O juízo investigativo poderá ocupar um tempo relativamente breve. Já há mais de um século que essa obra está em prosseguimento, e logo deverá concluir-se. Quem estará preparado para suas decisões?
 
@@ -1124,7 +1122,7 @@ c) Que todos se arrependam, porque está chegando o tempo do juízo.
 
 Conquanto a oferta pelo pecado apontasse para Cristo como sacrifício, e o sumo sacerdote O representasse como mediador, o bode emissário tipificava Satanás, autor do pecado e sobre quem os pecados dos verdadeiros penitentes serão finalmente colocados. Quando no fim da cerimônia da expiação, o sumo sacerdote colocava os pecados sobre a cabeça do bode vivo que era levado amarrado para o deserto e era deixado ali. Assim também quando Cristo, por virtude e mérito de Seu próprio sangue, remover os pecados de Seu povo do santuário celestial, no encerramento de Seu ministério, Ele colocará os pecados sobre Satanás que, na execução do juízo, deverá arrostar a pena final. O bode emissário era enviado para uma terra desabitada, para nunca mais voltar à congregação de Israel. Assim será Satanás para sempre banido da presença de Deus e de Seu povo, e eliminado da existência na destruição final do pecado e pecadores.
 
-!!!example ""
+!!!check Decisão
 	Você gostaria de confessar os seus pecados a Deus para que eles possam ser colocados no santuário e serem finalmente apagados pelo ministério de Cristo?
 
 	( ) Sim ( ) Não
@@ -1138,7 +1136,7 @@ Conquanto a oferta pelo pecado apontasse para Cristo como sacrifício, e o sumo 
 
 ## Domingo
 
-Foi apresentada ao profeta Daniel a visão do grande e solene dia, quando os caracteres e as vidas dos homens seriam passados em revista diante do Juiz de toda a terra, porque o homem recebe o galardão *"de acordo com suas obras"*. O Ancião de Dias é Deus, o Pai. Diz o salmista: **Antes que os montes nascessem e se formassem a Terra e o mundo, de eternidade a eternidade, Tu és Deus**{class=versoQ} **(Salmos 90:2)**{class=livroVerso}. É Ele, a fonte de todo o ser, de toda lei, que deve presidir o Juízo. E os santos anjos, como ministros e testemunhas, em número de milhares e milhares, assistem a este grande tribunal.
+Foi apresentada ao profeta Daniel a visão do grande e solene dia, quando os caracteres e as vidas dos homens seriam passados em revista diante do Juiz de toda a terra, porque o homem recebe o galardão *"de acordo com suas obras"*. O Ancião de Dias é Deus, o Pai. Diz o salmista: **Antes que os montes nascessem e se formassem a terra e o mundo, de eternidade a eternidade, Tu és Deus**{class=versoQ} **(Salmos 90:2)**{class=livroVerso}. É Ele, a fonte de todo o ser, de toda lei, que deve presidir o Juízo. E os santos anjos, como ministros e testemunhas, em número de milhares e milhares, assistem a este grande tribunal.
 
 **1) O que fará Deus no juízo?**{class=questao} **Eclesiastes 12:14**{class=livroQ}  
 **Porque Deus há de trazer a juízo todas as obras, até as que estão encobertas, quer sejam boas, quer sejam más.**{class=versoQ} **Eclesiastes 12:14**{class=livroVerso}  
@@ -1169,7 +1167,7 @@ e) ( ) O Ancião que preside o Juízo é o próprio Deus.
 **Assinale a resposta correta:**  
 a) Neste tribunal celestial, Deus confiou o julgamento ao Seu Filho, Jesus Cristo.  
 b) O juiz é o próprio Deus.  
-c) Será comissionado um juiz da Terra.  
+c) Será comissionado um juiz da terra.  
 
 **4) Quem são as testemunhas?**{class=questao} **Apocalipse 5:11**{class=livroQ}  
 **Vi e ouvi uma voz de muitos anjos ao redor do trono dos seres viventes e dos anciãos, cujo número era de milhões de milhões e milhares de milhares...**{class=versoQ} **Apocalipse 5:11**{class=livroVerso}  
@@ -1184,15 +1182,15 @@ c) Os santos de Deus são as testemunhas.
 
 ## Segunda-Feira
 
-**Eu estava olhando nas minhas visões da noite, e eis que vinha com as nuvens do céu um como o Filho do Homem, e dirigiu-Se ao Ancião de Dias, e O fizeram chegar até Ele. Foi-Lhe dado domínio, e glória, e o reino, para que os povos, nações e homens de todas as línguas O servissem; o Seu domínio é domínio eterno, que não passará, e o Seu reino jamais será destruído**{class=verso} **Daniel 7:13,14**{class=livro}. 
+**"Eu estava olhando nas minhas visões da noite, e eis que vinha com as nuvens do céu um como o Filho do Homem, e dirigiu-Se ao Ancião de Dias, e O fizeram chegar até Ele. Foi-Lhe dado domínio, e glória, e o reino, para que os povos, nações e homens de todas as línguas O servissem; o Seu domínio é domínio eterno, que não passará, e o Seu reino jamais será destruído"**{class=verso} **Daniel 7:13,14**{class=livro}. 
 
-A vinda de Cristo aqui descrita não é o Seu segundo advento à Terra. Ele vem ao Ancião de Dias no Céu para receber o domínio, a glória e o reino, que lhe serão dados ao fim de Sua obra como mediador. Foi esta vinda e não Seu retorno Terra, que foi predita na profecia a se cumprir ao término dos 2300 dias, em 1844. Assistido pelos anjos celestiais, nosso grande Sumo Sacerdote penetra no Lugar Santíssimo e ali comparece à presença de Deus para Se empenhar nos últimos atos de Sua ministração em favor do homem para executar o Juízo Investigativo e fazer expiação por todos os que são tidos por dignos de receber seus benefícios.
+A vinda de Cristo aqui descrita não é o Seu segundo advento à terra. Ele vem ao Ancião de Dias no Céu para receber o domínio, a glória e o reino, que lhe serão dados ao fim de Sua obra como mediador. Foi esta vinda e não Seu retorno terra, que foi predita na profecia a se cumprir ao término dos 2300 dias, em 1844. Assistido pelos anjos celestiais, nosso grande Sumo Sacerdote penetra no Lugar Santíssimo e ali comparece à presença de Deus para Se empenhar nos últimos atos de Sua ministração em favor do homem para executar o Juízo Investigativo e fazer expiação por todos os que são tidos por dignos de receber seus benefícios.
 
 **5) Quem é o nosso advogado de defesa?**{class=questao} **I João 2:1**{class=livroQ}  
 **Filhinhos meus, estas coisas vos escrevo para que não pequeis. Se, todavia, alguém pecar, temos advogado junto ao Pai, Jesus Cristo, o Justo;**{class=versoQ} **I João 12:1**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) O nosso advogado é o anjo que nos acompanhou aqui na Terra  
+a) O nosso advogado é o anjo que nos acompanhou aqui na terra  
 b) Cada um escolhe o seu advogado.  
 c) Jesus Cristo é o nosso advogado.  
 <div class='page'>&nbsp;</div>
@@ -1222,11 +1220,11 @@ a) ( ) Livro da Vida - Possui o nome de todos aqueles que entraram para o servi�
 b) ( ) Livro Memorial - Contém o registro dos santos (ver também **Isaías 65:6,7**{class=livro}). **E vi os mortos, grandes e pequenos, que estavam diante de Deus, e abriram-se os livros; e abriu-se outro livro, que é o da vida. E os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras.**{class=versoQ} **Apocalipse 20:12**{class=livro}  
 
 !!!note ""
-	 Os livros de registro no Céu, nos quais os nomes e os atos dos homens são inscritos, devem determinar as decisões do Juízo. Diz o profeta Daniel: *"Assentou-se o tribunal, e abriram os livros."* João, o revelador, descrevendo a mesma cena, acrescenta: **Ainda outro livro, o Livro da Vida, foi aberto. E os mortos foram julgados, segundo as obras, conforme o que se achava escrito nos livros.**{class=verso} **Apocalipse 20:12**{class=livro}
+	 Os livros de registro no Céu, nos quais os nomes e os atos dos homens são inscritos, devem determinar as decisões do Juízo. Diz o profeta Daniel: *"Assentou-se o tribunal, e abriram os livros."* João, o revelador, descrevendo a mesma cena, acrescenta: **"Ainda outro livro, o Livro da Vida, foi aberto. E os mortos foram julgados, segundo as obras, conforme o que se achava escrito nos livros."**{class=verso} **Apocalipse 20:12**{class=livro}
 
 O livro da vida contém os nomes de todos aqueles que entraram para o serviço de Deus, os únicos que entrarão na cidade de Deus são os que estão escritos no livro da vida do Cordeiro.
 
-Já no livro memorial estão registradas as boas obras dos que temem ao Senhor e para os que se lembram do Seu nome. Suas palavras de fé e atos de amor estão colocados ali. Cada tentação resistida, cada mal vencido, cada palavra de terna piedade expressa, estão fielmente registrados. Assim como cada ato de sacrifício, cada sofrimento e tristeza suportados por causa de Cristo estão ali marcados. **... recolheste as minhas lágrimas no teu odre; não estão elas inscritas no teu livro?**{class=versoQ} **Salmos 56:8**{class=livro}. **Porque Deus há de trazer a juízo todas as obras até as que estão escondidas, quer sejam boas, quer sejam más**{class=verso} **Eclesiastes 12;14**{class=livro}. **Digo-vos que de toda palavra frívola que proferirem os homens, dela darão conta no Dia do Juízo; porque pelas tuas palavras serás justificado e pelas tuas palavras serás condenado**{class=verso} **Mateus 12:36,37**{class=livroVerso}  
+Já no livro memorial estão registradas as boas obras dos que temem ao Senhor e para os que se lembram do Seu nome. Suas palavras de fé e atos de amor estão colocados ali. Cada tentação resistida, cada mal vencido, cada palavra de terna piedade expressa, estão fielmente registrados. Assim como cada ato de sacrifício, cada sofrimento e tristeza suportados por causa de Cristo estão ali marcados. **"... recolheste as minhas lágrimas no teu odre; não estão elas inscritas no teu livro?"**{class=versoQ} **Salmos 56:8**{class=livro}. **"Porque Deus há de trazer a juízo todas as obras até as que estão escondidas, quer sejam boas, quer sejam más"**{class=verso} **Eclesiastes 12;14**{class=livro}. **"Digo-vos que de toda palavra frívola que proferirem os homens, dela darão conta no Dia do Juízo; porque pelas tuas palavras serás justificado e pelas tuas palavras serás condenado"**{class=verso} **Mateus 12:36,37**{class=livroVerso}  
 Os secretos propósitos do coração e os motivos aparecem no infalível registro, pois o Senhor **trará à plena luz as coisas ocultas das trevas, mas também manifestará os desígnios dos corações**{class=versoQ} **I Coríntios 4:5**{class=livroVerso}  
 
 **8) Quando o nome de alguém é escrito no livro da vida?**{class=questao} **João 5:24; Filipenses 4:3**{class=livroQ}
@@ -1246,7 +1244,7 @@ Quando entramos para o serviço de Cristo, passamos a ser portadores da Vida Ete
 
 **Assinale a resposta correta:**  
 a) O povo de Israel.  
-b) Todos os habitantes da Terra.  
+b) Todos os habitantes da terra.  
 c) Os cooperadores de Jesus Cristo.  
 
 !!!note ""
@@ -1264,7 +1262,7 @@ a) Sim    b) Não     c) Só alguns dos ímpios.
 
 ## Quarta-Feira
 
-Ao abrirem-se os livros de registro no Juízo, é passada em revista perante Deus a vida de todos os que creram em Jesus. Começando pelos primeiros que viveram na Terra, nosso Advogado apresenta os casos de cada geração sucessiva, finalizando com os vivos. Todo nome é mencionado, cada caso minuciosamente investigado. Aceitam-se nomes, e rejeitam-se nomes. Quando alguém tem pecados que permanecem nos livros de registro, para os quais não houve arrependimento nem perdão, seu nome será omitido do livro da vida, e o relato de suas boas ações apagados do livro memorial de Deus.
+Ao abrirem-se os livros de registro no Juízo, é passada em revista perante Deus a vida de todos os que creram em Jesus. Começando pelos primeiros que viveram na terra, nosso Advogado apresenta os casos de cada geração sucessiva, finalizando com os vivos. Todo nome é mencionado, cada caso minuciosamente investigado. Aceitam-se nomes, e rejeitam-se nomes. Quando alguém tem pecados que permanecem nos livros de registro, para os quais não houve arrependimento nem perdão, seu nome será omitido do livro da vida, e o relato de suas boas ações apagados do livro memorial de Deus.
 
 Todos os que verdadeiramente se tenham arrependido do pecado e que, pela fé, hajam reclamado o sangue de Jesus Cristo como seu sacrifício expiatório, tiveram o perdão acrescentado(aposto) ao seu nome, nos livros do Céu; tornando-se eles participantes da justiça de Cristo, e verificando-se estar o seu caráter em harmonia com a lei de Deus, seus pecados serão riscados e eles próprios havidos por dignos da vida eterna.
 
@@ -1280,7 +1278,7 @@ e) ( ) Se esta pessoa não vive uma vida digna de um cristão, receberá o salá
 f) ( ) Se o nome da pessoa está no Livro da Vida estará salva, não importando o que fez, pois aceitou a Jesus.  
 
 !!!note ""
-	 Todo tribunal possui uma lei pela qual são julgados os atos dos se apresentam para julgamento. A lei de Deus é a norma pela qual o caráter e vida dos homens serão aferidos no juízo. Diz o sábio: **Teme a Deus e guarda os Seus mandamentos; porque este é o dever de todo o homem. Porque Deus há de trazer a juízo toda a obra.**{class=verso} **Eclesiastes 12:13,14.**{class=livro}
+	 Todo tribunal possui uma lei pela qual são julgados os atos dos se apresentam para julgamento. A lei de Deus é a norma pela qual o caráter e vida dos homens serão aferidos no juízo. Diz o sábio: **"Teme a Deus e guarda os Seus mandamentos; porque este é o dever de todo o homem. Porque Deus há de trazer a juízo toda a obra."**{class=verso} **Eclesiastes 12:13,14.**{class=livro}
 
 O apóstolo Tiago admoesta a Seus irmãos: **Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade.**{class=versoQ} **Tiago 2:12**{class=livroVerso}  
 
@@ -1329,7 +1327,7 @@ c) Quando cada um morre.
 
 ## Sexta-Feira
 
-Vimos até aqui que necessitamos de um coração puro para sermos considerados aptos para a vida eterna no Juízo do Céu. Mas, o fato é que hoje os homens têm o coração imundo. E ao ver a maldade espalhada entre eles, muitos chegam a declarar como o patriarca Jó: **Quem do imundo tirará o puro? Ninguém**{class=verso} **Jó 14:4**{class=livro}. Mas o que é impossível aos homens é possível para Deus.
+Vimos até aqui que necessitamos de um coração puro para sermos considerados aptos para a vida eterna no Juízo do Céu. Mas, o fato é que hoje os homens têm o coração imundo. E ao ver a maldade espalhada entre eles, muitos chegam a declarar como o patriarca Jó: **"Quem do imundo tirará o puro? Ninguém"**{class=verso} **Jó 14:4**{class=livro}. Mas o que é impossível aos homens é possível para Deus.
 
 **16) O que prometeu Deus fazer em favor dos que se arrependem dos seus pecados e se convertem?**{class=questao} **Atos.3:19**{class=livroQ}  
 **Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, e venham assim os tempos do refrigério pela presença do Senhor.**{class=versoQ} **Atos 3:19**{class=livroVerso}  
@@ -1372,7 +1370,7 @@ c) A classe que crê e não obedece.
 
 Desde que o juízo começou, `em 1844`, os casos dos que morreram estão a passar diante de Deus. Em 2001, os vivos começaram a ser julgados, Jesus declara que os que estão sendo santificados deverão continuar a ser santificados quando Ele terminar Sua obra de Julgar. Portanto precisamos do poder de Jesus em nossas vidas para lutar e vencer toda falta de caráter a fim de estarmos limpos, diante dEle, na Sua vinda. A Bíblia diz que Jesus vem buscar uma igreja pura, pronta, perfeita e adornada para o Seu esposo o qual é Cristo. Os que fazem parte deste grupo seguem o Cordeiro por onde quer que Ele vai. Foram comprados como primícias para Deus e para o Cordeiro. E na sua boca não se achou engano; porque são irrepreensíveis diante do trono de Deus. Amém!
 
-!!!example ""
+!!!check Decisão
 	Desejo ardentemente preparar-me para o Juízo.
 	
 	( ) Sim ( ) Não
@@ -1547,7 +1545,7 @@ c) Jesus considera Seu Pai como sendo o Seu Deus.
 
 **QUEM É JESUS?**
 
-Primeiramente sabemos que Cristo é nosso Salvador pessoal e que veio a esta Terra viver uma vida em carne e ser portador dos nossos pecados para nos dar a vida eterna. Mas a pergunta que surge é: **Jesus é Deus?**
+Primeiramente sabemos que Cristo é nosso Salvador pessoal e que veio a esta terra viver uma vida em carne e ser portador dos nossos pecados para nos dar a vida eterna. Mas a pergunta que surge é: **Jesus é Deus?**
 
 Para obtermos a resposta analisaremos a Palavra de Deus.
 
@@ -1587,7 +1585,7 @@ c) Deus deu seu Filho unigênito.
 !!!note ""
 	 Cristo é o Filho unigênito de Deus. A palavra *"unigênito"* significa *"único (uni) gerado (genito)"* Cristo é o único Filho gerado de Deus. Os anjos e os homens são seres criados e não gerados. (ver **João 3:18; 1 João 4:9**{class=livro})
 
-**E eis uma voz dos céus, que dizia: Este é o meu Filho amado, em quem me comprazo**{class=verso} **Mateus 3:17**{class=livro}.  
+**"E eis uma voz dos céus, que dizia: Este é o meu Filho amado, em quem me comprazo"**{class=verso} **Mateus 3:17**{class=livro}.  
 **Falava ele ainda, quando uma nuvem luminosa os envolveu; e eis, vindo da nuvem, uma voz que dizia: Este é o meu Filho amado, em quem me comprazo; a ele ouvi**{class=versoQ} **Mateus 17:5**{class=livroVerso}  
 
 **19) Quem é a sabedoria de Deus?**{class=questao} **I Coríntios 1:24**{class=livroQ}  
@@ -1722,7 +1720,7 @@ c) ( ) Jesus e Deus e o Espírito Santo são todos o mesmo e único Deus.
     Vemos, portanto, que existe um só Deus, um Ser pessoal, espiritual, o criador de todas as coisas, onipotente, onisciente e eterno; infinito em sabedoria, santidade, justiça, bondade, verdade e misericórdia; imutável; e presente em toda parte por seu representante o Espírito Santo.
     Que existe um Senhor Jesus Cristo, o Filho do Eterno Pai, pelo qual todas as coisas foram criadas e por quem elas existem; que ele tomou a natureza do homem para redenção da nossa raça caída.
 
-!!!example ""
+!!!check Decisão
 	Desejo ser fiel a primeira mensagem angélica adorando ao Deus verdadeiro.
 
 	( ) Sim ( ) Não
@@ -1736,7 +1734,7 @@ c) ( ) Jesus e Deus e o Espírito Santo são todos o mesmo e único Deus.
 
 ## Domingo
 
-Um anjo seguiu o primeiro que enviava uma mensagem para todos os habitantes da Terra. Isto nos mostra que a mensagem que este segundo anjo traz é adicional à primeira mensagem. Para compreender a mensagem do segundo anjo, é necessário ter compreendido e aceito a mensagem do primeiro anjo. Podemos comparar as mensagens a etapas a serem vencidas numa prova antes de prosseguir. 
+Um anjo seguiu o primeiro que enviava uma mensagem para todos os habitantes da terra. Isto nos mostra que a mensagem que este segundo anjo traz é adicional à primeira mensagem. Para compreender a mensagem do segundo anjo, é necessário ter compreendido e aceito a mensagem do primeiro anjo. Podemos comparar as mensagens a etapas a serem vencidas numa prova antes de prosseguir. 
 
 Vários pontos importantes foram vistos e que precisamos tê-los em mente: O juízo no Céu está em curso, e precisamos nos preparar para ele, pois todos nós, que aceitamos a Jesus como nosso Salvador e Senhor, seremos julgados; Deus espera que reconheçamos que Ele é o único Deus verdadeiro, digno de adoração e nenhum outro mais. 
 
@@ -1776,9 +1774,9 @@ c) Mulher na profecia não representa nada.
 
 ## Segunda-Feira
 
-Babilônia vem do termo Babel, que significa confusão. Em Gênesis, o primeiro livro da Bíblia, temos o relato de alguém que buscou guiar o povo a agir em direta oposição a Deus. Deus havia dito a Noé e seus filhos para que se espalhassem e enchessem a Terra; porém Ninrode, cujo nome significa *"rebelde"*. Ou ele se rebelou, conhecendo a vontade de Deus, intentou construir várias cidades, onde o povo pudesse viver reunido. Na primeira cidade que edificou, Ninrode buscou construir um monumento que se constituiria no maior exemplo de desafio às ordens do Deus do Céu. 
+Babilônia vem do termo Babel, que significa confusão. Em Gênesis, o primeiro livro da Bíblia, temos o relato de alguém que buscou guiar o povo a agir em direta oposição a Deus. Deus havia dito a Noé e seus filhos para que se espalhassem e enchessem a terra; porém Ninrode, cujo nome significa *"rebelde"*. Ou ele se rebelou, conhecendo a vontade de Deus, intentou construir várias cidades, onde o povo pudesse viver reunido. Na primeira cidade que edificou, Ninrode buscou construir um monumento que se constituiria no maior exemplo de desafio às ordens do Deus do Céu. 
 
-Este monumento, porém, nunca foi concluído pois ao observar o Senhor o que os homens faziam, frustrou o seu intento, confundindo a língua daqueles que construíam a torre que ficou conhecida na história, como a Torre de Babel, porque ali Deus confundiu a linguagem de toda a Terra, e dali o Senhor os espalhou sobre a face de toda a Terra. **Gênesis 11:3-9**{class=livro}
+Este monumento, porém, nunca foi concluído pois ao observar o Senhor o que os homens faziam, frustrou o seu intento, confundindo a língua daqueles que construíam a torre que ficou conhecida na história, como a Torre de Babel, porque ali Deus confundiu a linguagem de toda a terra, e dali o Senhor os espalhou sobre a face de toda a terra. **Gênesis 11:3-9**{class=livro}
 
 **4) O que esta igreja apóstata faria?**{class=questao} **Apocalipse 17:6**{class=livroQ}  
 **Então, vi a mulher embriagada com o sangue dos santos e com o sangue das testemunhas de Jesus; e, quando a vi, admirei-me com grande espanto.**{class=versoQ} **Apocalipse 17:6**{class=livroVerso}  
@@ -1843,7 +1841,7 @@ No livro do Apocalipse, Deus revela que, embora a cidade de Babilônia nunca mai
 **E a mulher que viste é a grande cidade que reina sobre os reis da terra.**{class=versoQ} **Apocalipse 17:18**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) A grande cidade que reinava sobre os reis da Terra era Roma.  
+a) A grande cidade que reinava sobre os reis da terra era Roma.  
 b) Uma mulher que havia sido apedrejada por seus pecados.  
 c) Os Estados Unidos da América.  
 
@@ -1855,7 +1853,7 @@ c) Os Estados Unidos da América.
 
 **Assinale a resposta correta:**  
 a) Babilônia dos Caldeus.  
-b) Babilônia a mãe das meretrizes e das abominações da Terra.  
+b) Babilônia a mãe das meretrizes e das abominações da terra.  
 c) A cidade dos mistérios.  
 
 **12) O que faz a Babilônia moderna da profecia?**{class=questao} **Apocalipse 17:2**{class=livroQ}  
@@ -1864,7 +1862,7 @@ c) A cidade dos mistérios.
 **Assinale a resposta correta:**  
 a) Babilônia toma vinho.  
 b) Babilônia se prostitui.  
-c) Embebeda os habitantes da Terra.  
+c) Embebeda os habitantes da terra.  
 
 !!!note ""
 	 A Igreja de Roma é chamada Babilônia, e sua religião foi um restabelecimento da religião da antiga Babilônia. O vinho de Babilônia é aqui representado como o símbolo de falsos ensinamentos. A *"prostituição"* descrita em **Apocalipse 17:2,**{class=livro} são verdades adulteradas que confundem as pessoas levando-as a adorarem o que é falso. Todas as igrejas que existem atualmente e aceitam dogmas e tradições católicas como a trindade, guarda do domingo e imortalidade da alma, são consideradas pela palavra de Deus como *"filhas da meretriz"*.
@@ -2030,7 +2028,7 @@ a) Que pena que a grande cidade caiu!
 b) Aleluia pois o Senhor, Deus Todo-poderoso reina!  
 c) Vamos para uma festa de casamento!  
 
-!!!example ""
+!!!check Decisão
 	Desejo não me contaminar com as heresias pregadas pelas falsas igrejas e me unir aos remanescentes (os que guardam os mandamentos de Deus e tem a fé de Jesus).
 
 	( ) Sim ( ) Não
@@ -2044,7 +2042,7 @@ c) Vamos para uma festa de casamento!
 
 ## Domingo
 
-Seguiu os ainda um terceiro anjo... Também a mensagem do terceiro anjo faz parte ou completa as mensagens anteriores dadas pelo primeiro e segundo anjos. As mensagens do primeiro, segundo e terceiro anjos formam um todo; um evangelho eterno para ser proclamado no momento final da história da Terra, antes do retorno de Jesus aqui para buscar a Sua igreja. Assim sendo aceitar o evangelho do Céu significa aceitar a mensagem final trazida pelos três anjos. Não há como aceitar uma e rejeitar outra. É uma experiência progressiva. 
+Seguiu os ainda um terceiro anjo... Também a mensagem do terceiro anjo faz parte ou completa as mensagens anteriores dadas pelo primeiro e segundo anjos. As mensagens do primeiro, segundo e terceiro anjos formam um todo; um evangelho eterno para ser proclamado no momento final da história da terra, antes do retorno de Jesus aqui para buscar a Sua igreja. Assim sendo aceitar o evangelho do Céu significa aceitar a mensagem final trazida pelos três anjos. Não há como aceitar uma e rejeitar outra. É uma experiência progressiva. 
 
 Quem aceita a mensagem do primeiro anjo: *"é chegada a hora do Seu juízo"*, busca temer a Deus, que é guardar Seus mandamentos. Ao fazê-lo, se dá conta de que as corporações religiosas caídas ensinam o erro, e para obedecer ao evangelho que recebeu, terá que romper sua ligação com elas.
 
@@ -2120,9 +2118,16 @@ b) Animal representa reino ou rei.
 c) Não sei.  
 
 !!!note ""
-	 Animal na Bíblia significa *"reino"* ou *"rei"* **(Daniel 7:17,23).**{class=livro} A mulher (Igreja Católica) está montada neste reino, ou seja, governa sobre ele. O reino sobre o qual a Igreja Católica governa é o Vaticano. No Apocalipse encontramos algumas características que nos permitem identificá-la. Se ela é adorada, é um poder religioso. Foi lhe permitido fazer guerra aos santos, e, vencê-los **(Apocalipse 13:5).**{class=livro} Daí entendemos que é um poder perseguidor dos santos de Deus. E deu-se-lhe autoridade sobre toda a tribo, e povo, e língua e nação. **Apocalipse 13:7**{class=livro}. A besta tinha autoridade sobre reis. Apenas um poder cumpre todas as características aqui descritas; o papado medieval. Foi um poder religioso que perseguia e matava os santos, aos quais chamava *"hereges"*, e tinha autoridade sobre reis. O papa tem em sua tiara a inscrição: `VICARIVS FILII DEI`, que significa Vigário, ou substituto do Filho de Deus. Diz ser o representante divino na terra. Mas manda matar os que não aceitam suas doutrinas. Não foi assim que Cristo procedeu; pelo contrário Ele deu a vida pelos que o rejeitaram.
+	 Animal na Bíblia significa *"reino"* ou *"rei"* **(Daniel 7:17,23).**{class=livro} A mulher (Igreja) está montada neste reino, ou seja, governa sobre ele. O reino sobre o qual a mulher (a igreja de apocalipse 17:3) governa, está situada no Vaticano. No Apocalipse encontramos algumas características que nos permitem identificá-la. 
+	 - Se ela é adorada, é um poder religioso - Foi lhe permitido fazer guerra aos santos, e, vencê-los **(Apocalipse 13:5).**{class=livro} Daí entendemos que é um poder perseguidor dos santos de Deus. E deu-se-lhe autoridade sobre toda a tribo, e povo, e língua e nação. **Apocalipse 13:7**{class=livro}. 
+	 - Tinha poder político - A besta tinha autoridade sobre reis. Apenas um poder cumpre todas as características aqui descritas; o papado medieval. E voltará a ter este poder nos últimos dias.
+	 
+	 Foi um poder político e religioso que perseguia e matava os santos, aos quais chamava-os de *"hereges"*, e tinha autoridade sobre reis.
+	 
+	 O papa tem em sua tiara a inscrição: `VICARIVS FILII DEI`, que significa Vigário (substituto do Filho de Deus). Diz ser o representante divino na terra. _Mas manda matar os que não aceitam suas doutrinas_. Mas, não foi assim que Cristo procedeu; pelo contrário Ele deu a vida pelos que o rejeitaram.
 
-A mensagem do terceiro anjo mostra que a parte dos que adorarem a besta ou se associarem a ela será sofrerem a ira de Deus e serem destruídos no lago de fogo, preparado para o diabo e seus anjos. A besta vai a perdição. A mensagem do terceiro anjo dá um aviso a todos os sinceros para que não sigam e não partilhem da sua sorte. Ela nos dá a oportunidade de mudarmos de caminho. E assim, podemos romper toda e qualquer ligação com ela e salvar nossa alma.
+
+A mensagem do terceiro anjo mostra aos que adorarem a besta ou se associarem a ela, será: sofrerem a ira de Deus e serem destruídos no lago de fogo, preparado para o diabo e seus anjos. A besta vai a perdição. A mensagem do terceiro anjo alerta a todos os sinceros para que não sigam e não partilhem da sua sorte. Também nos dá a oportunidade de mudarmos de caminho. E assim, podemos romper toda e qualquer ligação com a besta e salvar nossa alma.
 
 **8) Que dizem as pessoas que adoram a besta, cujos nomes não estão escritos no livro da vida?**{class=questao} **Apocalipse 13:4**{class=livroQ}  
 **E adoraram o dragão porque deu a sua autoridade à besta; também adoraram a besta, dizendo: Quem é semelhante à besta? Quem pode pelejar contra ela?**{class=versoQ} **Apocalipse 13:4**{class=livroVerso}  
@@ -2133,7 +2138,7 @@ b) As pessoas ficam admiradas com a aparição da besta e *dizem "quem é semelh
 c) As pessoas falam mal da besta, afinal de contas é uma besta.  
 
 !!!note ""
-	 A Bíblia declara que os que adoram a besta, na verdade estão adorando o dragão que deu poder e autoridade à besta.
+	 A Bíblia declara para os que adoram a besta, na verdade estão adorando o dragão que deu poder e autoridade à besta.
 <div class='page'>&nbsp;</div>
 
 **9) Quem é o dragão que deu poder e autoridade à besta?**{class=questao} **Apocalipse 12:9**{class=livroQ}  
@@ -2145,18 +2150,18 @@ b) O dragão é o diabo e Satanás.
 c) O dragão é uma figura lendária, que só aparece em fábulas.  
 
 !!!note ""
-	 Pode parecer estranho que a Palavra de Deus se refira a um sistema religioso dirigido pelo poder de Satanás e que a grande maioria dos que se dizem cristãos ainda que sejam sinceros esteja adorando e prestando culto ao inimigo, porém o próprio Jesus afirmou que o deus deste século é o próprio Satanás.
+	 Pode parecer estranho que a Palavra de Deus se refira a um sistema religioso dirigido pelo poder de Satanás e que a grande maioria dos que se dizem cristãos ainda que sejam sinceros esteja adorando e prestando culto ao inimigo, porém o em Paulo escreveu: **"o deus deste século cegou o entendimento dos incrédulos"**{class=verso} **2 Coríntios 4:4**{class=livro}. Este deus é o próprio Satanás.
 
 ## Quarta-Feira
 
-A mensagem adverte quanto a adorar a besta e a sua imagem. A imagem não é a pessoa, mas uma cópia fiel dela. No sentido espiritual, Deus fala que a besta tem imagem. Um poder que seja uma cópia fiel do poder chamado *"besta"*, mas que não seja exatamente a besta. Já vimos pela história que a besta é o papado. Vimos também que este símbolo besta, representa a união do poder religioso com o governo com o propósito de poder perseguir e matar os santos. A união do poder *"religioso"* com o poder *"civil"*, caracteriza o que a Bíblia chama de besta.
+A mensagem adverte quanto a adorar a besta e a sua imagem. A imagem não é a pessoa, mas uma cópia fiel dela. No sentido espiritual, Deus fala que a besta tem imagem. Um poder que seja uma cópia fiel do poder chamado *"besta"*, mas que não seja exatamente a besta. Já vimos pela história que a besta é o papado. Vimos que este símbolo, besta, representa a união do poder religioso com o governo com o propósito de poder perseguir e matar os santos. A união do poder *"religioso"* com o poder *"civil"*, caracteriza o que a Bíblia chama de besta.
 
-A imagem da besta não é ela mesma, mas uma cópia dela. Deve, portanto representar a união do poder religioso com o civil, para perseguir e matar os santos. Não é difícil perceber quem a imagem da besta representa. Da mesma forma que a igreja católica no passado fazia acordos com os governantes para obter vantagens, hoje vemos as igrejas protestantes e evangélicas agirem da mesma forma. Por meio do movimento ecumênico, católicos e protestantes estão unindo-se em um só corpo, buscando atingir os mesmos objetivos. 
+A imagem da besta não é ela mesma, mas uma cópia dela. Deve, portanto representar a união do poder religioso com o civil, para perseguir e matar os santos. Não é difícil perceber quem a imagem da besta representa. Da mesma forma que a igreja católica no passado fazia acordos com os governantes para obter vantagens, hoje vemos as igrejas protestantes e evangélicas agirem da mesma forma. Por meio do movimento ecumênico, católicos e protestantes estão unindo-se em um só corpo, buscando atingir os mesmos objetivos.
 
 Como a imagem da besta é uma cópia fiel da união igreja/estado que caracterizou o papado no passado, ela é hoje a união das igrejas protestantes e evangélicas com o estado.
 ```
-Besta = união da igreja papal com os governos da Terra. 
-Imagem da besta = união das igrejas protestantes com os governos de Terra.
+Besta = união da igreja papal com os governos da terra.
+Imagem da besta = união das igrejas protestantes com os governos de terra.
 ```
 
 **10) A mensagem do terceiro anjo também adverte quanto a adoração de que?**{class=questao} **Apocalipse 14:9**{class=livroQ}  
@@ -2187,7 +2192,7 @@ b) Adorar é gostar muito de alguém.
 c) Adorar é oferecer sacrifícios.  
 
 !!!note ""
-    Adorar a besta e sua imagem está relacionado com o aceitar o culto que as igrejas promovem. Jesus frequentava a casa de culto a Deus aos sábados: **Chegando a Nazaré, onde fora criado; entrou na sinagoga no dia do sábado, segundo o Seu costume, e levantou-se para ler**{class=verso} **(Lucas 4:16).**{class=livro} O papado, ao contrário, promove culto aos domingos. As igrejas protestantes de hoje também fazem o mesmo. Portanto adorar a besta e sua imagem está relacionado com o prestar culto aos domingos.
+    Adorar a besta e sua imagem está relacionado com o aceitar o culto que as igrejas promovem. Jesus frequentava a casa de culto a Deus aos sábados: **"Chegando a Nazaré, onde fora criado; entrou na sinagoga no dia do sábado, segundo o Seu costume, e levantou-se para ler"**{class=verso} **(Lucas 4:16).**{class=livro} O papado, ao contrário, promove culto aos domingos. As igrejas protestantes de hoje também fazem o mesmo. Portanto adorar a besta e sua imagem está relacionado com o prestar culto aos domingos.
 
 **13) Qual é o dia de realizarmos culto de adoração, segundo a Palavra de Deus?**{class=questao} **Isaías 66:23**{class=livroQ}  
 **E será que desde uma lua nova até à outra, e desde um sábado até ao outro, virá toda a carne a adorar perante mim, diz o SENHOR.**{class=versoQ} **Isaías 66:23**{class=livroVerso}  
@@ -2197,6 +2202,9 @@ a) Sábado.
 b) Domingo.  
 c) Quinta-Feira  
 d) Qualquer dia  
+
+!!!help Por que Sábado?
+	Sobre este assunto, veremos com detalhes na lição 10 e 11
 
 **14) Como tirará por algum tempo este sistema religioso a honra que só pertence a Deus?**{class=questao} **Jeremias 10:6**{class=livroQ}  
 **Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande é o poder do teu nome.**{class=versoQ} **Jeremias 10:6**{class=livroVerso}  
@@ -2214,7 +2222,7 @@ a) O nome dado a besta no livro de Paulo é "homem da iniquidade". A besta atuar
 b) A besta se assentará no trono de Deus.  
 c) O apóstolo Paulo não se refere a besta.  
 
-**16) Que deu Babilônia a beber a todas as nações?**{class=questao} **Apocalipse 14:8**{class=livroQ}  
+**16) O que Babilônia deu de beber a todas as nações?**{class=questao} **Apocalipse 14:8**{class=livroQ}  
 **E outro anjo seguiu, dizendo: Caiu, caiu babilônia, aquela grande cidade, que a todas as nações deu a beber do vinho da ira da sua prostituição.**{class=versoQ} **Apocalipse 14:8**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
@@ -2231,7 +2239,12 @@ b) Vinho da prostituição.
 c) Bebida venenosa.  
 
 !!!note ""
-	 O cálice de Deus, que contém o novo concerto no sangue de Jesus, e o cálice do vinho da ira de Babilônia são ambos oferecidos ao mundo. Beber do primeiro, isto é aceitar o ensino do evangelho verdadeiro, é receber vida eterna, mas beber do vinho de Babilônia, isto é, aceitar o evangelho falso ensinado pelo papado, resultará em beber o vinho da ira de Deus, do cálice de Sua indignação. O evangelho verdadeiro significa vida eterna; o falso evangelho significa morte eterna.
+	 O vinho do cálice de Deus contém o novo concerto no sangue de Jesus.
+	 O vinho do cálice de Babilônia é aceitar o evangelho falso ensinado pelo papado, também dado pelas filhas.
+	 
+	 Os vinhos, ambos são oferecidos ao mundo. Beber do primeiro, é aceitar o ensino do evangelho verdadeiro, é receber vida eterna, mas beber do segundo, resultará em beber o vinho da ira de Deus, do cálice de Sua indignação. 
+	 
+	 O evangelho verdadeiro significa vida eterna; o falso evangelho significa morte eterna.
 
 ## Sexta-Feira
 
@@ -2252,7 +2265,11 @@ b) Não será feito nada àqueles que não quiserem adorar a besta.
 c) Será imposta uma marca sobre os homens.  
 
 !!!note ""
-	 Aqueles que não quiserem aceitar esta marca não poderão comprar nem vender. O fato de dizer que será posta sobre a mão ou sobre a testa significa o seguinte: <br/> **Mão:** é com a mão que praticamos as obras. Eles desejarão que coloquemos em prática o que eles determinarem. <br/>**Testa:** simboliza o entendimento. Desejarão forçar-nos para que aceitemos esta imposição.
+	 Aqueles que não quiserem aceitar esta marca não poderão comprar nem vender. O fato de dizer que será posta sobre a mão ou sobre a testa significa o seguinte:
+	 
+	 _Mão:_ é com a mão que praticamos as obras. Eles desejarão que coloquemos em prática o que eles determinarem. 
+	 
+	 _Testa:_ simboliza o entendimento. Desejarão forçar-nos para que aceitemos esta imposição.
 
 **20) Que poder na realidade opera por meio da besta exigindo adoração?**{class=questao} **Apocalipse 13:2**{class=livroQ}  
 **A besta que vi era semelhante a leopardo, com pés como de urso e boca como de leão. E deu-lhe o dragão o seu poder, o seu trono e grande autoridade.**{class=versoQ} **Apocalipse 13:2**{class=livroVerso}  
@@ -2306,7 +2323,7 @@ b) Os vencedores do Oscar.
 c) Os vencedores da Copa do Mundo.  
 <div class='page'>&nbsp;</div>
 
-!!!example ""
+!!!check Decisão
 	Desejo me preparar para estar entre aqueles que serão vencedores contra o poder do mal.
 
 	( ) Sim ( ) Não
@@ -2320,7 +2337,7 @@ c) Os vencedores da Copa do Mundo.
 
 ## Domingo
 
-Deus nos deu Seus preceitos santos, porque ama a humanidade. Para escudar-nos dos resultados da transgressão, revela os princípios da justiça. A lei é uma expressão do caráter divino; quando recebida em Cristo, torna-se nosso pensamento. Ergue-nos acima do poder dos desejos e tendências naturais, acima das tentações que induzem ao pecado. Deus quer que sejamos felizes, e deu-nos os preceitos da lei para que obedecendo-lhes, possamos ter alegria. Quando, por ocasião do nascimento de Jesus, os anjos cantaram; *"Glória a Deus nas alturas, Paz na Terra, boa vontade para com os homens"*
+Deus nos deu Seus preceitos santos, porque ama a humanidade. Para proteger-nos dos resultados da transgressão, revela os princípios da justiça. A lei é uma expressão do caráter divino; quando recebida em Cristo, torna-se nosso pensamento. Ergue-nos acima do poder dos desejos e tendências naturais, acima das tentações que induzem ao pecado. Deus quer que sejamos felizes, e deu-nos os preceitos da lei para que obedecendo-lhes, possamos ter alegria. Quando, por ocasião do nascimento de Jesus, os anjos cantaram; **"Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens"**{class=verso} **Lucas 2:14**{class=livro}
 
 **1) Em quem foi manifestado o amor de Deus por nós?**{class=questao} **João 3:16**{class=livroQ}  
 **Porque Deus amou ao mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna.**{class=versoQ} **João 3:16**{class=livroVerso}  
@@ -2343,11 +2360,11 @@ c) O amor de Deus não pode ser manifestado ao homem.
 **Aquele que diz: Eu o conheço e não guarda os seus mandamentos é mentiroso, e nele não está a verdade.**{class=versoQ} **I João 2:4**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) Nós retribuímos o amor de Deus por nós fazendo boas ações.  
-b) Nós retribuímos o amor de Deus por nós ajudando ao próximo.  
-c) Nós retribuímos o amor de Deus por nós quando somos obedientes aos Seus mandamentos.  
+a) Nós retribuímos o amor de Deus por nós, fazendo boas ações.  
+b) Nós retribuímos o amor de Deus por nós, ajudando ao próximo.  
+c) Nós retribuímos o amor de Deus por nós, quando somos obedientes aos Seus mandamentos.  
 
-**4) O que é o mandamento de Deus, segundo Jesus?**{class=questao} **João 12:50**{class=livroQ}  
+**4) Qual é o mandamento de Deus, segundo Jesus?**{class=questao} **João 12:50**{class=livroQ}  
 **E sei que o seu mandamento é a vida eterna. As coisas, pois, que eu falo, como o Pai me tem dito, assim falo.**{class=versoQ} **João 12:50**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
@@ -2355,7 +2372,7 @@ a) O mandamento de Deus é vida eterna para todo aquele que aceita Jesus como se
 b) Jesus nos trouxe a liberdade, logo não precisamos guardar seus mandamentos.  
 c) O mandamento de Deus é uma escravidão, não deve ser guardado.  
 
-**5) O que expressa a lei ou mandamento de Deus?**{class=questao} **Romanos 7:12**{class=livroQ}  
+**5) O que expressa o mandamento de Deus?**{class=questao} **Romanos 7:12**{class=livroQ}  
 **Por conseguinte, a lei é santa; e o mandamento, santo, e justo, e bom.**{class=versoQ} **Romanos 7:12**{class=livroVerso}  
 
 **Marque as afirmações com V quando verdadeiras e F quando falsas.**  
@@ -2369,7 +2386,7 @@ d) ( ) Que Deus é tirano ao nos pedir para guardar uma lei que não conseguimos
 
 Quando a lei foi proclamada do Sinai, Deus tornou conhecida a santidade de Seu caráter afim de que, por contraste, pudessem ver sua própria pecaminosidade. A lei foi dada para convencer do pecado, e para revelar-lhes sua necessidade de um salvador. Assim o faria, à medida que seus princípios fossem aplicados no coração pelo Espírito Santo. 
 
-Esta obra deve ela fazer ainda. Na vida de Cristo se tornam patentes os princípios da lei; e, ao tocar o Espírito Santo de Deus o coração, ao revelar a luz de Cristo aos homens a necessidade que têm de Seu sangue purificador e de Sua justificadora justiça, a lei é ainda um instrumento em nos levar a Cristo para sermos justificados pela fé. *"A lei do Senhor é perfeita, e restaura a alma".*
+Esta obra ainda há de ser feita (antes do fim). Na vida de Cristo se tornam patentes os princípios da lei; e, ao tocar o Espírito Santo de Deus o coração, ao revelar a luz de Cristo aos homens a necessidade que têm de Seu sangue purificador e de Sua justificadora justiça, a lei é ainda um instrumento em nos levar a Cristo para sermos justificados pela fé. **"A lei do Senhor é perfeita, e restaura a alma".**{class=verso} **Salmos 19:1**{class=livro}
 
 **6) Por que devemos ser santos e perfeitos?**{class=questao} **Mateus 5:48; Levítico 19:2**{class=livroQ}  
 **Portanto, sede vós perfeitos como perfeito é o vosso Pai celeste.**{class=versoQ} **Mateus 5:48**{class=livroVerso}  
@@ -2409,7 +2426,7 @@ c) Não, por sermos carnais e pecadores, a nossa natureza é contrária a nature
 
 ## Terça-Feira
 
-Uma vez que a lei a lei do Senhor é perfeita, qualquer mudança dela deve ser um mal. Os que desobedecem aos mandamentos de Deus, e ensinam outros a fazer assim, são condenados por Cristo.
+Uma vez que a lei do Senhor é perfeita, qualquer mudança dela deve ser um mal. Os que desobedecem aos mandamentos de Deus, e ensinam outros a fazer assim, são condenados por Cristo.
 
 **10) Qual é o poder que precisamos obter para sermos obedientes a Lei de Deus?**{class=questao} **Romanos 1:4,5; 3:26,31**{class=livroQ}  
 **... Jesus Cristo, por intermédio de quem viemos a receber graça e apostolado por amor do seu nome, para a obediência por fé, entre todos os gentios.**{class=versoQ} **Romanos 1:4,5**{class=livroVerso}  
@@ -2449,11 +2466,11 @@ A vida de obediência do Salvador manteve as reivindicações da lei; provou que
 
 **Assinale a resposta correta:**  
 a) Não, lei é uma coisa e Jesus é outra.  
-b) Sim, Jesus possuía a Lei em Seu coração. Ele mesmo diz: **"Eu tenho guardado os mandamentos de meu Pai"**{class=verso} **(João 15:10).**{class=livro} Ao permitirmos que Jesus viva em nós, traremos para nossa vida a obediência dele.  
+b) Sim, Jesus possuía a lei em Seu coração. Ele mesmo diz: **"Eu tenho guardado os mandamentos de meu Pai"**{class=verso} **(João 15:10).**{class=livro} Ao permitirmos que Jesus viva em nós, traremos para nossa vida a obediência dEle.  
 c) Não, pois só seremos guardadores da lei de Deus no céu.  
 
 **14) O que ocorre quando Cristo vive em nós?**{class=questao} **Romanos 8:10,14**{class=livroQ}  
-**Se, porém, Cristo está em vós, o corpo, na verdade, está morto por causa do pecado, mas o espírito é vida, por causa da justiça." "Pois todos os que são guiados pelo Espírito de Deus são filhos de Deus.**{class=versoQ} **Romanos 8:10,14**{class=livroVerso}  
+**Se, porém, Cristo está em vós, o corpo, na verdade, está morto por causa do pecado, mas o espírito é vida, por causa da justiça. Pois todos os que são guiados pelo Espírito de Deus são filhos de Deus.**{class=versoQ} **Romanos 8:10,14**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
 a) Se Cristo habitar em nós somos semideuses.  
@@ -2474,7 +2491,7 @@ c) Não sei.
 
 **Assinale a resposta correta:**  
 a) A verdadeira fé vem pelas obras.  
-b) A verdadeira fé é a fé de Jesus. Essa é a fé perfeita. Ao recebermos Jesus em nós, recebemos sua graciosa fé.  
+b) Fé verdadeira é a fé de Jesus. É perfeita e ao recebermos Jesus em nós, recebemos sua graciosa fé.  
 c) A verdadeira fé é a fé na Virgem Maria.  
 
 **17) Como a fé de Jesus se manifestava?**{class=questao} **João 15:10; 6:38**{class=livroQ}  
@@ -2483,21 +2500,21 @@ c) A verdadeira fé é a fé na Virgem Maria.
 
 **Assinale a resposta correta:**  
 a) A fé de Jesus se manifesta nos dons de cura.  
-b) A fé de Jesus se manifestava na obediência a todos os mandamentos da Lei de Deus (Mateus 5:17-18). Jesus não veio ao mundo fazer Sua própria vontade, mas a vontade de Deus. Quando de fato, possuirmos a Cristo, assim será também nossa vida.  
+b) A fé de Jesus se manifestava na obediência a todos os mandamentos da Lei de Deus **(Mateus 5:17-18).**{class=verso} Jesus não veio ao mundo fazer Sua própria vontade, mas a vontade de Deus. Quando de fato, possuirmos a Cristo, assim será também nossa vida.  
 c) A fé de Jesus se manifesta no dom de profecia.  
 
 ## Quinta-Feira
 
 **18) O que Jesus afirmou de Si mesmo?**{class=questao} **João 6:57,63**{class=livroQ}  
 **Assim como o Pai, que vive, me enviou, e igualmente eu vivo pelo Pai, também quem de mim se alimenta por mim viverá.**{class=versoQ} **João 6:57**{class=livroVerso}  
-**O espírito é o que vivifica; a carne para nada aproveita; as palavras que eu vos tenho dito são espírito e são vida.**{class=versoQ} **João 6:63**{class=livroVerso}  
+**O espírito é o que vivifica; a carne para nada aproveita; as palavras que Eu vos tenho dito são espírito e são vida.**{class=versoQ} **João 6:63**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
 a) Precisamos nos alimentar diariamente de Jesus para vivermos por Ele. Através do estudo das palavras de Jesus na Bíblia, aprenderemos.  
 b) Jesus veio ao mundo para que possamos ter comida.  
 c) Jesus afirmou que a carne para nada aproveita, logo não podemos comer carne.  
 
-**19) Para quê Jesus nos comunica Sua vida?**{class=questao} **Efésios 2:10**{class=livroQ}  
+**19) Para que Jesus nos comunica Sua vida?**{class=questao} **Efésios 2:10**{class=livroQ}  
 **Pois somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus de antemão preparou para que andássemos nelas.**{class=versoQ} **Efésios 2:10**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
@@ -2519,8 +2536,11 @@ c) João viu uma grande multidão de anjos.
 
 **Assinale a resposta correta:**  
 a) Dentro da arca tinha muito dinheiro.  
-b) Dentro da Arca estavam os Dez Mandamentos, a santa Lei de Deus.  
+b) Dentro da Arca estavam os Dez Mandamentos - a santa Lei de Deus.
 c) Dentro da arca não havia nada.  
+
+!!!note ""
+	Dentro da arca da aliança também contem a vara de arão e o maná
 
 **22) Por quem foram escritos os dez mandamentos?**{class=questao} **Êxodo 31:18; Deuteronômio 4: 13**{class=livroQ}  
 **E, tendo acabado de falar com ele no monte Sinai, deu a Moisés as duas tábuas do Testemunho, tábuas de pedra, escritas pelo dedo de Deus.**{class=versoQ} **Êxodo 31:18**{class=livroVerso}  
@@ -2564,7 +2584,8 @@ a) Amor aos homens e animais.
 b) Amor a Deus e aos amigos  
 c) Amor a Deus e ao próximo.  
 
-A Lei de Deus se resume nestes dois mandamentos: Amor a Deus e amor ao próximo. Exatamente por isso ela foi escrita em duas tábuas.
+!!!note ""
+	A Lei de Deus se resume nestes dois mandamentos: Amor a Deus e amor ao próximo. Exatamente por isso ela foi escrita em duas tábuas.
 
 **25) Qual a atitude de Jesus em relação a validade da lei de Deus?**{class=questao} **Mateus 5:17,18; 19:17**{class=livroQ}  
 **Não penseis que vim revogar a Lei ou os Profetas; não vim para revogar, vim para cumprir. Porque em verdade vos digo: até que o céu e a terra passem, nem um i ou um til jamais passará da Lei, até que tudo se cumpra.**{class=versoQ} **Mateus 5:17,18**{class=livroVerso}  
@@ -2586,7 +2607,8 @@ a) Ninguém pode mudar a Lei de Deus.
 b) Só os líderes das igrejas podem mudar o Lei de Deus.  
 c) A Lei de Deus era só para os Judeus.  
 
-A Lei de Deus nunca foi mudada, nem nunca será.
+!!!note ""
+	A Lei de Deus nunca foi mudada, nem nunca será.
 
 **27) O que Paulo escreveu sobre os mandamentos de Deus?**{class=questao} **Romanos 3:31; 7:12**{class=livroQ}  
 **Anulamos, pois, a lei pela fé? Não, de maneira nenhuma! Antes, confirmamos a lei.**{class=versoQ} **Romanos 3:31**{class=livroVerso}  
@@ -2659,7 +2681,7 @@ a) O que importa é a sinceridade
 b) O mais importante é a obediência a Deus.  
 c) O mais importante é obedecer aos pastores.  
 
-!!!example ""
+!!!check Decisão
 	Você deseja ser obediente a Deus antes que aos homens e ser uma testemunha da verdade para o mundo?
 
 	( ) Sim ( ) Não
@@ -2677,7 +2699,7 @@ Quando lemos no livro do Apocalipse 14:11, na mensagem dada pelo terceiro anjo; 
 
 Sabemos que os ímpios são os que rejeitam a Deus, o repouso que eles não possuem deve ser o repouso que Deus oferece. 
 
-O apóstolo Paulo escreveu em Hebreus: **Resta ainda um repouso sabático para o povo de Deus; pois em certo lugar disse Ele assim do dia sétimo: E descansou Deus, no sétimo dia, de todas as Suas obras; Pois aquele que entrou no descanso de Deus, esse também descansou de suas obras, assim como Deus das Suas**{class=verso} **Hebreus 4:9,4,10**{class=livro}. 
+O apóstolo Paulo escreveu em Hebreus: **"Resta ainda um repouso sabático para o povo de Deus; pois em certo lugar disse Ele assim do dia sétimo: E descansou Deus, no sétimo dia, de todas as Suas obras; Pois aquele que entrou no descanso de Deus, esse também descansou de suas obras, assim como Deus das Suas"**{class=verso} **Hebreus 4:9,4,10**{class=livro}. 
 
 Logo entrar no descanso de Deus é descansar das suas obras no sábado, assim como Ele descansou.
 
@@ -2698,7 +2720,7 @@ b) Quando o povo de Israel saiu do Egito.
 c) Na vinda de Jesus aqui como um bebê.  
 
 !!!note ""
-	 Quando Deus criou os céus e a terra, Deus instituiu o descanso do sábado do sétimo dia. O homem foi criado no sexto dia, e Deus descansou no sétimo. Não porque Ele necessitasse descansar, mas para benefício do homem descansou Deus neste dia. **O sábado foi feito por causa do homem**{class=verso} **Marcos 2:27**{class=livro}. Ele é o repouso de Deus.
+	 Quando Deus criou os céus e a terra, Deus instituiu o descanso do sábado do sétimo dia. O homem foi criado no sexto dia, e Deus descansou no sétimo. Não porque Ele necessitasse descansar, mas para benefício do homem descansou Deus neste dia. **"O sábado foi feito por causa do homem"**{class=verso} **Marcos 2:27**{class=livro}. Ele é o repouso de Deus.
 
 **3) Qual é o quarto mandamento da Lei de Deus?**{class=questao} **Êxodo 20:8-10**{class=livroQ}  
 **Lembra-te do dia de sábado, para o santificar. Seis dias trabalharás e farás toda a tua obra. Mas o sétimo dia é o sábado do Senhor, teu Deus; não farás nenhum trabalho, nem tu, nem o teu filho, nem a tua filha, nem o teu servo, nem a tua serva, nem o teu animal, nem o forasteiro das tuas portas para dentro**{class=versoQ} **Êxodo 20:8-10**{class=livroVerso}  
@@ -2741,7 +2763,7 @@ c) O sábado é um sinal de escravidão.
 **Marque as afirmações com V quando verdadeiras e F quando falsas**  
 a) ( ) Nome: Senhor Deus.  
 b) ( ) Cargo: Criador.  
-c) ( ) Jurisdição: Os céus e a Terra.  
+c) ( ) Jurisdição: Os céus e a terra.  
 d) ( ) Não tem nenhum atributo.  
 
 !!!note ""
@@ -2989,13 +3011,13 @@ e) ( ) Visitas aos doentes e afligidos.
 
 **Assinale a resposta correta:**  
 a) Até Jesus voltar.  
-b) Até na Nova Terra o sábado será guardado.  
+b) Até na Nova terra o sábado será guardado.  
 c) O sábado era só para os judeus.  
 
 !!!note ""
-	 Quando a Terra for restaurada, e o governo de Deus se estabelecer aqui, todos virão adorar perante Deus no sábado.
+	 Quando a terra for restaurada, e o governo de Deus se estabelecer aqui, todos virão adorar perante Deus no sábado.
 
-!!!example ""
+!!!check Decisão
 	Desejo estar entre aqueles que são obedientes ao mandamento do sábado.
 
 	( ) Sim ( ) Não
@@ -3011,7 +3033,10 @@ c) O sábado era só para os judeus.
 
 
 **1) Que apresenta a Bíblia como sendo o objetivo de um sinal ou selo?**{class=questao} **Daniel 6:8**{class=livroQ}  
-**Agora, pois, ó rei, confirma a proibição, e assina o edito, para que não seja mudado, conforme a lei dos medos e dos persas, que não se pode revogar.**{class=versoQ} **Daniel 6:8**{class=livroVerso}  
+**Agora, pois, ó rei, confirma a proibição, e assina o edito, para que não seja mudado, conforme a lei dos medos e dos persas, que não se pode revogar.**{class=versoQ} **Daniel 6:8**{class=livroVerso}
+
+!!!help Quem é a besta, e sua imagem?
+	Você poderá rever na lição 8, quarta-feira
 
 **Assinale a resposta correta:**  
 a) Definir quem é o autor, dar validade à lei e impedir de ser mudada.  
@@ -3061,7 +3086,7 @@ c) O selo de Deus está relacionado com o Seu testemunho.
 a) ( ) O quarto mandamento somente revela o autor desta lei.  
 b) ( ) O nome do autor é o SENHOR.  
 c) ( ) O atributo ou o cargo do Autor é CRIADOR.  
-d) ( ) O domínio ou jurisdição é o Céu e a Terra.  
+d) ( ) O domínio ou jurisdição é o Céu e a terra.  
 e) ( ) O mandamento do sábado contém o selo de Deus.  
 f) ( ) Recebendo a verdade do sábado eu recebo o selo de Deus.  
 g) ( ) Guardando o sábado eu guardarei na memória que Deus é o Criador de todas as coisas.  
@@ -3102,7 +3127,7 @@ e) ( ) O sábado acaba com a história do mal.
 
 **Marque as afirmações com V quando verdadeiras e F quando falsas**  
 a) ( ) Um anjo tinha o *"selo do Deus vivo".*  
-b) ( ) Não deveriam danificar a Terra, nem o mar, nem as árvores até os servos de Deus serem selados.  
+b) ( ) Não deveriam danificar a terra, nem o mar, nem as árvores até os servos de Deus serem selados.  
 c) ( ) Os selo de Deus seria posto na fronte dos servos de Deus.  
 d) ( ) Os selados eram em número de 140 mil.  
 
@@ -3288,7 +3313,7 @@ b) O povo alcança a vitória sobre a besta, a sua imagem e do número do seu no
 c) O povo de Deus não alcança a vitória.  
 
 **24) Os que têm o sinal de Deus serão atingidos pelas pragas finais?**{class=questao} **Ezequiel 9:6; Apocalipse 9:4**{class=livroQ}  
-**Matai a velhos, a moços e a virgens, a crianças e a mulheres, até exterminá-los; mas a todo homem que tiver o sinal não vos chegueis; começai pelo meu Santuário.**{class=versoQ} **Ezequiel 9:6**{class=livroVerso}  
+**Matai a velhos, a moços e a virgens, a crianças e a mulheres, até exterminá-los; mas a todo homem que tiver o sinal não vos chegueis; começai pelo meu santuário.**{class=versoQ} **Ezequiel 9:6**{class=livroVerso}  
 **E foi-lhes dito que não causassem dano à erva da terra, nem a qualquer coisa verde, nem a árvore alguma e tão-somente aos homens que não têm o sinal de Deus sobre a fronte.**{class=versoQ} **Apocalipse 9:4**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
@@ -3297,7 +3322,7 @@ a) Sim     b) Não   c) Não sei.
 !!!note ""
 	 Sobre aqueles que forem fiéis ao Senhor e ao santo sábado do Senhor repousará a promessa dada em **Salmos 91:10**{class=livro} - **"praga nenhuma chegará a tua tenda".**{class=verso}
 
-!!!example ""
+!!!check Decisão
 	Desejo de todo o coração ser fiel aos mandamentos de Deus antes que aos mandamentos do homem.
 
 	( ) Sim ( ) Não
@@ -3311,11 +3336,11 @@ a) Sim     b) Não   c) Não sei.
 
 ## Domingo
 
-Muitas vezes nos perguntamos sobre o que ocorre após a morte. Vemos muitas teorias serem ditas e pregadas e, muitas vezes, parece difícil discernir entre o que é a verdade e a mentira. A nossa segurança está em buscar essa verdade na Bíblia - a Palavra de Deus. Este assunto sobre a morte é pouco estudado no meio cristão, no entanto, precisamos entendê-lo a fundo, pois dentro deste tema encontramos a primeira mentira pregada por Satanás nesta Terra, e sobre este tema concentra o inimigo das almas um dos seus últimos enganos nos dias que antecedem a vinda de Jesus a esta Terra para buscar os Seus.
+Muitas vezes nos perguntamos sobre o que ocorre após a morte. Vemos muitas teorias serem ditas e pregadas e, muitas vezes, parece difícil discernir entre o que é a verdade e a mentira. A nossa segurança está em buscar essa verdade na Bíblia - a Palavra de Deus. Este assunto sobre a morte é pouco estudado no meio cristão, no entanto, precisamos entendê-lo a fundo, pois dentro deste tema encontramos a primeira mentira pregada por Satanás nesta terra, e sobre este tema concentra o inimigo das almas um dos seus últimos enganos nos dias que antecedem a vinda de Jesus a esta terra para buscar os Seus.
 
-Já no início da história humana, começou Satanás seus esforços para enganar a nossa raça. Aquele que incitara a rebelião no Céu desejou levar os habitantes da Terra a unirem-se com ele em luta contra o governo de Deus.
+Já no início da história humana, começou Satanás seus esforços para enganar a nossa raça. Aquele que incitara a rebelião no Céu desejou levar os habitantes da terra a unirem-se com ele em luta contra o governo de Deus.
 
-Adão e Eva tinham sido perfeitamente felizes na obediência à lei divina, e esse fato era um testemunho constante contra a alegação em que Satanás insistira no Céu, de que a lei de Deus era opressiva, e se opunha ao bem-estar de Suas criaturas. Também, despertou a inveja deste inimigo ao olhar ele para o belo lar preparado para o inocente casal. Decidiu-se a causar a sua queda, a fim de que, tendo-se separado de Deus e trazido sob o seu poder, pudesse obter posse da Terra, e aqui estabelecer o seu reino em oposição do Altíssimo.
+Adão e Eva tinham sido perfeitamente felizes na obediência à lei divina, e esse fato era um testemunho constante contra a alegação em que Satanás insistira no Céu, de que a lei de Deus era opressiva, e se opunha ao bem-estar de Suas criaturas. Também, despertou a inveja deste inimigo ao olhar ele para o belo lar preparado para o inocente casal. Decidiu-se a causar a sua queda, a fim de que, tendo-se separado de Deus e trazido sob o seu poder, pudesse obter posse da terra, e aqui estabelecer o seu reino em oposição do Altíssimo.
 
 **1) Como Deus criou o homem?**{class=questao} **Gênesis 2:7**{class=livroQ}  
 **Então, formou o SENHOR Deus ao homem do pó da terra e lhe soprou nas narinas o fôlego de vida, e o homem passou a ser alma vivente.**{class=versoQ} **Gênesis 2:7**{class=livroVerso}  
@@ -3326,7 +3351,7 @@ b) Por meio dos macacos
 c) Deus formou o homem através da união do pó da terra + o fôlego de vida = alma vivente.  
 
 !!!note ""
-	 Observe que o texto não diz que o homem *"TEM"* uma alma, mas que ele "É" uma alma vivente. Uma alma é formada pela união do corpo (pó da terra) com o fôlego de vida. Veja como fica a equação que forma a alma: `PÓ DA TERRA (CORPO) + FOLEGO DE VIDA = ALMA VIVENTE`
+	 Observe que o texto não diz que o homem *"TEM"* uma alma, mas que ele "É" uma alma vivente. Uma alma é formada pela união do corpo (pó da terra) com o fôlego de vida. Veja como fica a equação que forma a alma: `PÓ DA terra (CORPO) + FOLEGO DE VIDA = ALMA VIVENTE`
 
 Portanto, dizer que temos uma alma é errado, pois somos uma alma enquanto o fôlego de Deus permanecer em nós.
 
@@ -3486,7 +3511,7 @@ c) Os mortos, enquanto Jesus não vem, estarão esperando no inferno ou no purga
 
 ## Sexta-Feira
 
-A Palavra de Deus ensina que os que morreram em Cristo, todos os que foram fiéis a Ele estão nas suas sepulturas dormindo até que Jesus retorne a esta Terra para lhes dar a vida eterna. A tão sonhada imortalidade nos será dada na volta de Jesus caso sejamos fiéis a Ele. Então e só então o homem tornar-se-á imortal. Os outros mortos ressuscitarão depois dos mil anos no Céu, para receber a condenação do lago de fogo - a morte eterna. Veja também **Apocalipse 20:5,14,15.**{class=livro}
+A Palavra de Deus ensina que os que morreram em Cristo, todos os que foram fiéis a Ele estão nas suas sepulturas dormindo até que Jesus retorne a esta terra para lhes dar a vida eterna. A tão sonhada imortalidade nos será dada na volta de Jesus caso sejamos fiéis a Ele. Então e só então o homem tornar-se-á imortal. Os outros mortos ressuscitarão depois dos mil anos no Céu, para receber a condenação do lago de fogo - a morte eterna. Veja também **Apocalipse 20:5,14,15.**{class=livro}
 
 **16) Até quando os mortos em Cristo permanecerão dormindo na sepultura?**{class=questao} **João 5:28,29; I Tessalonicenses 4:16**{class=livroQ}  
 **Não vos maravilheis disto, porque vem a hora em que todos os que se acham nos túmulos ouvirão a sua voz e sairão: os que tiverem feito o bem, para a ressurreição da vida; e os que tiverem praticado o mal, para a ressurreição do juízo.**{class=versoQ} **João 5:28,29**{class=livroVerso}  
@@ -3530,7 +3555,7 @@ c) Satanás não terá mais nenhum grande engano.
 	 Depois da queda, Satanás ordenou a seus anjos que fizessem um esforço especial a fim de inculcar a crença da imortalidade inerente ao homem; e, tendo induzido o povo a receber este erro, deveriam levá-lo a concluir que o pecador viveria em estado de eterna miséria. Agora o príncipe das trevas, operando por meio de seus agentes, representa a Deus como um tirano vingativo, declarando que Ele mergulha no inferno todos que não lhe agradam, e faz com que sempre sintam a Sua ira; e que, enquanto sofrem angustia indizível, e se contorcem nas chamas eternas, Seus Criador olha para eles com satisfação.
 Assim o príncipe dos demônios reveste com seus próprios atributos ao Criador e Benfeitor da humanidade. A crueldade é satânica. Deus é amor: e tudo quanto criou era puro, santo e formoso, até o pecado ser introduzido pelo primeiro grande rebelde.
 
-!!!example ""
+!!!check Decisão
 	Desejo estar pronto para não ser enganado pelo último engano de Satanás antes da vinda de Cristo referente a imortalidade da alma?
 
 	( ) Sim ( ) Não
@@ -3546,7 +3571,7 @@ Assim o príncipe dos demônios reveste com seus próprios atributos ao Criador 
 
 A relação do mundo visível com o mundo invisível, a ministração dos anjos de Deus e a operação dos espíritos maus, são claramente revelados nas Escrituras, e inseparavelmente mesclados com a história humana. Existe uma tendência crescente para não crer na existência dos espíritos maus, enquanto os santos anjos que **"ministram em favor daqueles que hão de herdar a salvação"**{class=verso} **(Hebreus 1:14),**{class=livro} são considerados por muitos como os espíritos dos mortos.
 
-Antes da criação do homem, os anjos já existiam, pois quando os fundamentos da Terra foram lançados, **as estrelas da alva cantavam louvores e todos os filhos de Deus rejubilavam**{class=verso} **Jó:38:7**{class=livro}. Depois da queda do homem, anjos foram enviados para guardar a árvore da vida, e isso, antes que qualquer ser humano houvesse falecido. Os anjos são superiores ao homem em natureza, pois o salmista diz que o homem foi feito **um pouco menor que os anjos**{class=verso} **(Salmos 8:5)**{class=livro}.
+Antes da criação do homem, os anjos já existiam, pois quando os fundamentos da terra foram lançados, **"as estrelas da alva cantavam louvores e todos os filhos de Deus rejubilavam"**{class=verso} **Jó:38:7**{class=livro}. Depois da queda do homem, anjos foram enviados para guardar a árvore da vida, e isso, antes que qualquer ser humano houvesse falecido. Os anjos são superiores ao homem em natureza, pois o salmista diz que o homem foi feito **"um pouco menor que os anjos"**{class=verso} **(Salmos 8:5)**{class=livro}.
 
 A doutrina da consciência do homem na morte, especialmente a crença de que os espíritos dos mortos voltam para ministrar aos vivos, abriu caminho para o moderno espiritismo.
 
@@ -3573,7 +3598,7 @@ c) Deus não vai enviar juízos contra ninguém.
 
 O próprio nome de feitiçaria é agora mantido em desprezo. A afirmação de que os homens podem manter comunicação com maus espíritos é considerada uma fábula da Idade Escura. Mas o Espiritismo, que conta com centenas de milhares, sim, milhões, que tem aberto seu caminho nos círculos científicos, invadido igrejas, e encontrado favor em corpos legislativos e mesmo em cortes dos reis- este colossal engano não é mais que um reavivamento, sob um novo disfarce, da feitiçaria condenada e proibida do passado. 
 
-Os modernos teólogos populares ensinam que os mortos são admitidos na presença de Deus e dos santos anjos e são favorecidos com conhecimentos que superam em muito o que antes possuíam. E, como estão à pairar sobre seus amigos na Terra, por que não lhes seria permitido comunicar-se com ele a fim de os advertir contra o mal, ou consolá-los na tristeza? E como podem os que creem no estado consciente dos mortos rejeitar o que lhes vem como luz divina transmitida por espíritos glorificados? 
+Os modernos teólogos populares ensinam que os mortos são admitidos na presença de Deus e dos santos anjos e são favorecidos com conhecimentos que superam em muito o que antes possuíam. E, como estão à pairar sobre seus amigos na terra, por que não lhes seria permitido comunicar-se com ele a fim de os advertir contra o mal, ou consolá-los na tristeza? E como podem os que creem no estado consciente dos mortos rejeitar o que lhes vem como luz divina transmitida por espíritos glorificados? 
 
 Assim o inimigo tem um meio de comunicação eficaz, considerado sagrado para realizar seus propósitos. Os anjos decaídos que executam suas ordens, aparecem como mensageiros do mundo dos espíritos. Ao mesmo tempo em que professam trazer os vivos em comunicação com os mortos, o príncipe do mal sobre eles exerce sua influência fascinante.
 
@@ -3581,7 +3606,7 @@ Assim o inimigo tem um meio de comunicação eficaz, considerado sagrado para re
 **Não deis ouvidos aos vossos profetas e aos vossos adivinhos, aos vossos sonhadores, aos vossos agoureiros e aos vossos encantadores, que vos falam... Porque eles vos profetizam mentiras para vos mandarem para longe da vossa terra, e para que eu vos expulse, e pereçais.**{class=versoQ} **Jeremias 27:9,10**{class=livroVerso}  
 
 **Assinale a resposta correta:**  
-a) Não. O objetivo de satanás através dos feiticeiros e encantadores é fazer que nós não entremos na terra prometida - a nova Terra.  
+a) Não. O objetivo de satanás através dos feiticeiros e encantadores é fazer que nós não entremos na terra prometida - a nova terra.  
 b) Devemos, mas só às vezes, quando não sabemos qual decisão tomar.  
 c) Sim.  
 
@@ -3645,7 +3670,7 @@ c) Devemos ouvir tudo e verificar com os pastores da igreja se o que eles dizem 
 
 Se não houvesse outra evidência do real caráter do Espiritismo, deveria bastar para o cristão o fato de que os espíritos não fazem diferença nenhuma entre justiça e pecado, entre o mais nobre e puro dos apóstolos de Cristo e os mais corruptos dos servos de Satanás. Representando os homens mais vis como estando no Céu, sendo altamente exaltados lá, Satanás diz ao mundo: Não importa quão ímpio você é, não importa se você crê ou não crê em Deus e na Bíblia. Viva como desejas; o Céu é seu lar. 
 
-Os professos espiritualistas virtualmente declaram, **Qualquer que faz o mal passa por bom aos olhos do Senhor, e desses é que Ele se agrada; ou, onde está o Deus do juízo**{class=verso} **Malaquias 2:17.**{class=livro}  
+Os professos espiritualistas virtualmente declaram, **"Qualquer que faz o mal passa por bom aos olhos do Senhor, e desses é que Ele se agrada; ou, onde está o Deus do juízo"**{class=verso} **Malaquias 2:17.**{class=livro}  
 
 A Palavra de Deus diz: **Ai dos que ao mal chamam bem, e ao bem, mal; que fazem da escuridão luz e da luz, escuridão!**{class=versoQ} **Isaías 5:20**{class=livroVerso}  
 
@@ -3724,11 +3749,11 @@ c) Satanás fará que todos amem a Deus.
 
 ## Sexta-Feira
 
-Muitas vezes, os pretensos visitantes do mundo dos espíritos proferem avisos e advertências que se demonstram corretos. Então, quando ganham a confiança, apresentam doutrinas que solapam diretamente a fé nas Escrituras. Com a aparência de profundo interesse no bem estar de seus amigos na Terra, insinuam os mais perigosos erros. 
+Muitas vezes, os pretensos visitantes do mundo dos espíritos proferem avisos e advertências que se demonstram corretos. Então, quando ganham a confiança, apresentam doutrinas que solapam diretamente a fé nas Escrituras. Com a aparência de profundo interesse no bem estar de seus amigos na terra, insinuam os mais perigosos erros. 
 
 O fato de declararem algumas verdades e poderem por vezes predizer acontecimentos futuros, dá as suas declarações uma aparência de credito; e seus falsos ensinos são tão de pronto aceitos pelas multidões, e tão implicitamente cridos, como se fossem as mais sagradas verdades da Bíblia. 
 
-A lei é posta de parte, desprezado o Espírito da graça, o sangue do concerto tido em conta de coisa profana. Os espíritos negam a divindade de Cristo, colocando o próprio Criador no mesmo nível em que estão. Assim sob disfarce novo, o grande rebelde ainda prossegue com a luta contra Deus- luta iniciada no Céu, e durante quase seis mil anos continuada na Terra.
+A lei é posta de parte, desprezado o Espírito da graça, o sangue do concerto tido em conta de coisa profana. Os espíritos negam a divindade de Cristo, colocando o próprio Criador no mesmo nível em que estão. Assim sob disfarce novo, o grande rebelde ainda prossegue com a luta contra Deus- luta iniciada no Céu, e durante quase seis mil anos continuada na terra.
 
 **19) De que nos adverte Jesus através de Pedro?**{class=questao} **I Pedro 5:8**{class=livroQ}  
 **Sede sóbrios e vigilantes. O diabo, vosso adversário, anda em derredor, como leão que ruge procurando alguém para devorar**{class=versoQ} **I Pedro 5:8**{class=livroVerso}  
@@ -3758,9 +3783,9 @@ Muitos se esforçam para explicar as manifestações espíritas, atribuindo-as i
 Muitos se aventuram por curiosidade a colocar sob sua influencia. Não tem a menor intenção de crer ou aceitar estes ensinos de espíritos. Entram, porém em terreno proibido e o poderosos destruidor exerce a sua força sobre eles contra sua vontade. Uma vez induzidos a submeter a mente à sua direção, segura-os ele em cativeiro. É impossível pela sua própria força romperem com o fascinante, sedutor encanto. Nada, a não ser o poder de Deus, concedido em resposta à fervorosa oração da fé, poderá livrar essas almas prisioneiras.
 <div class='page'>&nbsp;</div>
 
-!!!example ""
+!!!check Decisão
 	Quando tiver dúvidas, desejo consultar somente a Deus.
 
-	( ) Sim ( ) Não
+	( ) Sim ( ) Não Data ___ /___ /_____
 
 **Anotações:**

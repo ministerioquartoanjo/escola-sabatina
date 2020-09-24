@@ -25,6 +25,13 @@ sed -ri 's/!!! /!!!/' $FILE # !!! note ""
 sed -ri 's/ \*\*[ ]{0,2}$/**  /' $FILE # **Tick the correct answer: **  
 sed -ri "s/^\*\* /**/" $FILE # ** Tick the correct answer: ** 
 
+
+# Verso aueo
+sed -ri 's/Golden Back|Golden Verse/Hacia Áureo/' $FILE
+# Entre aspas
+sed -ri 's/"" (\S[a-z]+)[ ]{0,1}"\*/*"\1"*/gi' $FILE
+sed -ri 's/"" (\S[a-z ]+)[ ]{0,1}"\*/*"\1"*/gi' $FILE
+
 # Imagens
 sed -ri 's@\! \[\] \(../ logo-mqa.jpg\)@![](../logo-mqa.jpg)@' $FILE
 sed -ri 's@\! \[\] \((.*)\)@![](\1)@' $FILE
@@ -55,7 +62,7 @@ sed -ri "s/\*\*[ ]\(([a-z0-9$ACCENTS: -]+)\)[ ]{0,}([,\.]{0,1})[ ]{0,}\**/**(\1)
 # admonition
 sed -ri 's/!!![ ]{0,2}(ejemplo)[ ]{0,2}/!!!example /i' $FILE
 sed -ri 's/!!![ ]{0,2}(Nota)[ ]{0,2}/!!!note /i' $FILE
-sed -ri 's/!!![ ]{0,2}(cita|citar)[ ]{0,2}/!!!cite /i' $FILE
+sed -ri 's/!!![ ]{0,2}(citazione|cita|citar)[ ]{0,2}/!!!cite /i' $FILE
 
 
 # ( ) Sí No
@@ -63,4 +70,4 @@ sed -ri 's/[ ]{1,}Si[ ]{1,}No/ Si  ( ) No/i' $FILE
 
 
 # Especificos:
-sed -ri "s@^(<div(.*)'page'(.*)div>)@<div class='page'>&nbsp;</div>@" $FILE
+sed -ri "s@^(<div(.*)'page'(.*)div>)@<div class='page'>\&nbsp;</div>@" $FILE

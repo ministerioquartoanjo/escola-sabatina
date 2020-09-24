@@ -5,8 +5,10 @@ cp -f "02-Los-pilares-de-la-fe/Los-pilares-de-la-fe copy.md" $FILE
 # Generico
 CLASS="clase|class"
 sed -ri "s/\*[ ]{0,2}\*[ ]{0,2}\{[ ]{0,2}($CLASS)[ ]{0,2}=[ ]{0,2}([a-z_ ]+)[ ]{0,2}\}/**{class=\2}/gi" $FILE
+sed -ri 's/ \*\*\{/**{/g' $FILE
 
 sed -ri "s/\{class=(pregunta|question)[ ]{0,1}\}[ ]{0,1}\*\*[ ]+/{class=questao}** /gi" $FILE
+sed -ri "s/\{class=(pregunta|question)[ ]{0,1}\}/{class=questao}/gi" $FILE
 sed -ri "s/\{class=(versoQ|verseQ)[ ]{0,1}\}[ ]{0,1}\*\*[ ]+/{class=versoQ}** /gi" $FILE
 sed -ri "s/\{class=(verse)\}[ ]{0,1}\*\*[ ]+/{class=verso}** /gi" $FILE
 
@@ -24,6 +26,14 @@ sed -ri "s/ \*\*\{class=titulo_capa\}/**{class=titulo_capa}/" $FILE
 sed -ri 's/!!! /!!!/' $FILE # !!! note ""
 sed -ri 's/ \*\*[ ]{0,2}$/**  /' $FILE # **Tick the correct answer: **  
 sed -ri "s/^\*\* /**/" $FILE # ** Tick the correct answer: ** 
+
+
+
+# Verso aueo
+sed -ri 's/Golden Back|Golden Verse/Espalda dorada/' $FILE
+
+# Entre aspas
+sed -ri 's/"" (\S[a-z ]+) "\*/*"\1"*/gi' $FILE
 
 # Imagens
 sed -ri 's@\! \[\] \(../ logo-mqa.jpg\)@![](../logo-mqa.jpg)@' $FILE
@@ -60,3 +70,14 @@ sed -ri 's/!!![ ]{0,2}(cita|citar)[ ]{0,2}/!!!cite /i' $FILE
 
 # ( ) Sí No
 sed -ri 's/[ ]{1,}Sí[ ]{1,}No/ Sí  ( ) No/i' $FILE
+
+# Pagina
+sed -ri "s@<div class = '(página|page)'> \& nbsp; </div>@<div class='page'>\&nbsp;</div>@" $FILE
+
+#  * *  
+sed -ri 's/ \* \*  /**  /g' $FILE
+# * * 
+sed -ri 's/ \* \* /**/g' $FILE
+
+# correção da tabela
+sed -ri 's/ \- \|/-|/' $FILE

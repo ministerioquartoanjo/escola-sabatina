@@ -61,7 +61,7 @@ Deus deseja que Seu povo conheça as verdades especiais ou fundamentais, antes d
 
 O conhecimento da verdade e a aplicação destas verdades em nossa vida nos farão testemunhas vivas a pregar e proclamar a última advertência; a ADVERTÊNCIA FINAL aos habitantes da terra a fim de que façam sua decisão ao lado de Deus ou ao lado do inimigo de Deus e das almas por quem Jesus morreu.
 
-Há quase dois mil anos atrás, Cristo andava entre os homens, alguns o aceitaram como o profeta e ou como messias que havia de vir; outros O viram apenas como um novo mestre entre eles; ainda outros cocmo um homem bom. Porém alguns ao saberem de Jesus não se contentaram com o que diziam sobre Ele e nem com Seus ensinamentos públicos, mas quiseram e sentiram necessidade de mais tempo com Ele à sós; reconheceram-nO como Salvador e Senhor e por isso queriam saber onde Ele morava. Ficaram com Ele em Sua casa. **João 1:35-39.**{class=livro}
+Há quase dois mil anos atrás, Cristo andava entre os homens, alguns o aceitaram como o profeta e ou como messias que havia de vir; outros O viram apenas como um novo mestre entre eles; ainda outros como um homem bom. Porém alguns ao saberem de Jesus não se contentaram com o que diziam sobre Ele e nem com Seus ensinamentos públicos, mas quiseram e sentiram necessidade de mais tempo com Ele à sós; reconheceram-nO como Salvador e Senhor e por isso queriam saber onde Ele morava. Ficaram com Ele em Sua casa. **João 1:35-39.**{class=livro}
 
 Depois que Jesus ensinava as multidões; posteriormente em particular, alguns de forma mais íntima perguntavam mais detalhes para terem maior entendimento, estes eram conhecidos como os doze apóstolos e mesmo entre os apóstolos existia um grupo menor que acompanhava Jesus em situações especiais. Por fim, a Bíblia fala do discípulo amado João, que dos doze foi o mais chegado do Mestre. A este João foi dado conhecer de forma especial sobre o Salvador, como podemos ver no evangelho que ele escreveu, como nas suas cartas repletas de amor pelos irmãos. Também a João foi dado o Apocalipse, a revelação das coisas que em breve deveriam acontecer.
 
@@ -323,7 +323,7 @@ a) Sim em cada igreja que existe.
 b) Não, sua validade foi até a morte do verdadeiro Cordeiro de Deus que tira o pecado do mundo, Jesus.  
 c) Sim ele está em Jerusalém até hoje e se quero ser perdoado de meus pecados tenho que ir até lá.  
 
-!!!check Decisão
+!!!check Minha Decisão
 	Aceito hoje, o Senhor Jesus como meu único mediador e salvador. Oro para ser limpo, perdoado de meus pecados e viva uma vida plena em Cristo Jesus.
 
 	( ) Sim ( ) Não
@@ -333,7 +333,7 @@ c) Sim ele está em Jerusalém até hoje e se quero ser perdoado de meus pecados
 # (2) O Santuário Celestial - O Templo de Deus no Céu
 
 !!!quote Verso Áureo
-	Porque Cristo não entrou em santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para comparecer, agora, por nós, diante de Deus; **Hebreus 9:24**{class=livro}
+	**Porque Cristo não entrou em santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para comparecer, agora, por nós, diante de Deus;**{class=verso} **Hebreus 9:24**{class=livro}
 
 ## Domingo
 
@@ -572,7 +572,7 @@ a) Jesus é nosso advogado junto Pai.
 b) Porque o Pai sempre nos ama.  
 c) Porque Jesus sempre nos aceita.  
 
-!!!check Decisão
+!!!check Minha Decisão
 	Conhecendo a verdade sobre o santuário celestial e a intercessão de Cristo por mim, aceito a mediação dEle por mim?
 
 	( ) Sim ( ) Não
@@ -582,7 +582,7 @@ c) Porque Jesus sempre nos aceita.
 # (3) A Purificação do Santuário
 
 !!!quote Verso Áureo
-    Mas, no segundo, o sumo sacerdote, ele sozinho, uma vez por ano, não sem sangue, que ele oferece por si e pelos pecados de ignorância do povo. **Hebreus 9:7**{class=livro}
+    **Mas, no segundo, o sumo sacerdote, ele sozinho, uma vez por ano, não sem sangue, que ele oferece por si e pelos pecados de ignorância do povo.**{class=verso} **Hebreus 9:7**{class=livro}
 
 ## Domingo
 
@@ -829,7 +829,7 @@ Mas, antes que isso seja consumado, deve haver um exame dos livros de registro p
 
 Toda esta cerimônia tinha por fim impressionar os israelitas com a santidade de Deus e o Seu horror ao pecado; e, demais, mostrar-lhes que não poderiam entrar em contato com o pecado sem se poluir. Exigia-se que enquanto a obra da expiação se efetuava, todas as ocupações fossem postas de parte, e toda a congregação de Israel deveria passar o dia em solene humilhação diante de Deus, com oração, jejum e profundo exame de coração.
 
-!!!check Decisão
+!!!check Minha Decisão
 	Quero me preparar para que no dia em que meu caso for analisado eu seja encontrado limpo por Jesus.
 	
 	( ) Sim ( ) Não
@@ -839,7 +839,7 @@ Toda esta cerimônia tinha por fim impressionar os israelitas com a santidade de
 # (4) A Profecia das 2300 tardes e manhãs
 
 !!!quote Verso Áureo
-    Ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado. **Daniel 8:14**{class=livro}
+    **Ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.**{class=verso} **Daniel 8:14**{class=livro}
 
 ## Domingo
 
@@ -1122,7 +1122,7 @@ c) Que todos se arrependam, porque está chegando o tempo do juízo.
 
 Conquanto a oferta pelo pecado apontasse para Cristo como sacrifício, e o sumo sacerdote O representasse como mediador, o bode emissário tipificava Satanás, autor do pecado e sobre quem os pecados dos verdadeiros penitentes serão finalmente colocados. Quando no fim da cerimônia da expiação, o sumo sacerdote colocava os pecados sobre a cabeça do bode vivo que era levado amarrado para o deserto e era deixado ali. Assim também quando Cristo, por virtude e mérito de Seu próprio sangue, remover os pecados de Seu povo do santuário celestial, no encerramento de Seu ministério, Ele colocará os pecados sobre Satanás que, na execução do juízo, deverá arrostar a pena final. O bode emissário era enviado para uma terra desabitada, para nunca mais voltar à congregação de Israel. Assim será Satanás para sempre banido da presença de Deus e de Seu povo, e eliminado da existência na destruição final do pecado e pecadores.
 
-!!!check Decisão
+!!!check Minha Decisão
 	Você gostaria de confessar os seus pecados a Deus para que eles possam ser colocados no santuário e serem finalmente apagados pelo ministério de Cristo?
 
 	( ) Sim ( ) Não
@@ -1132,7 +1132,7 @@ Conquanto a oferta pelo pecado apontasse para Cristo como sacrifício, e o sumo 
 # (5) O Juízo Investigativo
 
 !!!quote Verso Áureo
-    Continuei olhando, até que foram postos uns tronos, e o Ancião de Dias Se assentou; Sua veste era branca como a neve, e os cabelos da cabeça, como a pura lã; o Seu trono eram chamas de fogo, e suas rodas eram fogo ardente. Um rio de fogo manava e saía de diante dEle; milhares de milhares O serviam, miríades de miríades estavam diante dEle; assentou-se o tribunal, e se abriram os livros. **Daniel 7:9,10**{class=livro}
+    **Continuei olhando, até que foram postos uns tronos, e o Ancião de Dias Se assentou; Sua veste era branca como a neve, e os cabelos da cabeça, como a pura lã; o Seu trono eram chamas de fogo, e suas rodas eram fogo ardente. Um rio de fogo manava e saía de diante dEle; milhares de milhares O serviam, miríades de miríades estavam diante dEle; assentou-se o tribunal, e se abriram os livros.**{class=verso} **Daniel 7:9,10**{class=livro}
 
 ## Domingo
 
@@ -1370,7 +1370,7 @@ c) A classe que crê e não obedece.
 
 Desde que o juízo começou, `em 1844`, os casos dos que morreram estão a passar diante de Deus. Em 2001, os vivos começaram a ser julgados, Jesus declara que os que estão sendo santificados deverão continuar a ser santificados quando Ele terminar Sua obra de Julgar. Portanto precisamos do poder de Jesus em nossas vidas para lutar e vencer toda falta de caráter a fim de estarmos limpos, diante dEle, na Sua vinda. A Bíblia diz que Jesus vem buscar uma igreja pura, pronta, perfeita e adornada para o Seu esposo o qual é Cristo. Os que fazem parte deste grupo seguem o Cordeiro por onde quer que Ele vai. Foram comprados como primícias para Deus e para o Cordeiro. E na sua boca não se achou engano; porque são irrepreensíveis diante do trono de Deus. Amém!
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo ardentemente preparar-me para o Juízo.
 	
 	( ) Sim ( ) Não
@@ -1380,7 +1380,7 @@ Desde que o juízo começou, `em 1844`, os casos dos que morreram estão a passa
 # (6) A Primeira Mensagem Angélica
 
 !!!quote Verso Áureo
-    dizendo em grande voz: Temei a Deus e dai-lhe glória, pois é chegada a hora do Seu juízo; e adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas. **Apocalipse 14:7**{class=livro}
+    **dizendo em grande voz: Temei a Deus e dai-lhe glória, pois é chegada a hora do Seu juízo; e adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas.**{class=verso} **Apocalipse 14:7**{class=livro}
 
 ## Domingo
 
@@ -1720,7 +1720,7 @@ c) ( ) Jesus e Deus e o Espírito Santo são todos o mesmo e único Deus.
     Vemos, portanto, que existe um só Deus, um Ser pessoal, espiritual, o criador de todas as coisas, onipotente, onisciente e eterno; infinito em sabedoria, santidade, justiça, bondade, verdade e misericórdia; imutável; e presente em toda parte por seu representante o Espírito Santo.
     Que existe um Senhor Jesus Cristo, o Filho do Eterno Pai, pelo qual todas as coisas foram criadas e por quem elas existem; que ele tomou a natureza do homem para redenção da nossa raça caída.
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo ser fiel a primeira mensagem angélica adorando ao Deus verdadeiro.
 
 	( ) Sim ( ) Não
@@ -1730,7 +1730,7 @@ c) ( ) Jesus e Deus e o Espírito Santo são todos o mesmo e único Deus.
 # (7) A Mensagem do Segundo Anjo
 
 !!!quote Verso Áureo
-    Seguiu-se outro anjo, o segundo, dizendo: Caiu, caiu a grande Babilônia que tem dado a beber a todas as nações do vinho da ira da sua prostituição. **Apocalipse 14:6,7**{class=livro}
+    **Seguiu-se outro anjo, o segundo, dizendo: Caiu, caiu a grande Babilônia que tem dado a beber a todas as nações do vinho da ira da sua prostituição.**{class=verso} **Apocalipse 14:6,7**{class=livro}
 
 ## Domingo
 
@@ -2028,7 +2028,7 @@ a) Que pena que a grande cidade caiu!
 b) Aleluia pois o Senhor, Deus Todo-poderoso reina!  
 c) Vamos para uma festa de casamento!  
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo não me contaminar com as heresias pregadas pelas falsas igrejas e me unir aos remanescentes (os que guardam os mandamentos de Deus e tem a fé de Jesus).
 
 	( ) Sim ( ) Não
@@ -2038,7 +2038,7 @@ c) Vamos para uma festa de casamento!
 # (8) A Mensagem do Terceiro Anjo
 
 !!!quote Verso Áureo
-    Seguiu-se a estes, outro anjo, o terceiro, dizendo, em grande voz: Se alguém adorar a besta e a sua imagem e recebe a sua marca na fronte ou sobre a mão... **Apocalipse 14:9-12**{class=livro}
+    **Seguiu-se a estes, outro anjo, o terceiro, dizendo, em grande voz: Se alguém adorar a besta e a sua imagem e recebe a sua marca na fronte ou sobre a mão...**{class=verso} **Apocalipse 14:9-12**{class=livro}
 
 ## Domingo
 
@@ -2294,7 +2294,6 @@ c) O dragão é Elias.
 a) Jesus baseou a sua resposta no "está escrito" ou seja, na Bíblia.  
 b) Jesus discutiu com Satanás na linguagem do diabo.  
 c) Jesus não falou nada.  
-<div class='page'>&nbsp;</div>
 
 **23) Quantos cederão aos reclamos do culto a besta?**{class=questao} **Apocalipse 13:8**{class=livroQ}  
 **E adorá-la-ão todos os que habitam sobre a terra, aqueles cujos nomes não foram escritos no Livro da Vida do Cordeiro que foi morto desde a fundação do mundo.**{class=versoQ} **Apocalipse 13:8**{class=livroVerso}  
@@ -2323,7 +2322,7 @@ b) Os vencedores do Oscar.
 c) Os vencedores da Copa do Mundo.  
 <div class='page'>&nbsp;</div>
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo me preparar para estar entre aqueles que serão vencedores contra o poder do mal.
 
 	( ) Sim ( ) Não
@@ -2333,7 +2332,7 @@ c) Os vencedores da Copa do Mundo.
 # (9) Os Mandamentos de Deus e a fé de Jesus
 
 !!!quote Verso Áureo
-    Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé de Jesus. **Apocalipse 14:12**{class=livro}
+    **Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé de Jesus.**{class=verso} **Apocalipse 14:12**{class=livro}
 
 ## Domingo
 
@@ -2681,7 +2680,7 @@ a) O que importa é a sinceridade
 b) O mais importante é a obediência a Deus.  
 c) O mais importante é obedecer aos pastores.  
 
-!!!check Decisão
+!!!check Minha Decisão
 	Você deseja ser obediente a Deus antes que aos homens e ser uma testemunha da verdade para o mundo?
 
 	( ) Sim ( ) Não
@@ -2691,7 +2690,7 @@ c) O mais importante é obedecer aos pastores.
 # (10) Sábado - O dia do Senhor
 
 !!!quote Verso Áureo
-    Tu, pois, fala aos filhos de Israel, dizendo: Certamente guardareis meus sábados; porquanto isso é um sinal entre mim e vós nas vossas gerações; para que saibais que eu sou o SENHOR, que vos santifica **Êxodo 31:13**{class=livro}
+    **Tu, pois, fala aos filhos de Israel, dizendo: Certamente guardareis meus sábados; porquanto isso é um sinal entre mim e vós nas vossas gerações; para que saibais que eu sou o SENHOR, que vos santifica**{class=verso} **Êxodo 31:13**{class=livro}
 
 ## Domingo
 
@@ -2967,7 +2966,6 @@ c) Devemos deixar os trabalhos em prol dos necessitados para o sábado, assim n�
 a) Jesus é o Senhor do sábado  
 b) Jesus é Senhor do primeiro dia da semana, o domingo  
 c) Jesus é o Senhor de todos os dias.  
-<div class='page'>&nbsp;</div>
 
 !!!note ""
 	 Jesus declara ser o Senhor do sábado.
@@ -3017,7 +3015,7 @@ c) O sábado era só para os judeus.
 !!!note ""
 	 Quando a terra for restaurada, e o governo de Deus se estabelecer aqui, todos virão adorar perante Deus no sábado.
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo estar entre aqueles que são obedientes ao mandamento do sábado.
 
 	( ) Sim ( ) Não
@@ -3027,7 +3025,7 @@ c) O sábado era só para os judeus.
 # (11) Selo de Deus x Marca da Besta - O Sinal da Apostasia
 
 !!!quote Verso Áureo
-    Se alguém adora a besta e a sua imagem e recebe a sua marca na fronte ou sobre a mão, também esse beberá do vinho da cólera de Deus, preparado, sem mistura, do cálice da sua ira. **Apocalipse 14:9,10**{class=livro}
+    **Se alguém adora a besta e a sua imagem e recebe a sua marca na fronte ou sobre a mão, também esse beberá do vinho da cólera de Deus, preparado, sem mistura, do cálice da sua ira.**{class=verso} **Apocalipse 14:9,10**{class=livro}
 
 ## Domingo
 
@@ -3322,7 +3320,7 @@ a) Sim     b) Não   c) Não sei.
 !!!note ""
 	 Sobre aqueles que forem fiéis ao Senhor e ao santo sábado do Senhor repousará a promessa dada em **Salmos 91:10**{class=livro} - **"praga nenhuma chegará a tua tenda".**{class=verso}
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo de todo o coração ser fiel aos mandamentos de Deus antes que aos mandamentos do homem.
 
 	( ) Sim ( ) Não
@@ -3332,7 +3330,7 @@ a) Sim     b) Não   c) Não sei.
 # (12) A Mortalidade da Alma
 
 !!!quote Verso Áureo
-    Sabei que aquele que converte o pecador do caminho errado salvará da morte a alma dele e cobrirá multidão de pecados. **Tiago 5:20**{class=livro}
+    **Sabei que aquele que converte o pecador do caminho errado salvará da morte a alma dele e cobrirá multidão de pecados.**{class=verso} **Tiago 5:20**{class=livro}
 
 ## Domingo
 
@@ -3555,7 +3553,7 @@ c) Satanás não terá mais nenhum grande engano.
 	 Depois da queda, Satanás ordenou a seus anjos que fizessem um esforço especial a fim de inculcar a crença da imortalidade inerente ao homem; e, tendo induzido o povo a receber este erro, deveriam levá-lo a concluir que o pecador viveria em estado de eterna miséria. Agora o príncipe das trevas, operando por meio de seus agentes, representa a Deus como um tirano vingativo, declarando que Ele mergulha no inferno todos que não lhe agradam, e faz com que sempre sintam a Sua ira; e que, enquanto sofrem angustia indizível, e se contorcem nas chamas eternas, Seus Criador olha para eles com satisfação.
 Assim o príncipe dos demônios reveste com seus próprios atributos ao Criador e Benfeitor da humanidade. A crueldade é satânica. Deus é amor: e tudo quanto criou era puro, santo e formoso, até o pecado ser introduzido pelo primeiro grande rebelde.
 
-!!!check Decisão
+!!!check Minha Decisão
 	Desejo estar pronto para não ser enganado pelo último engano de Satanás antes da vinda de Cristo referente a imortalidade da alma?
 
 	( ) Sim ( ) Não
@@ -3565,7 +3563,7 @@ Assim o príncipe dos demônios reveste com seus próprios atributos ao Criador 
 # (13) Espiritismo ou Espiritualismo
 
 !!!quote Verso Áureo
-    Quando vos disserem: consultai os necromantes e os adivinhos, que chilreiam e murmuram, acaso, não consultará o povo ao seu Deus? Em favor dos vivos se consultarão os mortos? **Isaías 8:19**{class=livro}
+    **Quando vos disserem: consultai os necromantes e os adivinhos, que chilreiam e murmuram, acaso, não consultará o povo ao seu Deus? Em favor dos vivos se consultarão os mortos?**{class=verso} **Isaías 8:19**{class=livro}
 
 ## Domingo
 
@@ -3783,9 +3781,9 @@ Muitos se esforçam para explicar as manifestações espíritas, atribuindo-as i
 Muitos se aventuram por curiosidade a colocar sob sua influencia. Não tem a menor intenção de crer ou aceitar estes ensinos de espíritos. Entram, porém em terreno proibido e o poderosos destruidor exerce a sua força sobre eles contra sua vontade. Uma vez induzidos a submeter a mente à sua direção, segura-os ele em cativeiro. É impossível pela sua própria força romperem com o fascinante, sedutor encanto. Nada, a não ser o poder de Deus, concedido em resposta à fervorosa oração da fé, poderá livrar essas almas prisioneiras.
 <div class='page'>&nbsp;</div>
 
-!!!check Decisão
+!!!check Minha Decisão
 	Quando tiver dúvidas, desejo consultar somente a Deus.
 
-	( ) Sim ( ) Não Data ___ /___ /_____
+	( ) Sim ( ) Não
 
 **Anotações:**

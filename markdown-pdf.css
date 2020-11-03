@@ -148,9 +148,15 @@ ol.alpha {
   }
 }
 
-/* Para ocultar */
-.livroQ { display: none1; }
-.versoQ, .livroVerso, .questao ~ br { display: none1; }
+/* Para gerar versão sem mostrar os versos biblicos das questões
+  basta descomentar as 2 linhas logo abaixo, e
+  não esqueça de voltar para deixar no padrão
+ */
+
+ /*
+.livroQ { display: none; }
+.versoQ, .livroVerso, .questao ~ br { display: none; }
+*/
 
 blockquote {
   background: #f7f8fa;

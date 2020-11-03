@@ -102,9 +102,11 @@ Exemplos (se tiver instalado o complemento `jebbs.markdown-extended`):
 
 ## Gerando e Salvando Versão
 
-Na branch de **desenv** salvar todos os arquivos markdown (.md) e html e outros elementos para gerar o pdf, então salve no git (commit). 
+Na branch de **desenv** salvar apenas, todos os arquivos markdown (.md), imagens (.png, jpg) e estilos (.css) que são necessários para gerar o PDF.
 
-Ao ter uma versão final do pdf, mude de branch (para master) e então faça o commit do arquivo pdf na master. Assim só teremos branch as versões finais dos arquivos PDF.
+Ao ter uma versão final do pdf, mude de branch (para master) e então faça o commit do arquivo pdf, somente, na master. Assim só teremos na branch master, as versões finais dos arquivos PDF.
+
+Obs: Fora programado para algumas edições da escola sabatina, ter a versão com os versos da bíblia, ou sem. De padrão, é com os versos. Para gerar uma versão sem os versos, é necessário editar o arquivo markdown-pdf.css 
 
 
 <script>

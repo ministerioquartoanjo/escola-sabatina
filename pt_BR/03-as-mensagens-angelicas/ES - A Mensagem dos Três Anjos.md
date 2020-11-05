@@ -18,7 +18,7 @@ puppeteer:
 
 ![](../logo-mqa.jpg)
 
-**As 3 Mensagens Angélicas**{class=titulo_capa}
+**A Mensagem dos 3 Anjos**{class=titulo_capa}
 
 <div class='page'>&nbsp;</div>
 
@@ -26,7 +26,7 @@ puppeteer:
 
 **Citações bíblicas:** ARA: Almeida Revista e Atualizada, ARC: Almeida Revista e Corrigida
  
-**Versão:** 20201103
+**Versão:** 20201104
 
 
 # (1) O Evangelho Eterno
@@ -80,11 +80,11 @@ João viu anjo voando pelo meio do céu, para pregar o evangelho. Fato é que, s
 
 Como vimos anteriormente, o evangelho deve ser pregado a todos:
 - **“Ide antes às ovelhas perdidas da casa de Israel”**{class=verso} (**Mateus 10:6**{class=livro}). Os israelitas eram os guardadores do sábado. O evangelho deve ser pregado primeiramente a esta classe de pessoas. 
-- Em seguida à todos os demais: **“ser-Me-eis testemunhas, tanto em Jerusalém, como em toda a Judéia e Samaria, e até os confins da terra”**{class=verso} (**Atos 1:8**{class=livro}). Os apóstolos, no passado, atenderam ao chamado de Cristo: **“Por toda a terra saiu a voz deles, e as suas palavras até os confins do mundo”**{class=verso} (**Romanos 10:18**{class=livro}). 
+- Em seguida a todos os demais: **“ser-Me-eis testemunhas, tanto em Jerusalém, como em toda a Judéia e Samaria, e até os confins da terra”**{class=verso} (**Atos 1:8**{class=livro}). Os apóstolos, no passado, atenderam ao chamado de Cristo: **“Por toda a terra saiu a voz deles, e as suas palavras até os confins do mundo”**{class=verso} (**Romanos 10:18**{class=livro}). 
 
-Paulo disse que, em seus dias, o **“evangelho... foi pregado a toda a critura que há debaixo do céu”**{class=verso} (**Colossenses 1:23**{class=livro}). E Jesus nos chama à mesma obra. O anjo do Apocalipse tinha a comissão de pregar o evangelho **“a toda nação, e tribo, e língua, e povo”**{class=verso} (**Apocalipse  14:6**{class=livro}).
+Paulo disse que, em seus dias, o **“evangelho... foi pregado a toda a criatura que há debaixo do céu”**{class=verso} (**Colossenses 1:23**{class=livro}). E Jesus nos chama à mesma obra. O anjo do Apocalipse tinha a comissão de pregar o evangelho **“a toda nação, e tribo, e língua, e povo”**{class=verso} (**Apocalipse  14:6**{class=livro}).
 
-A palavra anjo, é a tradução do original que significa **“mensageiro”**. Somos chamados a sermos este mensageiro. Eis o convite, a todos que aceitam as 3 mensagens angelicas, atenderemos Seu convite?
+A palavra anjo, é a tradução do original que significa **“mensageiro”**. Somos chamados a sermos este mensageiro. Eis o convite, a todos que aceitam as 3 mensagens angélicas, atenderemos Seu convite?
 
 ## Terça-Feira
 
@@ -137,7 +137,7 @@ Os que habitam sobre a terra são mencionados como sendo os que perseguem e mata
 
 No capítulo 8, são vistos como comemorando a morte das testemunhas de Deus: **“E os que habitam sobre a terra se regozijarão sobre eles, e se alegrarão; e mandarão presentes uns aos outros, porquanto estes dois profetas atormentaram os que habitam sobre a terra.”**{class=verso} (**Apocalipse 11:10**{class=livro}). É a esta classe de pessoas que Deus nos manda proclamar o evangelho nos últimos dias. Você pode notar que o trabalho não parece muito promissor, pregar para que os desejam matar os pregadores. Mas, foi isso o que nosso Mestre, Jesus, fez: **“Veio para o que era Seu, e os seus não O receberam”**{class=verso} (**João 1:11**{class=livro}). Certa vez, disse aos líderes de Israel: **“procurais matar-Me, a Mim que vos falei a verdade que de Deus ouvi; isso Abraão não fez”**{class=verso} (**João 8:40**{class=livro}). E a nós, esclarece: **“Não é o servo maior do que o seu senhor. Se a Mim Me perseguiram, também vos perseguirão a vós”**{class=verso} (**João 15:20**{class=livro}).
 
-A avaliação de Deus é diferente da nossa. Ele vê, não o que o homem é hoje - perseguidor e rejeitador da graça, mas, o que pode ser, pelo Seu poder - santo. Quer que apresentemos a boa nova, pois embora muitos possam rejeitar o convite do evangelho de salvação, muitos outros o aceitarão. A profecia de Isaías diz que Jesus **“verá o fruto do trabalho da Sua alma, e ficará satisfeito; com o Seu conhecimento o Meu Servo Justo justificará a muitos, e as iniqüidades deles levará sobre Si”**{class=verso} (**Isaías 53:11**{class=livro}). Demonstrou amor pelos ingratos, e este amor transformaria muitos deles, dando-lhes poder de serem chamados filhos de Deus.
+A avaliação de Deus é diferente da nossa. Ele vê, não o que o homem é hoje - perseguidor e rejeitador da graça, mas, o que pode ser, pelo Seu poder - santo. Quer que apresentemos a boa nova, pois embora muitos possam rejeitar o convite do evangelho de salvação, muitos outros o aceitarão. A profecia de Isaías diz que Jesus **“verá o fruto do trabalho da Sua alma, e ficará satisfeito; com o Seu conhecimento o Meu Servo Justo justificará a muitos, e as iniquidades deles levará sobre Si”**{class=verso} (**Isaías 53:11**{class=livro}). Demonstrou amor pelos ingratos, e este amor transformaria muitos deles, dando-lhes poder de serem chamados filhos de Deus.
 
 Hoje, nós somos convidados a trabalhar pelas almas como Ele, amarmos os inimigos mortais como Ele amou. Então, ao fim de tudo, participaremos da Sua alegria de vermos almas eternamente salvas, e ouviremos Suas palavras: **“Muito bem, servo bom e fiel; sobre o pouco foste fiel, sobre o muito te colocarei; _entra no gozo do teu Senhor_”**{class=verso} (**Mateus 25:21**{class=livro}). Oxalá! Todos nós participemos com Cristo desta alegria!
 
@@ -146,7 +146,7 @@ Hoje, nós somos convidados a trabalhar pelas almas como Ele, amarmos os inimigo
 **“E vi outro anjo voando pelo meio do céu, e tinha um evangelho eterno para proclamar aos que habitam sobre a terra, e a toda nação, e tribo, e língua, e povo”**{class=verso} **Apocalipse 14:6**{class=livro}.
 
 !!!summary Resumo
-    Deus enviou um anjo, a qual é representado a voar pelo meio do céu, ele tem uma solene mensagem que deve ser conhecida por todos, antes do fim. Este é o evangelho eterno, a boa nova de que o Pai nos enviou um Salvador, Cristo Jesus, e Ele é o poder de Deus para a salvação. Será salvo todos que nEle crê, para perdão dos seus pecados, e da desobediência à lei de Deus. Pois o que crê em Jesus Cristo, pela verdadeira conversão, será feito obediente aos Dez Mandamentos no poder de Deus que Jesus concede a cada um que pedir. Assim, será restaurado à condição de onde a raça humana um dia caiu - do estado santo e feliz no qual viviam Adão e Eva. Por aceitarmos o evangelho, se cumprirá a promessa de Deus ao nosso respeito: **“sereis pois santos, porque Eu Sou santo”**{class=verso} (**Levíticos 11:45**{class=livro}).
+    Deus enviou um anjo, a qual é representado a voar pelo meio do céu, ele tem uma solene mensagem que deve ser conhecida por todos, antes do fim. Este é o evangelho eterno, a boa nova de que o Pai nos enviou um Salvador, Cristo Jesus, e Ele é o poder de Deus para a salvação. Será salvo todos que nEle crê, para perdão dos seus pecados, e da desobediência à lei de Deus. Pois o que crê em Jesus Cristo, pela verdadeira conversão, será feito obediente aos Dez Mandamentos no poder de Deus que Jesus concede a cada um que pedir. Assim, será restaurado à condição de onde a raça humana um dia caiu - do estado santo e feliz no qual viviam Adão e Eva. Por aceitarmos o evangelho, se cumprirá a promessa de Deus ao nosso respeito: **“sereis, pois, santos, porque Eu Sou santo”**{class=verso} (**Levíticos 11:45**{class=livro}).
 
 
 ## Sábado
@@ -163,7 +163,7 @@ Como o evangelho chegou até você, e como ele fez e faz diferença na sua vida.
 !!!check Minha Decisão
     Desejo ser um mensageiro e levar a mensagem das boas novas que Deus nos dá, confiando em sua graça e poder?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (2) 1ª - Temei a Deus e dai-Lhe Glória
 
@@ -171,7 +171,7 @@ Como o evangelho chegou até você, e como ele fez e faz diferença na sua vida.
 	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
 
 !!!cite Eventos Finais - EGW, pág. 41
-    Em sentido especial foram os adventistas do sétimo dia postos no mundo como atalaias e portadores de luz. A eles foi confiada a última mensagem de advertência a um mundo a perecer. Sobre eles incide maravilhosa luz da Palavra de Deus. Confiou-se-lhes uma obra da mais solene importância: a proclamação da primeira, segunda e terceira mensagens angelicas. Nenhuma obra há de tão grande importância. Não devem eles permitir que nenhuma outra coisa lhes absorva a atenção.
+    Em sentido especial foram os adventistas do sétimo dia postos no mundo como atalaias e portadores de luz. A eles foi confiada a última mensagem de advertência a um mundo a perecer. Sobre eles incide maravilhosa luz da Palavra de Deus. Confiou-se-lhes uma obra da mais solene importância: a proclamação da primeira, segunda e terceira mensagens angélicas. Nenhuma obra há de tão grande importância. Não devem eles permitir que nenhuma outra coisa lhes absorva a atenção.
 
 ## Domingo
 
@@ -188,7 +188,7 @@ Daniel viu iniciar-se o juízo no céu e os livros sendo abertos. Diz a Escritur
 
 Todas nossas obras, conhecidas e encobertas, estão fielmente registradas em livros. Disse o salmista: **“Tu contaste as minhas vagueações; põe as minhas lágrimas no Teu odre; não estão elas no Teu livro?”**{class=verso} (**Salmos 56:8**{class=livro}). **“Os Teus olhos viram o meu corpo ainda informe, e no Teu livro todas estas coisas foram escritas, as quais iam sendo dia a dia formadas”**{class=verso} (**Salmos 139:16**{class=livro}). **“Portanto, nada julgueis antes de tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas das trevas e manifestará os desígnios dos corações”**{class=verso} (**I Coríntios 4:5**{class=livro}).
 
-As boas e as más obras são igualmente registradas: **“o SENHOR atenta e ouve; e há um memorial escrito diante dEle, para os que temem ao SENHOR e para os que se lembram do Seu nome.”**{class=verso} (**Malaquias 3:16**{class=livro}); **“Eis que está escrito diante de Mim... as vossas iniqüidades e juntamente as iniqüidades de vossos pais, diz o SENHOR”**{class=verso} (**Isaías 65:5, 6**{class=livro}).
+As boas e as más obras são igualmente registradas: **“o SENHOR atenta e ouve; e há um memorial escrito diante dEle, para os que temem ao SENHOR e para os que se lembram do Seu nome.”**{class=verso} (**Malaquias 3:16**{class=livro}); **“Eis que está escrito diante de Mim... as vossas iniquidades e juntamente as iniquidades de vossos pais, diz o SENHOR”**{class=verso} (**Isaías 65:5, 6**{class=livro}).
 
 A regra, o padrão de justiça com a qual as obras de todos serão comparadas a fim de serem justificados ou condenados é a santa lei de Deus, os Dez Mandamentos. **“todos os que sem lei pecaram sem lei também perecerão; e todos os que sob a lei pecaram pela lei serão julgados. Porque os que ouvem a lei não são justos diante de Deus, mas os que praticam a lei hão de ser justificados.”**{class=verso} (**Romanos 2:16, 12, 13**{class=livro}). 
 
@@ -238,7 +238,7 @@ Poderiam ter dado glória a Deus, caso se arrependessem. A mensagem do primeiro 
 R.: _______________________________________________________________
 
 
-Arrependimento como este, que leva a odiar de coração o pecado e desejar proceder corretamente, só pode ser produzido por Deus. Ele nos convida a olhar para Sua bondade em prover para nós um Salvador, Seu Filho, morto em nosso lugar, para que pudêssemos viver. **“a benignidade de Deus te conduz ao arrependimento”**{class=verso} (**Romanos 2:4**{class=livro}).
+Arrependimento como este, que leva a odiar de coração o pecado e desejar proceder corretamente, só pode ser produzido por Deus. Ele nos convida a olhar para Sua bondade em prover para nós um Salvador, Seu Filho, morto em nosso lugar, para que pudéssemos viver. **“a benignidade de Deus te conduz ao arrependimento”**{class=verso} (**Romanos 2:4**{class=livro}).
 
 ## Quinta-Feira
 
@@ -249,7 +249,7 @@ Arrependimento como este, que leva a odiar de coração o pecado e desejar proce
 R.: _______________________________________________________________
 
 
-Damos glória a Deus ao confessarmos nossos pecados. Assim fazendo, damos testemunho de que Deus não é culpado por nossas falhas. O problema não está nEle, mas em nós. Ele, Sua lei, e Seu governo, ficam justificados. Por isso, a confissão não deve ser acompanhada de desculpa para o pecado. **“Pecado é a transgressão da lei”**{class=verso} (**I João 3:4**{class=livro}). Desculpar o pecado é justificá-lo; e justificá-lo, significa justificar a transgressão, e por conseqüência condenar Deus e Sua lei. Se a transgressão é certa, então a lei é errada, e Seu Doador também - seria a conclusão óbvia.
+Damos glória a Deus ao confessarmos nossos pecados. Assim fazendo, damos testemunho de que Deus não é culpado por nossas falhas. O problema não está nEle, mas em nós. Ele, Sua lei, e Seu governo, ficam justificados. Por isso, a confissão não deve ser acompanhada de desculpa para o pecado. **“Pecado é a transgressão da lei”**{class=verso} (**I João 3:4**{class=livro}). Desculpar o pecado é justificá-lo; e justificá-lo, significa justificar a transgressão, e por consequência condenar Deus e Sua lei. Se a transgressão é certa, então a lei é errada, e Seu Doador também - seria a conclusão óbvia.
 
 A confissão deve ser clara, sem rodeios. Ao reconhecer sua falta, “disse todo o povo a Samuel: Roga pelos teus servos ao Senhor teu Deus, para que não morramos; porque a todos os nossos pecados temos acrescentado este mal, de pedirmos para nós um rei” (**I Samuel 12:19**{class=livro}).
 
@@ -264,11 +264,11 @@ Obedeçamo-la, para nosso próprio bem!
 **“E vi outro anjo voar pelo meio do céu ... dizendo com _grande voz_”**{class=verso} **Apocalipse 14:6, 7**{class=livro}.
 
 **7) Como Abraão deu glória a Deus?**{class=questao} **Romanos 4:18-20**{class=livroQ}  
- **“O qual, em esperança, creu contra a esperança, para que se tornasse pai de muitas nações, conforme o que lhe fora ditto: Assim será a tua descendência; e sem se enfraquecer na fé, considerou o seu próprio corpo já amortecido (pois tinha quase cem anos), e o amortecimento do ventre de Sara; contudo, à vista da promessa de Deus, não vacilou por incredulidade, antes _foi fortalecido na fé, dando glória a Deus_”**{class=versoQ} (**Romanos 4:18-20**{class=livroVerso}).  
+ **“O qual, em esperança, creu contra a esperança, para que se tornasse pai de muitas nações, conforme o que lhe fora dito: Assim será a tua descendência; e sem se enfraquecer na fé, considerou o seu próprio corpo já amortecido (pois tinha quase cem anos), e o amortecimento do ventre de Sara; contudo, à vista da promessa de Deus, não vacilou por incredulidade, antes _foi fortalecido na fé, dando glória a Deus_”**{class=versoQ} (**Romanos 4:18-20**{class=livroVerso}).  
 R.: _______________________________________________________________  
 
 
-Abraão creu na promessa de Deus, não olhando para as aparências, as quais eram todas contrárias ao cumprimento da promessa. Sua esposa já tinha cessado de ovular, e ele tinha o corpo amortecido. De todos os pontos de vista humanos, era impossível que deles nascesse um filho. Mas Abraão creu no que Deus pode fazer, e nada Lhe é impossível. A impossibilidade do homem apenas se convertia na oportunidade para Deus demonstrar Seu infinito poder. E foi o que Ele fez. Isaque nasceu como filho da promessa, não da vontade da carne, mas de Deus. Da mesma forma, Jesus, **“a todos quantos O receberam, aos que crêem no Seu nome, deu-lhes o poder de se tornarem filhos de Deus; os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do varão, mas de Deus.”**{class=verso} (**João 1:12, 13**{class=livro}). Os homens que crêem em Jesus serão transformados em harmonia com Ele, não por sua própria força ou esforço de obedecer, mas pelo Seu poder. Ao exigir do homem perfeita obediência à sua lei, pede-lhe o que por natureza lhe seria impossível. **“A lei é espiritual; mas eu sou carnal, vendido sob o pecado”**{class=verso} (**Romanos 7:14**{class=livro}). Todavia, a exemplo de Abraão, aqui também a impossilbidade do homem cria a oportunidade de Deus revelar Seu poder e manifestar Sua glória. Crendo em Jesus, o homem aceita que Ele mude seu coração e o faça obedecer a lei. Abraão deu glória a Deus pela fé, e todo o que crê em Jesus e Seu poder de restaurar, também dá glória a Deus. E assim fazendo, é feito guardador dos mandamentos e prepara-se para o juízo.
+Abraão creu na promessa de Deus, não olhando para as aparências, as quais eram todas contrárias ao cumprimento da promessa. Sua esposa já tinha cessado de ovular, e ele tinha o corpo amortecido. De todos os pontos de vista humanos, era impossível que deles nascesse um filho. Mas Abraão creu no que Deus pode fazer, e nada Lhe é impossível. A impossibilidade do homem apenas se convertia na oportunidade para Deus demonstrar Seu infinito poder. E foi o que Ele fez. Isaque nasceu como filho da promessa, não da vontade da carne, mas de Deus. Da mesma forma, Jesus, **“a todos quantos O receberam, aos que crêem no Seu nome, deu-lhes o poder de se tornarem filhos de Deus; os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do varão, mas de Deus.”**{class=verso} (**João 1:12, 13**{class=livro}). Os homens que crêem em Jesus serão transformados em harmonia com Ele, não por sua própria força ou esforço de obedecer, mas pelo Seu poder. Ao exigir do homem perfeita obediência à sua lei, pede-lhe o que por natureza lhe seria impossível. **“A lei é espiritual; mas eu sou carnal, vendido sob o pecado”**{class=verso} (**Romanos 7:14**{class=livro}). Todavia, a exemplo de Abraão, aqui também a impossibilidade do homem cria a oportunidade de Deus revelar Seu poder e manifestar Sua glória. Crendo em Jesus, o homem aceita que Ele mude seu coração e o faça obedecer a lei. Abraão deu glória a Deus pela fé, e todo o que crê em Jesus e Seu poder de restaurar, também dá glória a Deus. E assim fazendo, é feito guardador dos mandamentos e prepara-se para o juízo.
 
 ## Sábado
 
@@ -281,14 +281,14 @@ R.: _______________________________________________________________
 
 Podemos dar glória a Deus ou não pelas nossas obras. O Senhor nos convida a conhecer como glorificá-Lo por meio do que ingerimos. E encontramos conselhos na Palavra a este respeito: **“bom é não comer carne, nem beber vinho”**{class=verso} (**Romanos 14:21**{class=livro}). A dieta vegetariana honra a Deus. Aqui aprendemos que, sempre que nos for possível, devemos evitar o uso da carne de animais mortos de qualquer espécie: gado, ovelha, carneiro, frango, peixe, frutos do mar e outros. **“ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual possuís da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço; glorificai pois a Deus no vosso corpo.”**{class=verso} (**I Coríntios 6:19, 20**{class=livro}).
 
-O verso inicial é a ainda mais abrangente. Caso façais qualquer outra coisa, fazei tudo para a glória de Deus. Isso significa ter como supremo objetivo da vida o agradar a Deus e honrar Seu nome em nossas vidas. É viver para Ele, e não para nós mesmos. Como podemos vivenciar esta experiência? Paulo explica: **“pois o amor de Cristo nos constrange, porque julgamos assim: se um morreu por todos, logo todos morreram; e Ele morreu por todos, para que os que vivem não vivam mais para si, mas para Aquele que pore les morreu e ressuscitou”**{class=verso} (**II Coríntios 5:14, 15**{class=livro}). O amor de Cristo por nós a ponto de dar Sua vida para que pudéssemos viver é um constante motivador a dar-nos por Ele. As palavras do evangelho: **“dai-Lhe glória”** são um convite para que vivamos sempre com esta motivação, e assim nossas obras O glorifiquem. No juízo, os homens são **“julgados... segundo as suas obras”**{class=verso} (**Apocalipse 20:12**{class=livro}). Os que crêem e obedecem as palavras dai-Lhe glória não temem o juízo, pois este demonstrará que suas obras estão em harmonia com Sua vontade.
+O verso inicial é a ainda mais abrangente. Caso façais qualquer outra coisa, fazei tudo para a glória de Deus. Isso significa ter como supremo objetivo da vida o agradar a Deus e honrar Seu nome em nossas vidas. É viver para Ele, e não para nós mesmos. Como podemos vivenciar esta experiência? Paulo explica: **“pois o amor de Cristo nos constrange, porque julgamos assim: se um morreu por todos, logo todos morreram; e Ele morreu por todos, para que os que vivem não vivam mais para si, mas para Aquele que por eles morreu e ressuscitou”**{class=verso} (**II Coríntios 5:14, 15**{class=livro}). O amor de Cristo por nós a ponto de dar Sua vida para que pudéssemos viver é um constante motivador a dar-nos por Ele. As palavras do evangelho: **“dai-Lhe glória”** são um convite para que vivamos sempre com esta motivação, e assim nossas obras O glorifiquem. No juízo, os homens são **“julgados... segundo as suas obras”**{class=verso} (**Apocalipse 20:12**{class=livro}). Os que crêem e obedecem as palavras dai-Lhe glória não temem o juízo, pois este demonstrará que suas obras estão em harmonia com Sua vontade.
 
 Nesta semana, vimos o crer e obedecer às palavras do evangelho **“temei a Deus e dai-Lhe glória”** preparam as pessoas para serem aprovadas no juízo. Que possamos nós também crer e obedecer este evangelho maravilhoso, para nosso próprio bem temporal e eterno. Amém!
 
 !!!check Minha Decisão
     Desejo crer e obedecer as este maravilhoso evangelho para que possa me preparar e ser aprovado no dia do juízo?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (3) 1ª - É chegada a hora do Seu juízo...
 
@@ -306,7 +306,7 @@ R.: _______________________________________________________________
 
 A mensagem do primeiro anjo anuncia ao mundo o juízo iniciado no céu. E o que dá certeza aos servos de Deus quanto a tal evento é a palavra da profecia. Disse Pedro: **“temos ainda mais firme a palavra profética”**{class=verso} (**II Pedro 1:19**{class=livro}). Encontramos o relato da visão sobre o juízo no livro de Daniel: “Eu continuei olhando, até que foram postos uns tronos, e um Ancião de Dias se assentou; o Seu vestido era branco como lã puríssima; e o Seu trono era de chamas de fogo, e as rodas dele eram fogo ardente.
 
-Um rio manava e saía de diante dEle; milhares de mihares O serviam, e miríades de miríades assistiam diante dEle. Assentou-se o juízo, e os livros foram abertos.” (**Daniel 7:8-10**{class=livro}). Aqui não é apontado o tempo no qual este se inicia. No capítulo 8, são dadas explicações adicionais sobre a visão, e ali é relatado o tempo do início do juízo: **“apareceu-me uma visao, _depois daquela que me apareceu no princípio_ ... depois ouvi um santo que falava; e disse outro santo àquele que falava: Até quando durará a visão...? Ele me respondeu: Até duas mil e trezentas tardes e manhãs; então o santuário sera purificado.”**{class=verso} (**Daniel 8:1, 13, 14**{class=livro}). Uma breve olhada nas visões dos capítulos 7 e 8 mostra que ambas tratam do mesmo tema - um poder que persegue os santos e, após sua queda assenta-se o tribunal do céu para juízo. No capítulo 7, anjo diz: **“proferirá palavras contra o Altíssimo, e consumirá os santos do Altíssimo; cuidará em mudar os tempos e a lei; os santos lhe serão entregues na mão por um tempo, e tempos e metade de um tempo. Mas o tribunal se assentará em juízo, e lhe tirará o domínio”**{class=verso} (**Daniel 7:25, 26**{class=livro}). E no verso 8: **“Até quando durará a visão relativamente ao... contínuo e à transgressão assoladora, e à entrega do santuário e do exército, para serem pisados?”**{class=verso} (**Daniel 8:13**{class=livro}).
+Um rio manava e saía de diante dEle; milhares de milhares O serviam, e miríades de miríades assistiam diante dEle. Assentou-se o juízo, e os livros foram abertos.” (**Daniel 7:8-10**{class=livro}). Aqui não é apontado o tempo no qual este se inicia. No capítulo 8, são dadas explicações adicionais sobre a visão, e ali é relatado o tempo do início do juízo: **“apareceu-me uma visão, _depois daquela que me apareceu no princípio_ ... depois ouvi um santo que falava; e disse outro santo àquele que falava: Até quando durará a visão...? Ele me respondeu: Até duas mil e trezentas tardes e manhãs; então o santuário sera purificado.”**{class=verso} (**Daniel 8:1, 13, 14**{class=livro}). Uma breve olhada nas visões dos capítulos 7 e 8 mostra que ambas tratam do mesmo tema - um poder que persegue os santos e, após sua queda assenta-se o tribunal do céu para juízo. No capítulo 7, anjo diz: **“proferirá palavras contra o Altíssimo, e consumirá os santos do Altíssimo; cuidará em mudar os tempos e a lei; os santos lhe serão entregues na mão por um tempo, e tempos e metade de um tempo. Mas o tribunal se assentará em juízo, e lhe tirará o domínio”**{class=verso} (**Daniel 7:25, 26**{class=livro}). E no verso 8: **“Até quando durará a visão relativamente ao... contínuo e à transgressão assoladora, e à entrega do santuário e do exército, para serem pisados?”**{class=verso} (**Daniel 8:13**{class=livro}).
 
 **Daniel 7:25:**{class=livro} santos lhe serão entregues na mão **Daniel 8: 13:**{class=livro} entrega do santuário
 
@@ -316,7 +316,7 @@ Ambas expressões se referem à perseguição dos santos. A história revela que
 
 ### A Profecia que Aponta o Juízo - continuação
 
-A profecia que aponta o juízo não foi entendida por Daniel e seus contemporâneos. O anjo lhe disse: **“a visão da tarde e manhã, que foi dita, é verdadeira. Tu, porém, cerra a visão, porque se refere a dias mui distantes... E espantei-me acerca da visao, pois não havia quem a entendesse”.**{class=verso} (**Daniel 8:26, 27**{class=livro}). Tempos mais tarde, **“no primeiro ano de Dario, filho de Assuero, a linhagem dos medos”**{class=verso}... Daniel pôs-se a clamar a Deus, e relata: **“enquanto estava eu ainda falando na oração, o varão Gabriel, que eu tinha visto na minha visão ao princípio, veio voando rapidamente, e tocou-me à hora da oblação da tarde. Ele me instruiu, e falou comigo, dizendo... considera pois a palavra e entende a visão. Setenta semanas estão decretadas sobre o teu povo, e sobre a tua santa cidade, para fazer cessar a transgressão, para dar fim aos pecados, e para expiar a iniqüidade, e trazer a justiça eterna, e selar a visao e a profecia, e para ungir o santo dos santos.”**{class=verso} (**Daniel 9:21-24**{class=livro}). O anjo começa explicando uma parte do período de 2300 tardes de manhãs, ou 2300 dias. **“setenta semanas estão decretadas sobre o teu povo”**{class=verso}, Israel, ao qual Daniel pertencia. O termo traduzido como decretadas é o original **“chatak”**, o qual significa literalmente: cortadas. As setenta semanas são um período cortado do total dos 2300 dias. Como não foi indicado a qual parte do período de 2300 dias elas pertencem, presume-se que elas são o início do tempo, as primeiras setenta semanas de tempo contadas dos 2300 dias.
+A profecia que aponta o juízo não foi entendida por Daniel e seus contemporâneos. O anjo lhe disse: **“a visão da tarde e manhã, que foi dita, é verdadeira. Tu, porém, cerra a visão, porque se refere a dias mui distantes... E espantei-me acerca da visão, pois não havia quem a entendesse”.**{class=verso} (**Daniel 8:26, 27**{class=livro}). Tempos mais tarde, **“no primeiro ano de Dario, filho de Assuero, a linhagem dos medos”**{class=verso}... Daniel pôs-se a clamar a Deus, e relata: **“enquanto estava eu ainda falando na oração, o varão Gabriel, que eu tinha visto na minha visão ao princípio, veio voando rapidamente, e tocou-me à hora da oblação da tarde. Ele me instruiu, e falou comigo, dizendo... considera, pois, a palavra e entende a visão. Setenta semanas estão decretadas sobre o teu povo, e sobre a tua santa cidade, para fazer cessar a transgressão, para dar fim aos pecados, e para expiar a iniqüidade, e trazer a justiça eterna, e selar a visão e a profecia, e para ungir o santo dos santos.”**{class=verso} (**Daniel 9:21-24**{class=livro}). O anjo começa explicando uma parte do período de 2300 tardes de manhãs, ou 2300 dias. **“setenta semanas estão decretadas sobre o teu povo”**{class=verso}, Israel, ao qual Daniel pertencia. O termo traduzido como decretadas é o original **“chatak”**, o qual significa literalmente: cortadas. As setenta semanas são um período cortado do total dos 2300 dias. Como não foi indicado a qual parte do período de 2300 dias elas pertencem, presume-se que elas são o início do tempo, as primeiras setenta semanas de tempo contadas dos 2300 dias.
 
 70 semanas x 7 dias da semana = 490 dias
 
@@ -350,9 +350,9 @@ Este é o marco de início da contagem. A ordem para restaurar e edificar Jerusa
 
 ### A Última Semana
 
-**“sabe e entende: desde a saída da ordem para restaurar e para edificar Jerusalém até o Ungido, o Príncipe, haverá sete semanas, e sessenta e duas semanas“**{class=verso} (**Daniel 9:25**{class=livro}).
+**“sabe e entende: desde a saída da ordem para restaurar e para edificar Jerusalém até o Ungido, o Príncipe, haverá sete semanas, e sessenta e duas semanas”**{class=verso} (**Daniel 9:25**{class=livro}).
 
-O anjo instruiu Daniel a contar 7 + 62 semanas após a data de partida. Somam 69 semanas. Para setenta, falta uma. Por quê separou ele a última? Porque esta é uma espécie de selo de garantia da profecia. Ele disse: **“Jerusalém até o Ungido, o Príncipe, haverá sete semanas, e sessenta e duas semanas”**{class=verso}. O Príncipe do céu, Jesus, seria **“ungido”** ao final das 7 + 62 semanas da profecia. A história mostra como isso se cumpriu com perfeita precisão, 69 semanas são:
+O anjo instruiu Daniel a contar 7 + 62 semanas após a data de partida. Somam 69 semanas. Para setenta, falta uma. Por que separou ele a última? Porque esta é uma espécie de selo de garantia da profecia. Ele disse: **“Jerusalém até o Ungido, o Príncipe, haverá sete semanas, e sessenta e duas semanas”**{class=verso}. O Príncipe do céu, Jesus, seria **“ungido”** ao final das 7 + 62 semanas da profecia. A história mostra como isso se cumpriu com perfeita precisão, 69 semanas são:
 
 69 semanas x 7 dias = 483 anos
 
@@ -373,7 +373,7 @@ Mas como não há o zero, a contagem avança um ano: 26 + 1 = 27 d.C. Agora, sem
 
 ## Quarta-Feira
 
-### A última Semana - continuação
+### A Última Semana - continuação
 
 Falando sobre a última semana, o anjo diz: **“e Ele fará um pacto firme com muitos por uma semana; e na metade da semana fará cessar o sacrifício e a oblação”**{class=verso} (**Daniel 9:27**{class=livro}). Jesus era quem faria o pacto. Paulo O aponta como **“Mediador de um melhor pacto”**{class=verso} (**Hebreus 8:6**{class=livro}). A profecia diz que, na metade da semana, Ele faria cessar o sacrifício. O sacrifício realizado na época de Daniel era o de animais, principalmente cordeiros, no santuário. Quando Jesus estava para iniciar Seu ministério, João batista O apontou e disse: **“Eis o Cordeiro de Deus, que tira o pecado do mundo”**{class=verso} (**João 1:29**{class=livro}). Ele era o verdadeiro sacrifício. Os de animais foram instituídos somente para conservar viva na mente do povo a promessa divina de dar o Filho como Cordeiro para morrer por seus pecados. Quando o Filho fosse morto no altar da cruz, os sacrifícios de animais não mais teriam qualquer razão de continuar. Não lhe precisava mais cumprir uma cerimônia com o objetivo de manter a fé em um sacrifício. O real já tinha sido feito, e bastava rever a história para constatar. O anjo predisse isso para Daniel nas palavras: **“e na metade da semana fará cessar o sacrifício”**{class=verso}. A última semana das setenta começou no ano 27d.C.. Assim, a metade da última semana, três anos e meio para frente, nos leva ao ano 31.d.C. A história confirma que Jesus morreu na cruz do Calvário exatamente neste ano. A profecia do anjo se cumpriu no tempo apontado, e a cruz confirma sua exatidão.
 
@@ -382,9 +382,9 @@ A oblação, que também cessaria, era o nome dado às ofertas de pão e vinho, 
 Paulo afirmou que, tendo Jesus dito ao Pai: **“Sacrifício e ofertas e holocaustos e oblações pelo pecado não quiseste, nem neles te deleitaste (os quais se oferecem segundo a lei); agora disse: Eis-Me aqui para fazer a Tua vontade. Ele tira o primeiro, para estabelecer o segundo”**{class=verso} (**Hebreus 10:8,9**{class=livro}). A santuário dos hebreus e seus serviços foi tirado e estabelecido o serviço do santuário do céu, no qual Cristo e apresentaria a Deus, não o sacrifício de animais, mas os méritos de Seu sangue derramado em favor dos pecadores.
 
 ```
-Jesus morte 483 anos Ungido cruz
-|------------------------|----------|
-457a.C.               27d.C.     31d.C
+   483 anos         Jesus Ungido  Morte de cruz
+|------------------------|-------------|
+457a.C.                27d.C.         31d.C
 ```
 <div class='page'>&nbsp;</div>
 
@@ -398,14 +398,14 @@ R.: _______________________________________________________________
 
 Vimos que as setenta semanas correspondem a 490 anos. Note que o texto diz que elas estavam decretadas... sobre a tua cidade. Daniel era judeu, sua cidade era Jerusalém. Ao final do tempo apontado, a mensagem do evangelho seria banida de Jerusalém.
 
-A última semana das setenta começaria no batismo de Jesus. Ele pregaria durante três anos e meio, morrendo na metade da semana, no ano 31.d.C. Quando Jesus, durante o Seu ministério, ordenou aos discípulos que anunciassem o evangelho, disse: **“ide antes às ovelhas perdidas da casa de Israel”**{class=verso} (**Mateus 10:6**{class=livro}). Esta ordem estava em harmonia com as palavras da profecia. Eles estavam na última semana, os últimos sete anos apontados na profecia como separados para os judeus. Ainda era tempo do evangelho ser apresentado de forma especial a eles. Eles eram o povo escolhido de Deus na terra. Todavia, após Sua ressurreição, Jesus anuncia aos discípulos que em breve a pregação da mensagem não mais ficaria restrita somente ao povo escolhido: **“mas recebereis poder, ao descer sobre vós o Espírito Santo, e ser-Me-eis testemunhas, tanto em Jerusalém, como em toda a Judéia e Samária, e até os confins da terra.”**{class=verso} (**Atos 1:8**{class=livro}). De forma marcada, o momento após o qual os judeus deixaram de ser o povo especialmente favorecido e a pregação se estendeu amplamente ao mundo foi a morte de Estevão. **“Apedrejavam, pois, a Estevão que orando, dizia: Senhor Jesus, recebe o meu espírito. E pondo-se de joelhos, clamou com grande voz: Senhor, não lhes impute este pecado. Tendo dito isto, adormeceu... Naquele dia levantou-se grande perseguição contra a igreja que estava em Jerusalém; e todos exceto os apóstolos, foram dispersos pelas regiões da Judéia e Samaria... os que foram dispersos, iam por toda parte, anunciando a palavra.”**{class=verso} (**Atos 7:59-8:1; 4**{class=livro}). morreu no ano 34 d.C., precisamente quando se completavam os 490 anos, ou setenta semanas, preditos em Daniel 9. Então, os pregadores do evangelho foram expulsos de Jerusalém pelos próprios judeus. Assim encerrou-se o período separado para eles como povo especial. A profecia se cumpriu. Por sua própria escolha, o convite feito a eles e rejeitado foi agora estendido a todas as partes da terra. Anos mais tarde, Paulo disse que o evangelho fora **“pregado a toda criatura que há debaixo do céu”**{class=verso} (**Colossenses 1:23**{class=livro}).
+A última semana das setenta começaria no batismo de Jesus. Ele pregaria durante três anos e meio, morrendo na metade da semana, no ano 31.d.C. Quando Jesus, durante o Seu ministério, ordenou aos discípulos que anunciassem o evangelho, disse: **“ide antes às ovelhas perdidas da casa de Israel”**{class=verso} (**Mateus 10:6**{class=livro}). Esta ordem estava em harmonia com as palavras da profecia. Eles estavam na última semana, os últimos sete anos apontados na profecia como separados para os judeus. Ainda era tempo do evangelho ser apresentado de forma especial a eles. Eles eram o povo escolhido de Deus na terra. Todavia, após Sua ressurreição, Jesus anuncia aos discípulos que em breve a pregação da mensagem não mais ficaria restrita somente ao povo escolhido: **“mas recebereis poder, ao descer sobre vós o Espírito Santo, e ser-Me-eis testemunhas, tanto em Jerusalém, como em toda a Judéia e Samaria, e até os confins da terra.”**{class=verso} (**Atos 1:8**{class=livro}). De forma marcada, o momento após o qual os judeus deixaram de ser o povo especialmente favorecido e a pregação se estendeu amplamente ao mundo foi a morte de Estevão. **“Apedrejavam, pois, a Estevão que orando, dizia: Senhor Jesus, recebe o meu espírito. E pondo-se de joelhos, clamou com grande voz: Senhor, não lhes impute este pecado. Tendo dito isto, adormeceu... Naquele dia levantou-se grande perseguição contra a igreja que estava em Jerusalém; e todos exceto os apóstolos, foram dispersos pelas regiões da Judéia e Samaria... os que foram dispersos, iam por toda parte, anunciando a palavra.”**{class=verso} (**Atos 7:59-8:1; 4**{class=livro}). morreu no ano 34 d.C., precisamente quando se completavam os 490 anos, ou setenta semanas, preditos em Daniel 9. Então, os pregadores do evangelho foram expulsos de Jerusalém pelos próprios judeus. Assim encerrou-se o período separado para eles como povo especial. A profecia se cumpriu. Por sua própria escolha, o convite feito a eles e rejeitado foi agora estendido a todas as partes da terra. Anos mais tarde, Paulo disse que o evangelho fora **“pregado a toda criatura que há debaixo do céu”**{class=verso} (**Colossenses 1:23**{class=livro}).
 
 ```
                     SETENTA SEMANAS (490 anos)
 |-------------------------------------------------------|
 Decreto de Atarxerces                        Morte de Estevão
 
-                 unção de Jesus     batismo         Calvário 
+                 unção de Jesus      batismo         Calvário 
 |----------------------|----------------|---------------|
 457a.C.             27 d.C.          31 d.C.        34 d.C.
 ```
@@ -434,9 +434,9 @@ As setenta semanas terminaram no ano 34d.C.. Então, as 2300 tardes e manhãs te
 Neste tempo, como diz a profecia: **“o santuário será purificado”**{class=verso} (**Daniel 8:14**{class=livro}):
 
 ```
-Decreto de Artaxerxes                  será purificado, Santuário
+Decreto de Artaxerxes                e será purificado, Santuário
         |--------------------------------------------|
-     457 a.C.                                    1844 d.C.
+     457 a.C.       até 2300 tardes e manhãs       1844 d.C.
 ```
 
 Recomendamos que você leia novamente a lição deste domingo. Ali, comparando Daniel 7 e 8, verificamos que os 2300 dias apontam também o tempo no qual o tribunal se assentaria para iniciar o juízo: **“assentou-se o tribunal, e abriram-se os livros”. As 2300 tardes e manhãs cumpriram-se em 1844. Foi neste tempo, portanto, que os livros começaram a ser abertos no céu e iniciou-se o juízo. Por isso Deus enviou o primeiro anjo do Apocalipse com a mensagem: “Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo.”**{class=verso} (**Apocalipse 14:7**{class=livro}). Esta hora chegou em 1844.
@@ -450,12 +450,12 @@ Desde então, a mensagem do primeiro anjo tem ecoado com força em todo o mundo,
 
 A palavra santuário refere-se primeiramente ao edifício no céu, no qual Jesus trabalha. Ele é **“ministro do santuário, e do verdadeiro tabernáculo, que o Senhor fundou, e não o homem”**{class=verso}. **“Cristo não entrou num santuário feito por mãos... mas no próprio céu, para agora comparecer por nós perante a face de Deus”**{class=verso} (**Hebreus 8:2;9:24**{class=livro}). Ao iniciar-se a purificação do santuário no céu, começa a obra para se poder remover sua imundícia. E o que o contamina? Os pecados dos homens, registrados nos seus livros. Quando assenta-se o tribunal e se abrem os livros, Deus e Cristo têm como objetivo poder apagar os registros de pecados dos crentes. Esta obra está sendo conduzida até o dia de hoje - apagamento dos pecados. Mas Jesus não pode apagar nossos pecados sem nossa autorização. Mediante arrependimento e fé, precisamos afastar-nos dos pecados na terra, para que possam com justiça serem apagados no céu.
 
-Faria sentido apagar um pecado hoje, só para registrá-lo novamente amanhã? Desde 1844, Jesus tem trabalhado procurando enviar Seu Espírito para levar Seu povo a afastar-se definitivamente de cada pecado. Arrepender-se para não comentê-lo novamente. Deus prometeu estabelecer um concerto com Seu povo, no qual apagaria Seus pecados: **“este é o pacto que farei com a casa de Israel, depois daqueles dias, diz o Senhor; porei as minhas leis no seu entendimento, e em seu coração as escreverei; Eu serei o seu Deus, e eles serão o Meu povo; e não ensinará cada um ao seu concidadão, nem cada um ao seu irmão, dizendo: Conhece ao Senhor; porque todos Me conhecerão desde o menor deles até o maior. Porque serei misericordioso para com suas iniqüidades, e _de seus pecados não Me lembrarei mais_.”**{class=verso} (**Hebreus 8:10-12**{class=livro}). Este concerto vai se cumprir nos últimos dias. Todos os que abraçarem a promessa do concerto terão seus pecados apagados. Deus nos convida hoje a abraçá-lo e participar desta bendita obra. Como faze-lo? Recebendo a Jesus como nosso Salvador, pois está escrito: **“o Filho de Deus, Cristo Jesus... não foi sim e não; mas nEle houve sim... pois, quanta’s forem as promessas de Deus, nEle está o sim; porquanto é por Ele o amém, para glória de Deus”**{class=verso} (**I Coríntios 1:19, 20**{class=livro}). Amém, significa **“assim seja”**; a promessa do novo concerto tem, em Jesus o **“assim seja”**. Todo o que nEle crê de coração, e persevera crendo, verá em sua vida o amém de Deus. Terá a promessa em si mesmo, e seus pecados apagados. Amém! Aceitamos a Jesus! Faça isso por nós, Senhor!
+Faria sentido apagar um pecado hoje, só para registrá-lo novamente amanhã? Desde 1844, Jesus tem trabalhado procurando enviar Seu Espírito para levar Seu povo a afastar-se definitivamente de cada pecado. Arrepender-se para não cometê-lo novamente. Deus prometeu estabelecer um concerto com Seu povo, no qual apagaria Seus pecados: **“este é o pacto que farei com a casa de Israel, depois daqueles dias, diz o Senhor; porei as minhas leis no seu entendimento, e em seu coração as escreverei; Eu serei o seu Deus, e eles serão o Meu povo; e não ensinará cada um ao seu concidadão, nem cada um ao seu irmão, dizendo: Conhece ao Senhor; porque todos Me conhecerão desde o menor deles até o maior. Porque serei misericordioso para com suas iniquidades, e _de seus pecados não Me lembrarei mais_.”**{class=verso} (**Hebreus 8:10-12**{class=livro}). Este concerto vai se cumprir nos últimos dias. Todos os que abraçarem a promessa do concerto terão seus pecados apagados. Deus nos convida hoje a abraçá-lo e participar desta bendita obra. Como fazê-lo? Recebendo a Jesus como nosso Salvador, pois está escrito: **“o Filho de Deus, Cristo Jesus... não foi sim e não; mas nEle houve sim... pois, quantas forem as promessas de Deus, nEle está o sim; porquanto é por Ele o amém, para glória de Deus”**{class=verso} (**I Coríntios 1:19, 20**{class=livro}). Amém, significa **“assim seja”**; a promessa do novo concerto tem, em Jesus o **“assim seja”**. Todo o que nEle crê de coração, e persevera crendo, verá em sua vida o amém de Deus. Terá a promessa em si mesmo, e seus pecados apagados. Amém! Aceitamos a Jesus! Faça isso por nós, Senhor!
 
 !!!check Minha Decisão
     Desejo receber a Jesus como meu salvador e perseverar, crendo, para ter meus pecados apagados?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (4) 1ª - O juízo de investigação
 
@@ -475,7 +475,7 @@ Dissera Deus: **“E Me farão um santuário, e habitarei no meio deles”**{cla
 
 Já vimos que as duas mil e trezentas tardes e manhãs terminaram em 1844. Nesta época, o santuário terrestre não existia mais. Foi destruído no ano 70 d.C., pelo exército romano, de maneira que não ficou pedra sobre pedra, cumprindo as palavras de Jesus. Assim, ele não pode ser o edifício que seria purificado. O santuário a qual a profecia refere, é o que estaria em pleno funcionamento é o Santuário celestial.
 
-Cristo, após ressuscitar, subiu ao céu e foi feito por Deus Sacerdote e **“ministro do santuário e do verdadeiro tabernáculo, o qual o Senhor fundou e não o homem”**{class=verso} (**Hebreus 5:10; 8:2**{class=livro}). Lá permaneceria, até o tempo **“da restauração de tudo”**{class=verso}, quando então voltará à Terra e redimirá para sempre os Seus fiéis (**Atos 3:21**{class=livro}). João, em visões do Apocalipse, viu que Jesus atuava no santuário do céu, ao lado dos castiçais de ouro: **“Virei-me para ver quem falava comigo. E virando-me, vi sete castiçais de ouro; e, no meio dos sete castiçais, um semelhante ao Filho do Homem”**{class=verso} (**Apocalipse 1:12, 13**{class=livro}). Assim, o santuário cuja purificação foi apontada na profecia só poderia ser o celestial. O que contaminaria o santuário do céu, tornando necessária a obra de limpeza? Não se pode conceber a idéia de que o céu tenha qualquer espécie de impureza física - degetos, poluição ou vírus. Mas somos ensinados a pedir o perdão dos nossos pecados a Deus, em nome de Jesus. E Ele, ministrando neste local, obtém o perdão, e dá-nos justiça por nossos pecados. Esses devem, portanto, ser o que, de alguma maneira, contamina o santuário do céu. Disso, precisa ele ser purificado.
+Cristo, após ressuscitar, subiu ao céu e foi feito por Deus Sacerdote e **“ministro do santuário e do verdadeiro tabernáculo, o qual o Senhor fundou e não o homem”**{class=verso} (**Hebreus 5:10; 8:2**{class=livro}). Lá permaneceria, até o tempo **“da restauração de tudo”**{class=verso}, quando então voltará à Terra e redimirá para sempre os Seus fiéis (**Atos 3:21**{class=livro}). João, em visões do Apocalipse, viu que Jesus atuava no santuário do céu, ao lado dos castiçais de ouro: **“Virei-me para ver quem falava comigo. E virando-me, vi sete castiçais de ouro; e, no meio dos sete castiçais, um semelhante ao Filho do Homem”**{class=verso} (**Apocalipse 1:12, 13**{class=livro}). Assim, o santuário cuja purificação foi apontada na profecia só poderia ser o celestial. O que contaminaria o santuário do céu, tornando necessária a obra de limpeza? Não se pode conceber a ideia de que o céu tenha qualquer espécie de impureza física - degetos, poluição ou vírus. Mas somos ensinados a pedir o perdão dos nossos pecados a Deus, em nome de Jesus. E Ele, ministrando neste local, obtém o perdão, e dá-nos justiça por nossos pecados. Esses devem, portanto, ser o que, de alguma maneira, contamina o santuário do céu. Disso, precisa ele ser purificado.
 
 **2) Qual o santuário no qual Jesus ministra, que deve ser purificado?**{class=verso} **Hebreus 9:24;8:2**{class=livro}.  
 **“Cristo não entrou num santuário feito por mãos, figura do verdadeiro, porém, no mesmo céu. Ministro do santuário e do _verdadeiro tabernáculo, o qual o Senhor fundou e não o homem”**{class=verso} **Hebreus 9:24;8:2**{class=livroVerso}  
@@ -511,9 +511,13 @@ R.: _______________________________________________________________
 
 **“O salário do pecado é a morte”**{class=verso}. **“A morte passou a todos os homens, por isso ... todos pecaram”**{class=verso} (**Romanos 6:23; 5:12**{class=livro}). Assim, a menos que se recusem a crer em Jesus, estão condenados. Portanto, não precisam ter seus casos avaliados no juízo investigativo iniciado em 1844. Nele, só serão considerados os casos dos que creram em Jesus. A Bíblia revela que o caso dos ímpios é tratado em outra ocasião. Ao final dos mil anos do Apocalipse, Jesus os ressuscita e reúne em torno do grande trono branco para que ouçam a proclamação da sentença final contra eles, e sofram a punição. **“e vi tronos; e assentaram-se sobre eles aqueles a quem foi dado o poder de julgar. E vi as almas daqueles que foram degolados pelo testemunho de Jesus e pela palavra de Deus, e que não adoraram a besta nem a sua imagem, e não receberam o sinal na testa nem na mão; e viveram e reinaram com Cristo durante mil anos. Mas os outros mortos [ímpios] não reviveram até que os mil anos se acabaram... E, acabando-se os mil anos, Satanás será solto de sua prisão e sairá a enganar as nações [se são enganados por ele, é porque ressuscitaram] ... e vi um grande trono branco e o que estava assentado sobre ele, de cuja presença fugiu a terra e o céu, e não se achou lugar para eles. E vi os mortos, grandes e pequenos, que estavam diante do trono, e abriram-se os livros. E abriu-se outro livro, que é o da vida. E os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras. E deu o mar os mortos que nele havia; e a morte e o inferno deram os mortos que neles havia; e foram julgados cada um segundo as suas obras... E aquele que não foi achado escrito no livro da vida foi lançado no lago de fogo”**{class=verso} (**Apocalipse 20:5, 7**{class=livro}). Este é o juízo final. O juízo dos ímpios é, portanto, uma obra distinta e separada do de investigação.
 
-O que: **Juízo investigativo juízo final**  
-Quando: desde 1844 após os mil anos  
-Quem é julgado: crentes ímpios  
+
+|                |                         |                  |
+| -------------- | ----------------------- | ---------------- |
+| O que          | **Juízo investigativo** | **Juízo final**  |
+| Quando         | desde 1844              | após os mil anos |
+| Quem é julgado | crentes                 | impios           |
+
 
 O caso dos que creram em Jesus está sendo avaliado no juízo investigativo que começou em 1844; já o dos ímpios será considerado mais tarde. Como diz o Apocalipse, eles comparecerão pessoalmente diante do trono branco após os mil anos.
 
@@ -539,12 +543,12 @@ O Senhor declara que todos serão julgados por Sua lei: **“porque todos os que
 
 ### Como Poderemos Ser Aprovados no Juízo
 
-Vimos ontem que necessitamos de um coração puro para sermos considerados aptos para a vida eterna no juízo do céu. Mas o fato é que hoje todos os homens têm um coração imundo. E ao ver a maldade espalhada entre os homens, muitos declaram como Jó: **“quem do imundo tirará o puro? Ninguém!”**{class=verso} (**Jó 14:4**{class=livro}). Mas o que é impossível aos homens é possível a Deus. **“Para Deus nada é impossível”**{class=verso} (**Lucas 1:37**{class=livro}). A história de Maria Madalena é uma lição objetiva de como Jesus pode mudar pecadores e justificá-los no juízo. Ela fora apanhada no próprio ato de adultério, e então levada com violência pelos enfurecidos rabis, desejosos de desafiar mais uma vez o Mestre Jesus. **“E, pondo-a no meio, disseram-lhe: Mestre, esta mulher foi apanhada, no próprio ato, adulterando, e, na lei, nos mandou Moisés que as tais sejam apedrejadas. Tu, pois, que dizes?”**{class=verso} (**João 8:4, 5**{class=livro}). Nada mais podia ela esperar além da execução da sentença. A lei era clara. Haviam muitas testemunhas de sua transgressão. Não havia nada que ela pudesse apresentar em seu favor. Nenhuma desculpa.
+Vimos ontem que necessitamos de um coração puro para sermos considerados aptos para a vida eterna no juízo do céu. Mas o fato é que hoje todos os homens têm um coração imundo. E ao ver a maldade espalhada entre os homens, muitos declaram como Jó: **“quem do imundo tirará o puro? Ninguém!”**{class=verso} (**Jó 14:4**{class=livro}). Mas o que é impossível aos homens é possível a Deus. **“Para Deus nada é impossível”**{class=verso} (**Lucas 1:37**{class=livro}). A história de Maria Madalena é uma lição objetiva de como Jesus pode mudar pecadores e justificá-los no juízo. Ela fora apanhada no próprio ato de adultério, e então levada com violência pelos enfurecidos rabis, desejosos de desafiar mais uma vez o Mestre Jesus. **“E, pondo-a no meio, disseram-lhe: Mestre, esta mulher foi apanhada, no próprio ato, adulterando, e, na lei, nos mandou Moisés que as tais sejam apedrejadas. Tu, pois, que dizes?”**{class=verso} (**João 8:4, 5**{class=livro}). Nada mais podia ela esperar além da execução da sentença. A lei era clara. Havia muitas testemunhas de sua transgressão. Não havia nada que ela pudesse apresentar em seu favor. Nenhuma desculpa.
 
 A pobre mulher não abre a boca. Coração contrito, sua única esperança é na misericórdia e amor do Salvador. Não foi decepcionada. Ele agiu de modo a dispersar os acusadores. Disse: **“Aquele que dentre vós está sem pecado seja o primeiro que atire pedra contra ela. E, tornando a inclinar-Se, escrevia na terra. Quando ouviram isso, saíram um a um, a começar pelos mais velhos até aos últimos: ficaram só Jesus e a mulher, que estava no meio. E, endireitando-Se Jesus e não vendo ninguém mais do que a mulher, disse-lhe: Mulher, onde estão aqueles teus acusadores? Ninguém te condenou? E ela disse: Ninguém Senhor. E disse-Lhe Jesus: Nem eu também te condeno; vai-te e não peques mais.”**{class=verso} (**João 8:7-11**{class=livro}). Por Sua misericórdia, Jesus agiu como sábio Advogado; defendeu e inocentou a mulher arrependida. Seu amor foi sentido por ela e a transformou em uma de Suas mais fiéis seguidoras. **“o que era é o que é”**. Jesus é o mesmo ontem e hoje. Se hoje, somos muito pecadores, Ele ainda é nosso defensor e Advogado. E não somente nosso, mas de todos os que nEle crêem.
 
 **7) Qual posição Jesus toma no juízo do céu, em nosso favor?**{class=questao} **I João 2:1,2**{class=livroQ}  
-**“Temos um _Advogado_ para com o Pai, Jesus Cristo, o Justo. E Ele é a propiciação pelos nosso pecados e não somente pelos nossos, mas também do mundo inteiro.”**{class=versoQ} (**I João 2:1,2**{class=livroVerso}).  
+**“Temos um _Advogado_ para com o Pai, Jesus Cristo, o Justo. E Ele é a propiciação pelos nossos pecados e não somente pelos nossos, mas também do mundo inteiro.”**{class=versoQ} (**I João 2:1,2**{class=livroVerso}).  
 R.: _______________________________________________________________  
 
 **8) Como fazemos de Jesus o nosso Advogado?**{class=questao} **João 3:18**{class=livroQ}  
@@ -587,12 +591,12 @@ Os praticantes da Palavra serão salvos. E só podemos obedecê-la se cremos em 
 !!!check Minha Decisão
     Desejo ser praticante da palavra, pelo poder que Jesus Cristo nos dá?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (5) 1ª - Adorai o Criador
 
 !!!quote Verso Áureo
-	 **“adorai Aquele que fez o céu, e a terra, e o mar, e as fontas das águas”**{class=verso} (**Apocalipse 14:7**{class=livro}).
+	 **“adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas”**{class=verso} (**Apocalipse 14:7**{class=livro}).
 
 ## Domingo
 
@@ -691,7 +695,7 @@ Apresentamos a tradução mais fiel do original dos demais textos controversos, 
 
 ### O Espírito Santo
 
-A crença comum do cristianismo é a de ser o Espírito Santo um Deus, a terceira pessoa da trindade. Mas o que muitos não sabem é que a palavra **“trindade”** nem sequer aparece na Bíblia. Sua origem é pagã. Vem dos cultos dos egípcios, babilônicos, assírios, persas e romanos, e foi introduzida pelos romanos na igreja cristã apostólica, depois que o imperador Constantino transformou o cristianismo na religião official do império. Foi então quando a igreja cristã tornou-se católica (que quer dizer universal), mantendo o nome de **“apostólica”**, e **“romana”** por ser a religião dos romanos. Daí surgiu o nome Igreja Católica Apostólica Romana, o qual permanence até hoje. Ele é o resultado da mistura entre a religião pagã, a qual ordenava tremendas atrocidades (até o sacrifício dos filhos aos deuses), e a adoração do sol, com a pura religião cristã. Eis sua doutrina base:
+A crença comum do cristianismo é a de ser o Espírito Santo um Deus, a terceira pessoa da trindade. Mas o que muitos não sabem é que a palavra **“trindade”** nem sequer aparece na Bíblia. Sua origem é pagã. Vem dos cultos dos egípcios, babilônicos, assírios, persas e romanos, e foi introduzida pelos romanos na igreja cristã apostólica, depois que o imperador Constantino transformou o cristianismo na religião oficial do império. Foi então quando a igreja cristã tornou-se católica (que quer dizer universal), mantendo o nome de **“apostólica”**, e **“romana”** por ser a religião dos romanos. Daí surgiu o nome Igreja Católica Apostólica Romana, o qual permanecem até hoje. Ele é o resultado da mistura entre a religião pagã, a qual ordenava tremendas atrocidades (até o sacrifício dos filhos aos deuses), e a adoração do sol, com a pura religião cristã. Eis sua doutrina base:
 
 !!!cite Manual para o católico de hoje, pg. 11
     **“O mistério da Trindade é a doutrina central da fé católica. Nisto estão baseados todos os outros ensinos da Igreja”**.
@@ -707,7 +711,7 @@ Jesus identificou-se a si mesmo como sendo o Espírito:
 
 **“Eis que estou à porta e bato; se alguém ouvir a Minha voz, e abrir a porta, entrarei em sua casa, e com ele cearei, e ele coMigo... Quem tem ouvidos, ouça o que _o Espírito_ diz às igrejas”**{class=verso} (**Apocalipse 3:20,22**{class=livro}).
 
-Paulo, comentando sobre a situação dos judeus que não aceitavam o Salvador, disse que Jesus é o Espírito: **“mas o entendimento lhes ficou endurecido. Pois até o dia de hoje, à leitura do velho pacto, permanence o mesmo véu, não lhe sendo revelado que em Cristo é ele abolido; sim, até o dia de hoje, sempre que Moisés é lido, um véu está posto sobre o coração deles. Contudo, convertendo-se um deles ao Senhor, é-lhe tirado o véu”.**{class=verso} Até aqui, afirma que, quando o judeu se converte ao Senhor Jesus, o véu que lhe obscurecia o entendimento, é tirado. Então explica: **“Ora, o _Senhor é o Espírito_”**{class=verso} (**II Coríntios 3:14-17**{class=livro}). O Senhor Jesus é o Espírito. **Atos 20:28**{class=livro}
+Paulo, comentando sobre a situação dos judeus que não aceitavam o Salvador, disse que Jesus é o Espírito: **“mas o entendimento lhes ficou endurecido. Pois até o dia de hoje, à leitura do velho pacto, permanece o mesmo véu, não lhe sendo revelado que em Cristo é ele abolido; sim, até o dia de hoje, sempre que Moisés é lido, um véu está posto sobre o coração deles. Contudo, convertendo-se um deles ao Senhor, é-lhe tirado o véu”.**{class=verso} Até aqui, afirma que, quando o judeu se converte ao Senhor Jesus, o véu que lhe obscurecia o entendimento, é tirado. Então explica: **“Ora, o _Senhor é o Espírito_”**{class=verso} (**II Coríntios 3:14-17**{class=livro}). O Senhor Jesus é o Espírito. **Atos 20:28**{class=livro}
 
 ## Sexta-Feira
 
@@ -719,7 +723,7 @@ Jesus disse para os discípulos que eles já conheciam o Consolador, o Espírito
 
 **“vós o conheceis, _porque Ele habita convosco_ e estará em vós.”**{class=verso} **João 14:17**{class=livro}
 
-Jesus era quem habitava com eles. Ele deu a entender aos discípulos que, ao falar do Consolador, estava falando dEle mesmo. As palavras que seguem reforçam esta idéia:
+Jesus era quem habitava com eles. Ele deu a entender aos discípulos que, ao falar do Consolador, estava falando dEle mesmo. As palavras que seguem reforçam esta ideia:
 
 **“Não vos deixarei órfãos, voltarei para vós outros.”**{class=verso} **João 14:18**{class=livro}
 
@@ -733,7 +737,7 @@ A Bíblia declara que, quando Jesus vier pela segunda vez à terra, **“todo o 
 
 ### O Verdadeiro Batismo e o Único Deus
 
-Muitos insistem na idéia de uma trindade baseando-se em **Mateus 28:19:**{class=livro}
+Muitos insistem na ideia de uma trindade baseando-se em **Mateus 28:19:**{class=livro}
 
 **“batizando-os em nome do Pai, do Filho e do Espírito Santo”.** Ocorre que este texto não confere com o original. Segundo a pesquisa mais apurada dos originais, o texto correto é o encontrado nas menções do Escritor do terceiro século, Eusébio de Cesaréia. Ele apresenta **Mateus 28:19**{class=livro} assim:
 
@@ -760,7 +764,7 @@ R.: _______________________________________________________________
 !!!check Minha Decisão
     Quero estar entre os verdadeiros adoradores do Pai?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (6) 2ª - Caiu, Caiu a Grande Babilônia
 
@@ -874,7 +878,7 @@ Ontem comentamos que um dos erros pregados pela igreja babilônica moderna é a 
 **“Portanto, assim como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim também _a morte passou a todos os homens_, porquanto todos pecaram”**{class=verso} (**Romanos 5:12**{class=livroVerso}).  
 R.: _______________________________________________________________  
 
-Portanto, não há pecador imortal. Disse Deus: **“a alma que pecar, esta morrerá”**{class=verso} (**Ezequiel 18:20**{class=livro}). A alma do pecador não é imortal. Para devolver a imortalidade perdida pelo pecador, Deus teve de enviar Seu Filho Jesus para morrer pelo homem pecador. **“Nosso Salvador Cristo Jesus, o qual destruiu a morte, e trouxe à luz a vida e a imortalidade pelo evangelho”**{class=verso} (**II Timóteo 1:10**{class=livro}). Pela morte de nosso Salvador, podemos viver. Este é o único meio de reconquistar a imortalidade. Mas as igrejas populares hoje ensinam que, após a morte a alma do homem ainda permanence em estado consciente, em lugares como o céu, o inferno ou o limbo. Tal ensino não tem qualquer amparo bíblico. Falando da morte, o Senhor diz: **“Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos”**{class=verso} (**Salmos 146: 4**{class=livro}). Portanto, na morte não há consciência. Jesus a comparou a um sono, referindo-se à morte de Lázaro, Ele disse: **“Lázaro, o nosso amigo, dorme... disseram-Lhe, pois, os discípulos: Senhor, se dorme, ficará bom. Mas Jesus falara da sua morte; eles, porém, entenderam que falava do repouso do sono. Então Jesus lhes disse claramente: Lázaro morreu”**{class=verso} (**João 11:11-13**{class=livro}).
+Portanto, não há pecador imortal. Disse Deus: **“a alma que pecar, esta morrerá”**{class=verso} (**Ezequiel 18:20**{class=livro}). A alma do pecador não é imortal. Para devolver a imortalidade perdida pelo pecador, Deus teve de enviar Seu Filho Jesus para morrer pelo homem pecador. **“Nosso Salvador Cristo Jesus, o qual destruiu a morte, e trouxe à luz a vida e a imortalidade pelo evangelho”**{class=verso} (**II Timóteo 1:10**{class=livro}). Pela morte de nosso Salvador, podemos viver. Este é o único meio de reconquistar a imortalidade. Mas as igrejas populares hoje ensinam que, após a morte a alma do homem ainda permanece em estado consciente, em lugares como o céu, o inferno ou o limbo. Tal ensino não tem qualquer amparo bíblico. Falando da morte, o Senhor diz: **“Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos”**{class=verso} (**Salmos 146: 4**{class=livro}). Portanto, na morte não há consciência. Jesus a comparou a um sono, referindo-se à morte de Lázaro, Ele disse: **“Lázaro, o nosso amigo, dorme... disseram-Lhe, pois, os discípulos: Senhor, se dorme, ficará bom. Mas Jesus falara da sua morte; eles, porém, entenderam que falava do repouso do sono. Então Jesus lhes disse claramente: Lázaro morreu”**{class=verso} (**João 11:11-13**{class=livro}).
 
 ## Sábado
 
@@ -886,7 +890,7 @@ Portanto, não há pecador imortal. Disse Deus: **“a alma que pecar, esta morr
 !!!check Minha Decisão
     Aceito sair da igreja que abandonou as verdades bíblicas, e seguir somente na verdade e doutrinas de Deus?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (7) 2ª - O Vinho de Babilônia - Prostituição
 
@@ -923,7 +927,7 @@ O texto do Apocalipse diz que Babilônia dá a beber do vinho da ira. Não é di
 
 **“Babilônia, que a todas as nações deu a beber do vinho da ira da _sua prostituição_.”**{class=verso} **Apocalipse 14:8**{class=livro}.
 
-A Bíblia compara a igreja pura de Cristo à uma mulher virgem, pura, fiel ao seu Esposo. Referindo-se ao Seu povo, Deus diz: **“De novo te edificarei, e serás edificada ó virgem de Israel!”**{class=verso} (**Jeremias 31:4**). Por outro lado, a prostituta, mulher infiel, deve ser a igreja que, professando servir a Cristo, não é fiel a Ele e Sua palavra, antes ensina doutrinas falsas. A palavra **“prostituição”** representa o próprio ato de traição e infidelidade no casamento. No campo espiritual, ela tem o mesmo sentido. Representa o ato da igreja formular doutrinas falsas. Existem várias doutrinas criadas pela igreja de Babilônia e por ela introduzidas no cristianismo. Todas elas são atos de prostituição do ponto de vista divino. O domingo como dia de repouso e a imortalidade da alma são dois bons exemplos disso.
+A Bíblia compara a igreja pura de Cristo à uma mulher virgem, pura, fiel ao seu Esposo. Referindo-se ao Seu povo, Deus diz: **“De novo te edificarei, e serás edificada ó virgem de Israel!”**{class=verso} (**Jeremias 31:4**{class=livro}). Por outro lado, a prostituta, mulher infiel, deve ser a igreja que, professando servir a Cristo, não é fiel a Ele e Sua palavra, antes ensina doutrinas falsas. A palavra **“prostituição”** representa o próprio ato de traição e infidelidade no casamento. No campo espiritual, ela tem o mesmo sentido. Representa o ato da igreja formular doutrinas falsas. Existem várias doutrinas criadas pela igreja de Babilônia e por ela introduzidas no cristianismo. Todas elas são atos de prostituição do ponto de vista divino. O domingo como dia de repouso e a imortalidade da alma são dois bons exemplos disso.
 
 O Apocalipse aponta o tempo no qual todas as nações beberão do vinho... da sua prostituição. Isso significa que o mundo receberá doutrinas falsas que foram não apenas trazidas por Babilônia, mas formuladas por ela. Ela foi quem cometeu o ato de prostituir-se, e em seguida apresentou o vinho da sua prostituição - os dogmas de homens que ela inventou, para que o mundo os aceitasse.
 
@@ -944,7 +948,7 @@ A profecia aponta um tempo no qual haverá uma apostasia mundial. Hoje vivemos u
 O papa considera os membros de todas as demais igrejas como irmãos separados, que serão unidos à sua igreja - católica, para que se convertam em um só corpo, uma igreja mundial:
 
 !!!cite Carta Encíclica UT UNUM SINT - Pág. 28
-    “Quando os irmãos que não estão em perfeita comunhão entre si, se reúnem em comum para rezar, esta sua oração é definida pelo Concílio Vaticano II como a alma de todo o movimento ecumênico. Essa oração ## comum é « um meio muito eficaz para impetrar a unidade, uma genuína manifestação dos vínculos pelos quais ainda estão unidos os ## católicos com os irmãos separados. Mesmo quando não se reza formalmente pela unidade dos cristãos, mas por outros motivos como, por exemplo, pela paz, a oração torna-se, por si própria, expressão e ## confirmação da unidade.... Quando os cristãos rezam juntos, a meta da ## unidade fica mais próxima.” 
+    “Quando os irmãos que não estão em perfeita comunhão entre si, se reúnem em comum para rezar, esta sua oração é definida pelo Concílio Vaticano II como a alma de todo o movimento ecumênico. Essa oração comum é « um meio muito eficaz para impetrar a unidade, uma genuína manifestação dos vínculos pelos quais ainda estão unidos os católicos com os irmãos separados. Mesmo quando não se reza formalmente pela unidade dos cristãos, mas por outros motivos como, por exemplo, pela paz, a oração torna-se, por si própria, expressão e confirmação da unidade.... Quando os cristãos rezam juntos, a meta da unidade fica mais próxima.” 
 
 Aa palavra **“católica”** significa **“universal”.** Assim, o movimento ecumênico sugere a união de todas as igrejas em uma - católica. O movimento ecumênico é hoje promovido pelo Concílio Mundial das Igrejas, o qual disponibiliza informações e atualizações na internet. Quando seu objetivo for atingido só haverão duas classes de pessoas na terra. Uma estará ao lado da religião oficial da terra. A outra é apontada pelo anjo do céu: **“Aqui está a paciência dos santos, aqui estão os que guardam os mandamentos de Deus e a fé de Jesus”**{class=verso} (**Apocalipse 14:12**{class=livro}).
 
@@ -960,7 +964,7 @@ E a profecia confirma que não apenas o mundo religioso estará unido, mas tamb�
 
 **“Os dez chifres que viste são dez reis, os quais ainda não receberam o reino, mas receberão autoridade, como reis, por uma hora, juntamente com a besta. Estes têm um só intento, e entregarão o seu poder e autoridade à besta”**{class=verso} (**Apocalipse 17:12, 13**{class=livro}).
 
-Falando em parábolas, Jesus representou toda a igreja cristã como correspondendo a dez virgens. O número não foi dado por acaso. Daí entendemos que **“dez”** se refere ao todo, totalidade, do homem. Dez virgens = toda a igreja. A maior nota que tiramos na escola é dez. Dez representa o todo da humanidade. O fato de o Apocalipse denunciar que os dez reis entregarão seu poder para a besta, significa que todos os reis da humanidade, da terra, entregarão seu poder à besta, que é um poder o qual persegue e mata os santos.
+Falando em parábolas, Jesus representou toda a igreja cristã como correspondendo a dez virgens. O número não foi dado por acaso. Daí entendemos que **“dez”** se refere ao todo, totalidade, do homem. **Dez virgens = toda a igreja**. A maior nota que tiramos na escola é dez. Dez representa o todo da humanidade. O fato de o Apocalipse denunciar que os dez reis entregarão seu poder para a besta, significa que todos os reis da humanidade, da terra, entregarão seu poder à besta, que é um poder o qual persegue e mata os santos.
 
 Em muitos países o governo não tomou uma posição oficial em favor de uma crença religiosa - são considerados estados laicos. Todavia, esta realidade está mudando rapidamente. Mais de cem países já firmaram acordos de cooperação com o Vaticano, e em breve o mundo inteiro será submisso à sua autoridade. Os movimentos da política mundial avançam no sentido do cumprimento da profecia. Hoje, Babilônia ainda não deu de beber a todas as nações. Nem todas estão sujeitas à influência da igreja católica. Mas esta realidade mudará rapidamente. Isso veremos em breve. Quem viver, verá. E, enquanto os instrumentos deste mundo estão se unindo sob a bandeira do inimigo da nossa alma para a última batalha contra Cristo e Sua verdade, que faremos nós? Estamos despertos para a consagração a Deus e o trabalho por Jesus, ou dormidos como as Dez virgens?
 
@@ -997,7 +1001,7 @@ Deus te abençoe.
 !!!check Minha Decisão
     Quero adorar o Deus o Pai em verdade e em espírito, conforme as palavras de Jesus?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 
 # (8) 3ª - Parte Final do Evangelho Enviado ao Mundo
@@ -1070,10 +1074,11 @@ Assim, entendemos que a besta é o resultado da união do poder **“religioso�
 
 A Christian Coalision, por exemplo, uma união de membros de igrejas protestantes dos Estados Unidos, já adota a prática de fazer lobby - oferecer dinheiro para que sejam aprovadas leis que favoreçam suas igrejas. Sendo a imagem da besta uma cópia da união igreja - estado que caracterizou o papado no passado, ela é no tempo presente a união das igrejas protestantes do estado.
 
+```
 Besta = união da igreja papal com os governos da terra
-
-Imagem da besta = união das igrejas protestantes com os governos da terra.
-
+Imagem da besta = união das igrejas protestantes com os governos 
+    da terra.
+```
 
 **4) O que acontecerá com aqueles que adorarem a imagem da besta?**{class=questao} **Apocalipse 14:9, 10**{class=livroQ}
 **“Se alguém adorar a besta, e _a sua imagem_, e receber o sinal na fronte, ou na mão, também o tal _beberá do vinho da ira de Deus_ ... _e será atormentado com fogo e enxofre_ diante dos santos anjos e diante do Cordeiro.”**{class=versoQ} **Apocalipse 14:9, 10**{class=livroVerso}.  
@@ -1140,7 +1145,7 @@ Que as coisas do mundo percam completamente o interesse para nós, e nossa únic
 !!!check Minha Decisão
     Desejo fazer parte do povo de Deus, e receber o selo de Deus. Guarderei o santo sábado, por obediência e como sinal a sua santa aliança?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (9) 3ª - O Cálice do Vinho da Ira de Deus
 
@@ -1271,7 +1276,7 @@ R.: _______________________________________________________________
 
     **“Porque o salário do pecado é a morte; mas o dom gratuito de Deus é a vida eternal, em Cristo Jesus, nosso Senhor”.**{class=verso} (**Romanos 6:23**{class=livro}). Enquanto a vida é a herança dos justos, a morte é a porção dos ímpios. Moisés declarou a Israel: **“Vê, eu tenho posto diante de ti hoje a vida e o bem, a morte e o mal”**{class=verso}. (**Deuteronômio 30:15**{class=livro}). A morte da qual se fala nesta passagem não é aquela a que Adão foi condenado, pois toda a humanidade sofre a penalidade da sua transgressão. É a **“segunda morte”**, posta em contraste com a vida eterna.
 
-    Por causa do pecado de Adão, a morte passou a toda a raça humana. Todos descem igualmente à tumba. E devido às disposições do plano da salvação, todos sairão dos sepulcros. **“Haverá ressusrreição dos mortos, tanto de justos como de injustos”**{class=verso}. (**Atos 24:15**{class=livro}). **“Porque assim como em Adão todos morrem, assim também em Cristo todos serão vivificados”**{class=verso}. (**I Coríntios 15:22**{class=livro}). Mas fica assentada uma distinção entre as duas classes que serão ressuscitadas. “Todos os que estão nos sepulcros ouvirão Sua voz [do Filho de Homem]; e os que fizeram bem, sairão para a ressurreição da vida; mas os que fizeram mal para a resurreição da condenação”. (**João 5:28, 29**{class=livro}). Os que tenham sido **“tidos por dignos”** de ressuscitar para a vida são chamados **“felizes e santos”**. **“Sobre os tais a segunda morte não tem poder”**{class=verso} (**Apocalipse 20:6**{class=livro}). Mas os que não tenham assegurado para si o perdão, por meio do arrependimento e da fé, receberão a conseqüência da transgressão: **“o salário do pecado”**. Sofrerão um castigo de duração e intensidade diversas **“segundo suas obras”**, mas que terminará finalmente na segunda morte. Como, em conformidade com Sua justiça e Sua misericórdia, Deus não pode salvar o pecador em seus pecados, o priva da própria existência a qual suas transgressões já tinham comprometido e da qual se mostrou indigno. Um escritor inspirado disse: **“Pois daqui a poco e o ímpio não existirá; e atentarás para o seu lugar, e ele ali não estará”**{class=verso} (**Salmos 37:10; Obadias 16**{class=livro}). Cobertos de infâmia, cairão em inseparável e eterno esquecimento. Assim se porá fim ao pecado e a toda a desolação e ruínas que dele procederam. O salmista diz:
+    Por causa do pecado de Adão, a morte passou a toda a raça humana. Todos descem igualmente à tumba. E devido às disposições do plano da salvação, todos sairão dos sepulcros. **“Haverá ressusrreição dos mortos, tanto de justos como de injustos”**{class=verso}. (**Atos 24:15**{class=livro}). **“Porque assim como em Adão todos morrem, assim também em Cristo todos serão vivificados”**{class=verso}. (**I Coríntios 15:22**{class=livro}). Mas fica assentada uma distinção entre as duas classes que serão ressuscitadas. “Todos os que estão nos sepulcros ouvirão Sua voz [do Filho de Homem]; e os que fizeram bem, sairão para a ressurreição da vida; mas os que fizeram mal para a resurreição da condenação”. (**João 5:28, 29**{class=livro}). Os que tenham sido **“tidos por dignos”** de ressuscitar para a vida são chamados **“felizes e santos”**. **“Sobre os tais a segunda morte não tem poder”**{class=verso} (**Apocalipse 20:6**{class=livro}). Mas os que não tenham assegurado para si o perdão, por meio do arrependimento e da fé, receberão a consequência da transgressão: **“o salário do pecado”**. Sofrerão um castigo de duração e intensidade diversas **“segundo suas obras”**, mas que terminará finalmente na segunda morte. Como, em conformidade com Sua justiça e Sua misericórdia, Deus não pode salvar o pecador em seus pecados, o priva da própria existência a qual suas transgressões já tinham comprometido e da qual se mostrou indigno. Um escritor inspirado disse: **“Pois daqui a poco e o ímpio não existirá; e atentarás para o seu lugar, e ele ali não estará”**{class=verso} (**Salmos 37:10; Obadias 16**{class=livro}). Cobertos de infâmia, cairão em inseparável e eterno esquecimento. Assim se porá fim ao pecado e a toda a desolação e ruínas que dele procederam. O salmista diz:
     
     “Repreendeste as nações, destruíste os ímipios; apagaste o seu nome para sempre e eternamente. Os inimigos consumidos estão; perpétuas são as ruínas” (**Salmos 9:5, 6**{class=livro}). São João, ao lançar um olhar para a eternidade, escutou uma antífonal universal de louvores que não era interrompida por nenhuma dissonância. Escutou todas as criaturas do céu e da terra rendendo glória a Deus (**Apocalipse 5:13**{class=livro}). Não haverão então almas perdidas que blasfemem a Deus retorcendo-se em tormentos sem fim, nem seres desafortunados que desde o inferno unam seus gritos de espanto aos hinos dos escolhidos.
 
@@ -1314,7 +1319,7 @@ R.: _______________________________________________________________
 !!!check Minha Decisão
     Desejo das pragas que virão, aceitando o preparo para encontrar com Jesus?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (10) 3ª - O Repouso de Deus
 
@@ -1441,7 +1446,7 @@ Recebendo o amor de Jesus em nossos corações, seremos repletos dele. E assim, 
 !!!check Minha Decisão
     Quero receber a bênção de entrar no repouso de Deus?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (11) 3ª - Marca da Besta - Guarda do Domingo
 
@@ -1575,7 +1580,7 @@ Moisés estava disposto a ter seu nome riscado do livro da vida, e sofrer a segu
 !!!check Minha Decisão
     Aceito as boas novas em minha vida para minha caminhada a perfeição que será como no céu?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (12) 3ª - Purificação do Santuário
 
@@ -1672,7 +1677,7 @@ Olhe para Ele e as esqueça. Ele se encarrega de colocar no seu coração a fé.
 
 E como olhamos para Cristo? Lendo a Bíblia. Sim. Jesus disse: **“Eu Sou... a verdade”** (**João 14:6**{class=livro}). E em outro lugar: **“a Tua Palavra é a verdade”**{class=verso} (**João 17:17**{class=livro}).
 
-Então, Jesus é a verdade. Ele é a Palavra de Deus. **“O nome pelo qual Se chama é o Verbo de Deus”**{class=verso} (**Apocalipse 19:13**{class=livro}). Contemplamos Cristo estudando Sua palavra. Ele disse: **“as palavras que Eu vos tenho ditto são espírito e são vida”**{class=verso} (**João 6:63**{class=livro}). Quão importante é, portanto, que dediquemos todo o tempo possível para o estudo das Escrituras! A cada espaço de tempo livre podemos entesourar algumas promessas adicionais de Sua Palavra. Diz Paulo: **“a palavra de Cristo habite em vós ricamente”**{class=verso} (**Colossenses 3:16**{class=livro}).
+Então, Jesus é a verdade. Ele é a Palavra de Deus. **“O nome pelo qual Se chama é o Verbo de Deus”**{class=verso} (**Apocalipse 19:13**{class=livro}). Contemplamos Cristo estudando Sua palavra. Ele disse: **“as palavras que Eu vos tenho dito são espírito e são vida”**{class=verso} (**João 6:63**{class=livro}). Quão importante é, portanto, que dediquemos todo o tempo possível para o estudo das Escrituras! A cada espaço de tempo livre podemos entesourar algumas promessas adicionais de Sua Palavra. Diz Paulo: **“a palavra de Cristo habite em vós ricamente”**{class=verso} (**Colossenses 3:16**{class=livro}).
 
 Jesus tinha as Escrituras na memória, e isso O habilitou a vencer o diabo, no deserto.
 
@@ -1695,7 +1700,7 @@ O poder que nos faz obedecer vem de Cristo, e por isso vamos obedecer aos mandam
 !!!check Minha Decisão
     Quero andar na presença de Deus, agradando-O em tudo e crescendo a cada dia na experiência com Deus?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (13) 3ª - A Justificação Pela Fé
 
@@ -1820,4 +1825,4 @@ Cristo em Sua glória e bondade, na forma de Deus e igual a Deus, condescendendo
 !!!check Minha Decisão
     Desejo receber a herança que Deus preparou para mim desde a fundação do mundo?
 
-    ( ) Sim ( ) Não
+    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não

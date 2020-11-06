@@ -26,7 +26,7 @@ puppeteer:
 
 **Citações bíblicas:** ARA: Almeida Revista e Atualizada, ARC: Almeida Revista e Corrigida
  
-**Versão:** 20201104
+**Versão:** 20201106
 
 
 # (1) O Evangelho Eterno
@@ -165,7 +165,7 @@ Como o evangelho chegou até você, e como ele fez e faz diferença na sua vida.
 
     (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
-# (2) 1ª - Temei a Deus e dai-Lhe Glória
+# (2) 1ª - Temei a Deus e Dai-Lhe Glória
 
 !!!quote Verso Áureo
 	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
@@ -290,7 +290,7 @@ Nesta semana, vimos o crer e obedecer às palavras do evangelho **“temei a Deu
 
     (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
-# (3) 1ª - É chegada a hora do Seu juízo...
+# (3) 1ª - É Chegada a Hora do Seu Juízo...
 
 !!!quote Verso Áureo
 	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
@@ -457,7 +457,7 @@ Faria sentido apagar um pecado hoje, só para registrá-lo novamente amanhã? De
 
     (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
-# (4) 1ª - O juízo de investigação
+# (4) 1ª - O Juízo de Investigação
 
 !!!quote Verso Áureo
 	 **“Pois todos havemos de comparecer ante o tribunal de Cristo”**{class=verso} (**Romanos 14:10**{class=livro}).
@@ -1025,7 +1025,7 @@ R.: _______________________________________________________________
 
 Atenderemos a mensagem? Andaremos em sua luz progressiva? O céu espera ansiosamente nossa resposta.
 
-## Segunda Feira
+## Segunda-Feira
 
 **“Seguiu-os ainda um terceiro anjo, _dizendo_ ...”**{class=verso} **Apocalipse 14:9**{class=livro}
 
@@ -1042,7 +1042,7 @@ R.: _______________________________________________________________
 
 Adorar a besta e sua imagem, significa andar por um caminho que leva à morte eterna. A mensagem abre os olhos de todos para isso. Mas para termos certeza de que saímos desta estrada é preciso termos os olhos abertos para saber se estamos nela ou não. Estamos nela se adoramos a besta e sua imagem e recebemos sua marca. Como saberemos se estamos no caminho de adorar a besta? Estudaremos isso na lição de amanhã.
 
-## Terça Feira
+## Terça-Feira
 
 **“Se alguém adorar a _besta_”**{class=verso} **Apocalipse 14:9**{class=livro}.
 

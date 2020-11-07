@@ -168,7 +168,7 @@ Como o evangelho chegou até você, e como ele fez e faz diferença na sua vida.
 # (2) 1ª - Temei a Deus e Dai-Lhe Glória
 
 !!!quote Verso Áureo
-	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
+	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
 
 !!!cite Eventos Finais - EGW, pág. 41
     Em sentido especial foram os adventistas do sétimo dia postos no mundo como atalaias e portadores de luz. A eles foi confiada a última mensagem de advertência a um mundo a perecer. Sobre eles incide maravilhosa luz da Palavra de Deus. Confiou-se-lhes uma obra da mais solene importância: a proclamação da primeira, segunda e terceira mensagens angélicas. Nenhuma obra há de tão grande importância. Não devem eles permitir que nenhuma outra coisa lhes absorva a atenção.
@@ -293,22 +293,21 @@ Nesta semana, vimos o crer e obedecer às palavras do evangelho **“temei a Deu
 # (3) 1ª - É Chegada a Hora do Seu Juízo...
 
 !!!quote Verso Áureo
-	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
+	 **“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do seu juízo. E adorai Aquele que fez o céu, e a terra, e o mar, e as fontes das águas.”**{class=verso} **Apocalipse 14:6,7**{class=livro}.
 
 ## Domingo
 
 ### A Profecia que Aponta o Juízo
 
 **1) Que grande evento é anunciado na mensagem do primeiro anjo?**{class=questao} **Apocalipse 14:6, 7**{class=livroQ}    
-**“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo”**{class=verso} (**Apocalipse 14:6,7**{class=livroVerso}).  
+**“E vi outro anjo voar pelo meio do céu ... dizendo com grande voz: Temei a Deus e dai-Lhe glória, porque vinda é a hora do seu juízo”**{class=verso} (**Apocalipse 14:6,7**{class=livroVerso}).  
 R.: _______________________________________________________________  
 
 
-A mensagem do primeiro anjo anuncia ao mundo o juízo iniciado no céu. E o que dá certeza aos servos de Deus quanto a tal evento é a palavra da profecia. Disse Pedro: **“temos ainda mais firme a palavra profética”**{class=verso} (**II Pedro 1:19**{class=livro}). Encontramos o relato da visão sobre o juízo no livro de Daniel: “Eu continuei olhando, até que foram postos uns tronos, e um Ancião de Dias se assentou; o Seu vestido era branco como lã puríssima; e o Seu trono era de chamas de fogo, e as rodas dele eram fogo ardente.
+A mensagem do primeiro anjo anuncia ao mundo o juízo iniciado no céu. E o que dá certeza aos servos de Deus quanto a tal evento é a palavra da profecia. Disse Pedro: **“temos ainda mais firme a palavra profética”**{class=verso} (**II Pedro 1:19**{class=livro}). Encontramos o relato da visão sobre o juízo no livro de Daniel: **“Eu continuei olhando, até que foram postos uns tronos, e um Ancião de Dias se assentou; o Seu vestido era branco como lã puríssima; e o Seu trono era de chamas de fogo, e as rodas dele eram fogo ardente. Um rio manava e saía de diante dEle; milhares de milhares O serviam, e miríades de miríades assistiam diante dEle. Assentou-se o juízo, e os livros foram abertos.”**{class=verso} (**Daniel 7:8-10**{class=livro}). Aqui não é apontado o tempo no qual este se inicia. No capítulo 8, são dadas explicações adicionais sobre a visão, e ali é relatado o tempo do início do juízo: **“apareceu-me uma visão, _depois daquela que me apareceu no princípio_ ... depois ouvi um santo que falava; e disse outro santo àquele que falava: Até quando durará a visão...? Ele me respondeu: Até duas mil e trezentas tardes e manhãs; então o santuário sera purificado.”**{class=verso} (**Daniel 8:1, 13, 14**{class=livro}). Uma breve olhada nas visões dos capítulos 7 e 8 mostra que ambas tratam do mesmo tema - um poder que persegue os santos e, após sua queda assenta-se o tribunal do céu para juízo. No capítulo 7, anjo diz: **“proferirá palavras contra o Altíssimo, e consumirá os santos do Altíssimo; cuidará em mudar os tempos e a lei; os santos lhe serão entregues na mão por um tempo, e tempos e metade de um tempo. Mas o tribunal se assentará em juízo, e lhe tirará o domínio”**{class=verso} (**Daniel 7:25, 26**{class=livro}). E no verso 8: **“Até quando durará a visão relativamente ao... contínuo e à transgressão assoladora, e à entrega do santuário e do exército, para serem pisados?”**{class=verso} (**Daniel 8:13**{class=livro}).
 
-Um rio manava e saía de diante dEle; milhares de milhares O serviam, e miríades de miríades assistiam diante dEle. Assentou-se o juízo, e os livros foram abertos.” (**Daniel 7:8-10**{class=livro}). Aqui não é apontado o tempo no qual este se inicia. No capítulo 8, são dadas explicações adicionais sobre a visão, e ali é relatado o tempo do início do juízo: **“apareceu-me uma visão, _depois daquela que me apareceu no princípio_ ... depois ouvi um santo que falava; e disse outro santo àquele que falava: Até quando durará a visão...? Ele me respondeu: Até duas mil e trezentas tardes e manhãs; então o santuário sera purificado.”**{class=verso} (**Daniel 8:1, 13, 14**{class=livro}). Uma breve olhada nas visões dos capítulos 7 e 8 mostra que ambas tratam do mesmo tema - um poder que persegue os santos e, após sua queda assenta-se o tribunal do céu para juízo. No capítulo 7, anjo diz: **“proferirá palavras contra o Altíssimo, e consumirá os santos do Altíssimo; cuidará em mudar os tempos e a lei; os santos lhe serão entregues na mão por um tempo, e tempos e metade de um tempo. Mas o tribunal se assentará em juízo, e lhe tirará o domínio”**{class=verso} (**Daniel 7:25, 26**{class=livro}). E no verso 8: **“Até quando durará a visão relativamente ao... contínuo e à transgressão assoladora, e à entrega do santuário e do exército, para serem pisados?”**{class=verso} (**Daniel 8:13**{class=livro}).
-
-**Daniel 7:25:**{class=livro} santos lhe serão entregues na mão **Daniel 8: 13:**{class=livro} entrega do santuário
+- **Daniel 7:25:**{class=livro} santos lhe serão entregues na mão
+- **Daniel 8: 13:**{class=livro} entrega do santuário
 
 Ambas expressões se referem à perseguição dos santos. A história revela que a perseguição foi levada a cabo pelo papado medieval. Ele teve sua supremacia desde o ano 538d.C. até 1798d.C., quando o papa foi aprisionado e perdeu seu poder temporal. Pela profecia, depois disso, viria o juízo: **“Mas o tribunal se assentará em juízo, e lhe tirará o domínio”**{class=verso} (**Daniel 7:26**{class=livro}). Portanto, o juízo no céu começaria em algum tempo depois de 1798. A informação adicional vem no capítulo 8, quando o tempo do juízo é indicado de forma mais precisa: **“Até quando durará a visão relativamente ... à entrega do santuário e do exército, para serem pisados? Ele me respondeu: Até duas mil e trezentas tardes e manhãs; então o santuário sera purificado”**{class=verso} (**Daniel 8:14**{class=livro}). Outras traduções mostram: **“Até duas mil e trezentas tardes e manhãs; então o santuário será justificado”.**{class=verso} Aqui, a conexão com o trabalho que se faz no santuário é óbvia. E pelo capítulo 7, vemos que o trabalho apontado é o juízo: **“assentou-se o tribunal, e abriram-se os livros”**{class=verso} (**Daniel 7:10**{class=livro}). Portanto, a profecia de Daniel 8 aponta o juízo no céu. O anúncio do primeiro anjo: **“é chegada a hora do seu juízo”**{class=verso}, aponta o cumprimento desta profecia.
 
@@ -316,18 +315,18 @@ Ambas expressões se referem à perseguição dos santos. A história revela que
 
 ### A Profecia que Aponta o Juízo - continuação
 
-A profecia que aponta o juízo não foi entendida por Daniel e seus contemporâneos. O anjo lhe disse: **“a visão da tarde e manhã, que foi dita, é verdadeira. Tu, porém, cerra a visão, porque se refere a dias mui distantes... E espantei-me acerca da visão, pois não havia quem a entendesse”.**{class=verso} (**Daniel 8:26, 27**{class=livro}). Tempos mais tarde, **“no primeiro ano de Dario, filho de Assuero, a linhagem dos medos”**{class=verso}... Daniel pôs-se a clamar a Deus, e relata: **“enquanto estava eu ainda falando na oração, o varão Gabriel, que eu tinha visto na minha visão ao princípio, veio voando rapidamente, e tocou-me à hora da oblação da tarde. Ele me instruiu, e falou comigo, dizendo... considera, pois, a palavra e entende a visão. Setenta semanas estão decretadas sobre o teu povo, e sobre a tua santa cidade, para fazer cessar a transgressão, para dar fim aos pecados, e para expiar a iniqüidade, e trazer a justiça eterna, e selar a visão e a profecia, e para ungir o santo dos santos.”**{class=verso} (**Daniel 9:21-24**{class=livro}). O anjo começa explicando uma parte do período de 2300 tardes de manhãs, ou 2300 dias. **“setenta semanas estão decretadas sobre o teu povo”**{class=verso}, Israel, ao qual Daniel pertencia. O termo traduzido como decretadas é o original **“chatak”**, o qual significa literalmente: cortadas. As setenta semanas são um período cortado do total dos 2300 dias. Como não foi indicado a qual parte do período de 2300 dias elas pertencem, presume-se que elas são o início do tempo, as primeiras setenta semanas de tempo contadas dos 2300 dias.
+A profecia que aponta o juízo não foi entendida por Daniel e seus contemporâneos. O anjo lhe disse: **“a visão da tarde e manhã, que foi dita, é verdadeira. Tu, porém, cerra a visão, porque se refere a dias mui distantes... E espantei-me acerca da visão, pois não havia quem a entendesse”.**{class=verso} (**Daniel 8:26, 27**{class=livro}). Tempos mais tarde, **“no primeiro ano de Dario, filho de Assuero, a linhagem dos medos”**{class=verso}... Daniel pôs-se a clamar a Deus, e relata: **“enquanto estava eu ainda falando na oração, o varão Gabriel, que eu tinha visto na minha visão ao princípio, veio voando rapidamente, e tocou-me à hora da oblação da tarde. Ele me instruiu, e falou comigo, dizendo... considera, pois, a palavra e entende a visão. Setenta semanas estão decretadas sobre o teu povo, e sobre a tua santa cidade, para fazer cessar a transgressão, para dar fim aos pecados, e para expiar a iniqüidade, e trazer a justiça eterna, e selar a visão e a profecia, e para ungir o santo dos santos.”**{class=verso} (**Daniel 9:21-24**{class=livro}). O anjo começa explicando uma parte do período de 2300 tardes de manhãs, ou 2300 dias. **“setenta semanas estão decretadas sobre o teu povo”**{class=verso}, Israel, ao qual Daniel pertencia. O termo traduzido como decretadas é o original **“chatak”**, o qual significa literalmente: _cortadas_. As setenta semanas são um período cortado do total dos 2300 dias. Como não foi indicado a qual parte do período de 2300 dias elas pertencem, presume-se que elas são o início do tempo, as primeiras setenta semanas de tempo contadas dos 2300 dias.
 
 70 semanas x 7 dias da semana = 490 dias
 
 Vimos que, em profecia bíblica, um dia equivale a um ano. Então o tempo separado para o povo de Israel somava 490 anos. Segue o entendimento em gráfico, para facilitar:
 
 ```
-2300 tardes e manhãs = 2300 anos
+2300 tardes e manhãs = 2300 dias => 2300 anos
 |------------------------------------------------------------|
 
-70 semanas = 490 anos, contadas para os judeus
-|------------------------|
+70 semanas = 490 dias => 490 anos, cortadas para os judeus
+|----------------------------|
 ```
 
 Considerando as 70 semanas como sendo a primeira parte do período total de tempo, o marco de início da sua contagem, também será o da contagem dos 2300 dias.
@@ -342,7 +341,7 @@ Este é o marco de início da contagem. A ordem para restaurar e edificar Jerusa
 2300 tardes e manhãs = 2300 anos
 |------------------------------------------------------------|
 
-70 semanas = 490 anos, contadas para os judeus
+70 semanas = 490 anos, cortadas para os judeus
 |------------------------|
 ```
 
@@ -382,9 +381,10 @@ A oblação, que também cessaria, era o nome dado às ofertas de pão e vinho, 
 Paulo afirmou que, tendo Jesus dito ao Pai: **“Sacrifício e ofertas e holocaustos e oblações pelo pecado não quiseste, nem neles te deleitaste (os quais se oferecem segundo a lei); agora disse: Eis-Me aqui para fazer a Tua vontade. Ele tira o primeiro, para estabelecer o segundo”**{class=verso} (**Hebreus 10:8,9**{class=livro}). A santuário dos hebreus e seus serviços foi tirado e estabelecido o serviço do santuário do céu, no qual Cristo e apresentaria a Deus, não o sacrifício de animais, mas os méritos de Seu sangue derramado em favor dos pecadores.
 
 ```
-   483 anos         Jesus Ungido  Morte de cruz
-|------------------------|-------------|
-457a.C.                27d.C.         31d.C
+      483 anos        Jesus    Morte de 
+                      Ungido    cruz
+|------------------------|-------|
+457a.C.                27d.C.  31d.C
 ```
 <div class='page'>&nbsp;</div>
 
@@ -439,7 +439,7 @@ Decreto de Artaxerxes                e será purificado, Santuário
      457 a.C.       até 2300 tardes e manhãs       1844 d.C.
 ```
 
-Recomendamos que você leia novamente a lição deste domingo. Ali, comparando Daniel 7 e 8, verificamos que os 2300 dias apontam também o tempo no qual o tribunal se assentaria para iniciar o juízo: **“assentou-se o tribunal, e abriram-se os livros”. As 2300 tardes e manhãs cumpriram-se em 1844. Foi neste tempo, portanto, que os livros começaram a ser abertos no céu e iniciou-se o juízo. Por isso Deus enviou o primeiro anjo do Apocalipse com a mensagem: “Temei a Deus e dai-Lhe glória, porque vinda é a hora do Seu juízo.”**{class=verso} (**Apocalipse 14:7**{class=livro}). Esta hora chegou em 1844.
+Recomendamos que você leia novamente a lição deste domingo. Ali, comparando Daniel 7 e 8, verificamos que os 2300 dias apontam também o tempo no qual o tribunal se assentaria para iniciar o juízo: **“assentou-se o tribunal, e abriram-se os livros”.** As 2300 tardes e manhãs cumpriram-se em 1844. Foi neste tempo, portanto, que os livros começaram a ser abertos no céu e iniciou-se o juízo. Por isso Deus enviou o primeiro anjo do Apocalipse com a mensagem: **“Temei a Deus e dai-Lhe glória, porque vinda é a hora do seu juízo.”**{class=verso} (**Apocalipse 14:7**{class=livro}). Esta hora chegou em 1844.
 
 Desde então, a mensagem do primeiro anjo tem ecoado com força em todo o mundo, despertando muitos para a necessidade de preparo para comparecer diante do tribunal de Deus. Ele te convida para unir-se à obra deste anjo, e proclamar aos homens a chegada do juízo. Que possamos nós todos sermos encontrados unidos à obra deste anjo, é o desejo do céu.
 
@@ -1017,7 +1017,7 @@ Pelo termo **“seguiu-os”,** vemos que a mensagem do terceiro anjo segue-se �
 
 As mensagens do primeiro, segundo e terceiro anjo formam um todo. Mencionando a do primeiro, João diz: **“vi outro anjo... e tinha um evangelho eterno para proclamar”**{class=verso} (**Apocalipse 14:6**{class=livro}). Posto que a mensagem do terceiro anjo complementa a do primeiro, também faz parte do evangelho eterno. A mensagem dos três anjos é o evangelho enviado ao mundo. Portanto, aceitar o evangelho do céu significa aceitar a mensagem dos três anjos. Não há como aceitar uma e rejeitar outra.
 
-O ver que o segundo anjo segue-se ao primeiro e o terceiro ao segundo nos mostra que as mensagens guiam os que as aceitam em uma experiência progressiva. Quem aceita a mensagem do primeiro: **“é chegada a hora do Seu juízo”**{class=verso}, busca temer a Deus, que é guardar Seus mandamentos (**Eclesiastes 12:13**{class=livro}). Ao fazê-lo, se dá conta de que as corporações religiosas caídas ensinam o erro, e para atender ao evangelho que recebeu, terá de romper sua ligação com elas. Ele forçosamente entende a mensagem do segundo anjo: **“caiu, caiu Babilônia!”.**{class=verso} **“Minha igreja caiu”** - diz. Por este pequeno exemplo, notamos que a mensagem do segundo anjo conduz à uma progressão na experiência espiritual iniciada pelo atender a do primeiro. Aqueles que não crerem na mensagem do primeiro anjo não buscarão temer a Deus, e por conseqüência, não se darão conta que as corporações religiosas que ensinam o erro caíram. Por isso, não verão luz na mensagem do segundo anjo, a qual aponta a queda espiritual das igrejas. As mensagens dos três anjos podem adequadamente serem comparadas a uma escada de três degraus. É necessário subí-los um por um.
+O ver que o segundo anjo segue-se ao primeiro e o terceiro ao segundo nos mostra que as mensagens guiam os que as aceitam em uma experiência progressiva. Quem aceita a mensagem do primeiro: **“é chegada a hora do seu juízo”**{class=verso}, busca temer a Deus, que é guardar Seus mandamentos (**Eclesiastes 12:13**{class=livro}). Ao fazê-lo, se dá conta de que as corporações religiosas caídas ensinam o erro, e para atender ao evangelho que recebeu, terá de romper sua ligação com elas. Ele forçosamente entende a mensagem do segundo anjo: **“caiu, caiu Babilônia!”.**{class=verso} **“Minha igreja caiu”** - diz. Por este pequeno exemplo, notamos que a mensagem do segundo anjo conduz à uma progressão na experiência espiritual iniciada pelo atender a do primeiro. Aqueles que não crerem na mensagem do primeiro anjo não buscarão temer a Deus, e por conseqüência, não se darão conta que as corporações religiosas que ensinam o erro caíram. Por isso, não verão luz na mensagem do segundo anjo, a qual aponta a queda espiritual das igrejas. As mensagens dos três anjos podem adequadamente serem comparadas a uma escada de três degraus. É necessário subí-los um por um.
 
 **1) Como o que é para nós a mensagem dos três anjos dada pelas profecias do Apocalipse?**{class=questao} **II Pedro 1:19**{class=livroQ}  
 **“E temos ainda mais firme a palavra profética à qual bem fazeis em estar atentos, como a uma candeia que alumia em lugar escuro, até que o dia amanheça e a estrela da alva surja em vossos corações”**{class=versoQ} (**II Pedro 1:19**{class=livroVerso}).  

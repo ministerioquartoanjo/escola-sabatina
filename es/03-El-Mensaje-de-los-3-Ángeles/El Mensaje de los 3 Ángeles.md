@@ -22,7 +22,7 @@ puppeteer:
 
 <div class='page'>&nbsp;</div> 
 
-[[TOC] ] 
+[[TOC]] 
 
 **Citas bíblicas:**ARA: Almeida revisada y actualizada, ARC: Almeida revisada y corregida 
  
@@ -51,7 +51,7 @@ Las buenas nuevas del evangelio son:
 - Los diez Mandamientos. 
 
 **1) ¿Qué es el evangelio?**{class=questao} (**Romanos 1:16**{class=livroQ})   
-**“No me avergüenzo del evangelio, porque es el poder de Dios para la salvación de todos los que creen _ ”**{class=versoQ} (**Romanos 1:16**{class=livroVerso}). 
+**“No me avergüenzo del evangelio, porque es el poder de Dios para la salvación de todos los que creen _ ”**{class=versoQ} (**Romanos 1:16**{class=livroVerso}).  
 
 A.: _______________________________________________________________ 
 

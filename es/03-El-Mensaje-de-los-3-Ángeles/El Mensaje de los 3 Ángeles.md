@@ -103,16 +103,16 @@ El gobierno de Dios fue justificado como mejor, sabio y justo en la cruz de Cris
 El evangelio de Cristo anunciado en Génesis siguió siendo el mismo hasta la época de los apóstoles. Y Dios no nos da ninguna motivación para pensar que cambiaría al final de los tiempos. 
 
 **4) ¿Cambia Dios el evangelio enviado a los hombres cuando llegan los tiempos modernos?**{class=questao} **Malaquías 3:6**{class=livroQ}   
-**“Porque yo, el Señor, _no cambio _”**{class=versoQ} (**Malaquías 3:6**{class=livroVerso}).  
+**“Porque yo, el Señor, _no cambio_”**{class=versoQ} (**Malaquías 3:6**{class=livroVerso}).  
 R .: _______________________________________________________________ 
 
 ## Miércoles 
 
 ### Proclamando el Evangelio
  
-**“Vi otro ángel volando por el cielo, y había un evangelio eterno _para proclamar _”**{class=verso} **Apocalipsis 14:6**{class=livro}
+**“Vi otro ángel volando por el cielo, y tenía un evangelio eterno _para proclamar_”**{class=verso} **Apocalipsis 14:6**{class=livro}
  
-Dios quiere que el evangelio sea proclamado, no secreto guardado. Una vez que lo recibimos, Él espera que lo pasemos a otros. Dado que el evangelio es la proclamación de Cristo, el poder de Dios, proclamarlo es proclamar a Cristo como el libertador de los pecados. No proclamarlo, significa dejar de confesar a Cristo. **...r tanto, cualquiera que me confiese delante de los hombres, yo también lo confesaré delante de mi Padre que está en los cielos. Pero cualquiera que me niegue delante de los hombres, yo también lo negaré delante de mi Padre que está en los cielos ”.**{class=verso} (**Mateo 10:32, 33**{class=livro}).
+Dios quiere que el evangelio sea proclamado, no secreto guardado. Una vez que lo recibimos, Él espera que lo pasemos a otros. Dado que el evangelio es la proclamación de Cristo, el poder de Dios, proclamarlo es proclamar a Cristo como el libertador de los pecados. No proclamarlo, significa dejar de confesar a Cristo. **por tanto, cualquiera que me confiese delante de los hombres, yo también lo confesaré delante de mi Padre que está en los cielos. Pero cualquiera que me niegue delante de los hombres, yo también lo negaré delante de mi Padre que está en los cielos ”.**{class=verso} (**Mateo 10:32, 33**{class=livro}).
 
 Así, todo aquel que sea confesado por Cristo en el cielo, lo habrá proclamado Salvador en la tierra. El verdadero cristiano nace como misionero. Su motivación para proclamar a Cristo no es un salario, sino el deseo de que otros también encuentren al Salvador que él encontró en Jesús. Trabaja para el Maestro **...pontáneamente según la voluntad de Dios”**{class=verso} y no **“por codicia impía, sino voluntariamente”**{class=verso} (**I Pedro 5:2**{class=livro}). 
 

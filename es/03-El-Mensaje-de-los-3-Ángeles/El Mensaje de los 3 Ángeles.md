@@ -26,7 +26,7 @@ puppeteer:
 
 **Citas bíblicas:**ARA: Almeida revisada y actualizada, ARC: Almeida revisada y corregida 
  
-**Versión:**...01104 
+**Versión:** 20201124 
 
 
 # (1) El Evangelio Eterno 

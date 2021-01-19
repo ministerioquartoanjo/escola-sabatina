@@ -38,19 +38,19 @@ puppeteer:
 
 ### Buenas noticias 
 
-**“Y vi otro ángel volando por el cielo, y había un _evangelho_ ...”**{class=verso} **Apocalipsis 14:6**{class=livro}.
+**“Y vi otro ángel volando por el cielo, y había un _evangelio_ ...”**{class=verso} **Apocalipsis 14:6**{class=livro}.
 
-La palabra **...angelio”** significa **“buenas nuevas”. **El mismo término que el original traducido para evangelizar, cuando Jesús dijo: **“El Espíritu del Señor ... me ungió para _evangelizar_"**{class=verso} (**Lucas 4:18**{class=livro}), también es como **“buenas noticias”** en otros pasajes:**“El ángel ... les dijo: No temáis; aquí les traigo buenas noticias de gran gozo, que serán para todo el pueblo; porque en la ciudad de David les nació el Salvador, que es Cristo el Señor. ”**{class=verso} (**Lucas 2:10, 11**{class=livro}).
+La palabra **evangelio”** significa **“buenas nuevas”. **El mismo término que el original traducido para evangelizar, cuando Jesús dijo: **“El Espíritu del Señor ... me ungió para _evangelizar_"**{class=verso} (**Lucas 4:18**{class=livro}), también es como **“buenas noticias”** en otros pasajes:**“El ángel... les dijo: No temáis; aquí les traigo buenas noticias de gran gozo, que serán para todo el pueblo; porque en la ciudad de David les nació el Salvador, que es Cristo el Señor.”**{class=verso} (**Lucas 2:10, 11**{class=livro}).
 
-El ángel resumió las buenas nuevas de la siguiente manera: **... la ciudad de David, hoy te nació el Salvador, que es Cristo el Señor”**{class=verso}. **“Él salvará a su pueblo de sus pecados”**{class=verso} (**Mateo 1:21**{class=livro}). Por tanto, el evangelio nos anuncia a Jesús como el Cristo que vino a salvarnos de nuestros pecados. **“El pecado es infracción de la ley”**{class=verso} (**I Juan 3:4**{class=livro}). Por eso entendemos que Jesús vino a salvarnos de quebrantar la ley y a ser obedientes a ella. Para que esto suceda, es necesario que recibamos un poder que no tenemos. 
+El ángel resumió las buenas nuevas de la siguiente manera: **...en la ciudad de David, hoy te nació el Salvador, que es Cristo el Señor”**{class=verso}. **“Él salvará a su pueblo de sus pecados”**{class=verso} (**Mateo 1:21**{class=livro}). Por tanto, el evangelio nos anuncia a Jesús como el Cristo que vino a salvarnos de nuestros pecados. **“El pecado es infracción de la ley”**{class=verso} (**I Juan 3:4**{class=livro}). Por eso entendemos que Jesús vino a salvarnos de quebrantar la ley y a ser obedientes a ella. Para que esto suceda, es necesario que recibamos un poder que no tenemos.
 
-Dijo Pablo: **...toy ... vendido al pecado”**{class=verso} (**Romanos 7:14**{class=livro}). El poder que nos libera del pecado es **“Cristo, poder de Dios”**{class=verso} (**I Corintios 1:24**{class=livro}).
+Dijo Pablo: **estoy ... vendido al pecado”**{class=verso} (**Romanos 7:14**{class=livro}). El poder que nos libera del pecado es **“Cristo, poder de Dios”**{class=verso} (**I Corintios 1:24**{class=livro}).
 
 Las buenas nuevas del evangelio son:
 - El anuncio de la venida de Cristo, el poder de Dios para salvarnos de la transgresión, la desobediencia; 
 - Los diez Mandamientos. 
 
-**1) ¿Qué es el evangelio?**{class=questao} (**Romanos 1:16**{class=livroQ})   
+**1) ¿Qué es el evangelio?**{class=questao} (**Romanos 1:16**{class=livroQ})  
 **“No me avergüenzo del evangelio, porque es el poder de Dios para la salvación de todos los que _creen_ ”**{class=versoQ} (**Romanos 1:16**{class=livroVerso}).  
 
 A.: _______________________________________________________________ 
@@ -114,11 +114,11 @@ R .: _______________________________________________________________
  
 Dios quiere que el evangelio sea proclamado, no secreto guardado. Una vez que lo recibimos, Él espera que lo pasemos a otros. Dado que el evangelio es la proclamación de Cristo, el poder de Dios, proclamarlo es proclamar a Cristo como el libertador de los pecados. No proclamarlo, significa dejar de confesar a Cristo. **por tanto, cualquiera que me confiese delante de los hombres, yo también lo confesaré delante de mi Padre que está en los cielos. Pero cualquiera que me niegue delante de los hombres, yo también lo negaré delante de mi Padre que está en los cielos ”.**{class=verso} (**Mateo 10:32, 33**{class=livro}).
 
-Así, todo aquel que sea confesado por Cristo en el cielo, lo habrá proclamado Salvador en la tierra. El verdadero cristiano nace como misionero. Su motivación para proclamar a Cristo no es un salario, sino el deseo de que otros también encuentren al Salvador que él encontró en Jesús. Trabaja para el Maestro **...pontáneamente según la voluntad de Dios”**{class=verso} y no **“por codicia impía, sino voluntariamente”**{class=verso} (**I Pedro 5:2**{class=livro}). 
+Así, todo aquel que sea confesado por Cristo en el cielo, lo habrá proclamado Salvador en la tierra. El verdadero cristiano nace como misionero. Su motivación para proclamar a Cristo no es un salario, sino el deseo de que otros también encuentren al Salvador que él encontró en Jesús. Trabaja para el Maestro **espontáneamente según la voluntad de Dios”**{class=verso} y no **“por codicia impía, sino voluntariamente”**{class=verso} (**I Pedro 5:2**{class=livro}). 
 
 
 **5) ¿Qué parte de los tímidos, que se niegan a confesarse con Jesús?**{class=questao} **Apocalipsis 21:8**{class=livro}  
-**“Pero en cuanto a los tímidos, los incrédulos, los abominables, los homicidas, los fornicadores, los hechiceros, los idólatras y todos los mentirosos, su parte estará en el lago que arde con fuego y azufre, cuál es la muerte segunda _ ”**{class=versoQ} (**Apocalipsis 21:8**{class=livroVerso}).  
+**“Pero en cuanto a los tímidos, los incrédulos, los abominables, los homicidas, los fornicadores, los hechiceros, los idólatras y todos los mentirosos, su parte estará en el lago que arde con fuego y azufre, cuál es la muerte segunda_ ”**{class=versoQ} (**Apocalipsis 21:8**{class=livroVerso}).  
 R .: _______________________________________________________________ 
 
 Jesús no se avergüenza de nosotros, a pesar de que hemos cometido tantos pecados horribles. ¿Nos avergonzaríamos de él? ¡Qué deshonra para el cielo que un ser humano salvado por el precio infinito del sacrificio de Cristo se niegue a proclamar el nombre de su Salvador! Esta es la mayor prueba de descuido de todo el sacrificio que se hizo por nosotros. Que nadie se encuentre en esta situación.

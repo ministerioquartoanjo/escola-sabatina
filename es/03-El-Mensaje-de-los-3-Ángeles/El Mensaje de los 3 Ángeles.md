@@ -71,18 +71,18 @@ A.: _______________________________________________________________
 **“Y vi otro ángel volando por el cielo ...”**{class=verso} **Apocalipsis 14:6**{class=livroQ}. 
 
 **3) ¿Dónde se debe predicar el evangelio?**{class=questao} **Mateo 24:14**{class=livroQ}   
-**“Y este evangelio del reino será predicado _en todo el mundo_, en testimonio _a todos naciones _ ”**{class=versoQ} (**Mateo 24:14**{class=verso}). 
+**“Y este evangelio del reino será predicado _en todo el mundo_, en testimonio _a todas las naciones_ ”**{class=versoQ} (**Mateo 24:14**{class=verso}). 
 
 R.: _______________________________________________________________
 
 
-Juan vio un ángel volando por el cielo para predicar el evangelio. El caso es que si pasa algo en el cielo, todo el que quiera puede verlo. En este lenguaje, Dios revela su deseo de que las buenas nuevas del evangelio, de Cristo como el poder de Dios para librarnos del pecado, sean anunciadas a todos. **...os ... quiere que todos los hombres sean salvos”**{class=verso} (**I Timoteo 2:3,4**{class=livro}). Jesús nos dice a cada uno de nosotros: **“Id por todo el mundo y predicad el evangelio a toda criatura”**{class=verso} (**Marcos 16:15**{class=livro}). Él espera que pongamos todas nuestras habilidades a trabajar en esta obra santa. 
+Juan vio un ángel volando por el cielo para predicar el evangelio. El caso es que si pasa algo en el cielo, todo el que quiera puede verlo. En este lenguaje, Dios revela su deseo de que las buenas nuevas del evangelio, de Cristo como el poder de Dios para librarnos del pecado, sean anunciadas a todos. **Dios ... quiere que todos los hombres sean salvos”**{class=verso} (**I Timoteo 2:3,4**{class=livro}). Jesús nos dice a cada uno de nosotros: **“Id por todo el mundo y predicad el evangelio a toda criatura”**{class=verso} (**Marcos 16:15**{class=livro}). Él espera que pongamos todas nuestras habilidades a trabajar en esta obra santa. 
 
 Como vimos anteriormente, el evangelio debe ser predicado a todos:
-- **... delante de las ovejas perdidas de la casa de Israel”**{class=verso} (**Mateo 10:6**{class=livro}). Los israelitas eran observadores del sábado. Primero se debe predicar el evangelio a esta clase de personas. 
-- Luego a todos los demás: **... seréis testigos, tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra”**{class=verso} (**Hechos 1:8**{class=livro}). Los apóstoles, en el pasado, respondieron al llamado de Cristo: **“Por toda la tierra su voz y sus palabras salieron hasta los confines del mundo”**{class=verso} (**Romanos 10:18**{class=livro}).
+- **Id primero delante de las ovejas perdidas de la casa de Israel”**{class=verso} (**Mateo 10:6**{class=livro}). Los israelitas eran observadores del sábado. Primero se debe predicar el evangelio a esta clase de personas. 
+- Luego a todos los demás: **y me seréis testigos, tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra”**{class=verso} (**Hechos 1:8**{class=livro}). Los apóstoles, en el pasado, respondieron al llamado de Cristo: **“Por toda la tierra su voz y sus palabras salieron hasta los confines del mundo”**{class=verso} (**Romanos 10:18**{class=livro}).
 
-Pablo dijo que en su día el **...angelio ... fue predicado a toda criatura debajo del cielo”**{class=verso} (**Colosenses 1:23**{class=livro}) . Y Jesús nos llama a la misma obra. El ángel de Apocalipsis tenía la comisión de predicar el evangelio **“a toda nación, tribu, lengua y pueblo”**{class=verso} (**Apocalipsis 14:6**{class=livro}).
+Pablo dijo que en su día el **el evangelio ... fue predicado a toda criatura debajo del cielo”**{class=verso} (**Colosenses 1:23**{class=livro}) . Y Jesús nos llama a la misma obra. El ángel de Apocalipsis tenía la comisión de predicar el evangelio **“a toda nación, tribu, lengua y pueblo”**{class=verso} (**Apocalipsis 14:6**{class=livro}).
 
 La palabra ángel, es la traducción del original que significa **...nsajero”**. Estamos llamados a ser este mensajero. Aquí está la invitación, para todos los que acepten los 3 mensajes angelicales, ¿prestaremos atención a Su invitación? 
 

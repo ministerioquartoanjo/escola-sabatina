@@ -38,19 +38,19 @@ puppeteer:
 
 ### Buenas noticias 
 
-**“Y vi otro ángel volando por el cielo, y había un _evangelho_ ...”**{class=verso} **Apocalipsis 14:6**{class=livro}.
+**“Y vi otro ángel volando por el cielo, y había un _evangelio_ ...”**{class=verso} **Apocalipsis 14:6**{class=livro}.
 
-La palabra **...angelio”** significa **“buenas nuevas”. **El mismo término que el original traducido para evangelizar, cuando Jesús dijo: **“El Espíritu del Señor ... me ungió para _evangelizar_"**{class=verso} (**Lucas 4:18**{class=livro}), también es como **“buenas noticias”** en otros pasajes:**“El ángel ... les dijo: No temáis; aquí les traigo buenas noticias de gran gozo, que serán para todo el pueblo; porque en la ciudad de David les nació el Salvador, que es Cristo el Señor. ”**{class=verso} (**Lucas 2:10, 11**{class=livro}).
+La palabra **evangelio”** significa **“buenas nuevas”. **El mismo término que el original traducido para evangelizar, cuando Jesús dijo: **“El Espíritu del Señor ... me ungió para _evangelizar_"**{class=verso} (**Lucas 4:18**{class=livro}), también es como **“buenas noticias”** en otros pasajes:**“El ángel... les dijo: No temáis; aquí les traigo buenas noticias de gran gozo, que serán para todo el pueblo; porque en la ciudad de David les nació el Salvador, que es Cristo el Señor.”**{class=verso} (**Lucas 2:10, 11**{class=livro}).
 
-El ángel resumió las buenas nuevas de la siguiente manera: **... la ciudad de David, hoy te nació el Salvador, que es Cristo el Señor”**{class=verso}. **“Él salvará a su pueblo de sus pecados”**{class=verso} (**Mateo 1:21**{class=livro}). Por tanto, el evangelio nos anuncia a Jesús como el Cristo que vino a salvarnos de nuestros pecados. **“El pecado es infracción de la ley”**{class=verso} (**I Juan 3:4**{class=livro}). Por eso entendemos que Jesús vino a salvarnos de quebrantar la ley y a ser obedientes a ella. Para que esto suceda, es necesario que recibamos un poder que no tenemos. 
+El ángel resumió las buenas nuevas de la siguiente manera: **...en la ciudad de David, hoy te nació el Salvador, que es Cristo el Señor”**{class=verso}. **“Él salvará a su pueblo de sus pecados”**{class=verso} (**Mateo 1:21**{class=livro}). Por tanto, el evangelio nos anuncia a Jesús como el Cristo que vino a salvarnos de nuestros pecados. **“El pecado es infracción de la ley”**{class=verso} (**I Juan 3:4**{class=livro}). Por eso entendemos que Jesús vino a salvarnos de quebrantar la ley y a ser obedientes a ella. Para que esto suceda, es necesario que recibamos un poder que no tenemos.
 
-Dijo Pablo: **...toy ... vendido al pecado”**{class=verso} (**Romanos 7:14**{class=livro}). El poder que nos libera del pecado es **“Cristo, poder de Dios”**{class=verso} (**I Corintios 1:24**{class=livro}).
+Dijo Pablo: **estoy ... vendido al pecado”**{class=verso} (**Romanos 7:14**{class=livro}). El poder que nos libera del pecado es **“Cristo, poder de Dios”**{class=verso} (**I Corintios 1:24**{class=livro}).
 
 Las buenas nuevas del evangelio son:
 - El anuncio de la venida de Cristo, el poder de Dios para salvarnos de la transgresión, la desobediencia; 
 - Los diez Mandamientos. 
 
-**1) ¿Qué es el evangelio?**{class=questao} (**Romanos 1:16**{class=livroQ})   
+**1) ¿Qué es el evangelio?**{class=questao} (**Romanos 1:16**{class=livroQ})  
 **“No me avergüenzo del evangelio, porque es el poder de Dios para la salvación de todos los que _creen_ ”**{class=versoQ} (**Romanos 1:16**{class=livroVerso}).  
 
 A.: _______________________________________________________________ 
@@ -71,59 +71,59 @@ A.: _______________________________________________________________
 **“Y vi otro ángel volando por el cielo ...”**{class=verso} **Apocalipsis 14:6**{class=livroQ}. 
 
 **3) ¿Dónde se debe predicar el evangelio?**{class=questao} **Mateo 24:14**{class=livroQ}   
-**“Y este evangelio del reino será predicado _en todo el mundo_, en testimonio _a todos naciones _ ”**{class=versoQ} (**Mateo 24:14**{class=verso}). 
+**“Y este evangelio del reino será predicado _en todo el mundo_, en testimonio _a todas las naciones_ ”**{class=versoQ} (**Mateo 24:14**{class=verso}). 
 
 R.: _______________________________________________________________
 
 
-Juan vio un ángel volando por el cielo para predicar el evangelio. El caso es que si pasa algo en el cielo, todo el que quiera puede verlo. En este lenguaje, Dios revela su deseo de que las buenas nuevas del evangelio, de Cristo como el poder de Dios para librarnos del pecado, sean anunciadas a todos. **...os ... quiere que todos los hombres sean salvos”**{class=verso} (**I Timoteo 2:3,4**{class=livro}). Jesús nos dice a cada uno de nosotros: **“Id por todo el mundo y predicad el evangelio a toda criatura”**{class=verso} (**Marcos 16:15**{class=livro}). Él espera que pongamos todas nuestras habilidades a trabajar en esta obra santa. 
+Juan vio un ángel volando por el cielo para predicar el evangelio. El caso es que si pasa algo en el cielo, todo el que quiera puede verlo. En este lenguaje, Dios revela su deseo de que las buenas nuevas del evangelio, de Cristo como el poder de Dios para librarnos del pecado, sean anunciadas a todos. **Dios ... quiere que todos los hombres sean salvos”**{class=verso} (**I Timoteo 2:3,4**{class=livro}). Jesús nos dice a cada uno de nosotros: **“Id por todo el mundo y predicad el evangelio a toda criatura”**{class=verso} (**Marcos 16:15**{class=livro}). Él espera que pongamos todas nuestras habilidades a trabajar en esta obra santa. 
 
 Como vimos anteriormente, el evangelio debe ser predicado a todos:
-- **... delante de las ovejas perdidas de la casa de Israel”**{class=verso} (**Mateo 10:6**{class=livro}). Los israelitas eran observadores del sábado. Primero se debe predicar el evangelio a esta clase de personas. 
-- Luego a todos los demás: **... seréis testigos, tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra”**{class=verso} (**Hechos 1:8**{class=livro}). Los apóstoles, en el pasado, respondieron al llamado de Cristo: **“Por toda la tierra su voz y sus palabras salieron hasta los confines del mundo”**{class=verso} (**Romanos 10:18**{class=livro}).
+- **Id primero delante de las ovejas perdidas de la casa de Israel”**{class=verso} (**Mateo 10:6**{class=livro}). Los israelitas eran observadores del sábado. Primero se debe predicar el evangelio a esta clase de personas. 
+- Luego a todos los demás: **y me seréis testigos, tanto en Jerusalén como en toda Judea y Samaria, y hasta los confines de la tierra”**{class=verso} (**Hechos 1:8**{class=livro}). Los apóstoles, en el pasado, respondieron al llamado de Cristo: **“Por toda la tierra su voz y sus palabras salieron hasta los confines del mundo”**{class=verso} (**Romanos 10:18**{class=livro}).
 
-Pablo dijo que en su día el **...angelio ... fue predicado a toda criatura debajo del cielo”**{class=verso} (**Colosenses 1:23**{class=livro}) . Y Jesús nos llama a la misma obra. El ángel de Apocalipsis tenía la comisión de predicar el evangelio **“a toda nación, tribu, lengua y pueblo”**{class=verso} (**Apocalipsis 14:6**{class=livro}).
+Pablo dijo que en sus días el **el evangelio ... fue predicado a toda criatura debajo del cielo”**{class=verso} (**Colosenses 1:23**{class=livro}) . Y Jesús nos llama a la misma obra. El ángel de Apocalipsis tenía la comisión de predicar el evangelio **“a toda nación, tribu, lengua y pueblo”**{class=verso} (**Apocalipsis 14:6**{class=livro}).
 
-La palabra ángel, es la traducción del original que significa **...nsajero”**. Estamos llamados a ser este mensajero. Aquí está la invitación, para todos los que acepten los 3 mensajes angelicales, ¿prestaremos atención a Su invitación? 
+La palabra ángel, es la traducción del original que significa **mensajero”**. Estamos llamados a ser este mensajero. Aquí está la invitación, para todos los que acepten los 3 mensajes angelicales, ¿prestaremos atención a Su invitación? 
 
 ## Martes 
 
 ### Evangelio Eterno 
 
-**“Y vi a otro ángel volando por el cielo, y tuve un evangelio eterno”**{class=verso} **Apocalipsis 14:6**{class=livro}. 
+**“Y vi a otro ángel volando por en medio del cielo, y tenía un evangelio eterno”**{class=verso} **Apocalipsis 14:6**{class=livro}. 
 
 La palabra eterna significa algo que siempre es y nunca cambia. La Biblia, refiriéndose a Dios como el Eterno dice: **"quién es, quién era y quién ha de venir"**{class=verso} (**Apocalipsis 1:8**{class=livro} ). Así, el evangelio: es hoy el mismo que era en el tiempo del Génesis, y es el mismo por venir; que será predicado en el último tiempo.
 
-En los tiempos del Nuevo Testamento, Pablo declaró que **...s Escrituras ... anunciaron previamente las buenas nuevas a Abraham”**{class=verso} (**Gálatas 3:8**{class=livro}). Abraham vivió cerca de 2000 años antes que Pablo. Y recibió el mismo evangelio. En la lección del domingo, estudiamos que el evangelio es la proclamación de Cristo como el poder de Dios para librarnos del pecado. Génesis muestra que esta buena noticia ya se anunció en el Edén, justo después de la caída de Adán. Jehová dijo a la serpiente: **“Pondré enemistad entre ti y la mujer, y entre tu descendencia y su descendencia; te lastimará la cabeza y tú le lastimarás el talón ”**{class=verso} (**Génesis 3:15**{class=livro}). Este fue el anuncio de que vendría alguien, de la descendencia de la mujer, y derrotaría a la serpiente, Satanás: te golpeará la cabeza. El descendiente es Jesucristo, hombre.
+En los tiempos del Nuevo Testamento, Pablo declaró que **las Escrituras ... anunciaron previamente las buenas nuevas a Abraham”**{class=verso} (**Gálatas 3:8**{class=livro}). Abraham vivió cerca de 2000 años antes que Pablo. Y recibió el mismo evangelio. En la lección del domingo, estudiamos que el evangelio es la proclamación de Cristo como el poder de Dios para librarnos del pecado. Génesis muestra que esta buena noticia ya se anunció en el Edén, justo después de la caída de Adán. Jehová dijo a la serpiente: **“Pondré enemistad entre ti y la mujer, y entre tu descendencia y su descendencia; te lastimará la cabeza y tú le lastimarás el talón ”**{class=verso} (**Génesis 3:15**{class=livro}). Este fue el anuncio de que vendría alguien, de la descendencia de la mujer, y derrotaría a la serpiente, Satanás: te golpeará la cabeza. El descendiente es Jesucristo, hombre.
 
-En el capítulo 3 de Lucas, los padres maternos de Jesús se mencionan uno por uno, de Su abuelo José, el padre de María, su madre. El texto nos lleva al primer padre: Adán (**Lucas 3:38**{class=livro}). Jesús golpeó la cabeza de Satanás en la cruz del Calvario: **"después de despojar a los principados y potestades, los mostró públicamente y los _triunfou_ en la misma cruz"**{class=verso} (**Colosenses 2:15**{class=livro}). Sufriendo como una oveja muda, exhibió públicamente la maldad de Satanás y los verdaderos principios de su gobierno, atrayendo de los seres santos toda simpatía por su causa.
+En el capítulo 3 de Lucas, los padres maternos de Jesús se mencionan uno por uno, de Su abuelo José, el padre de María, su madre. El texto nos lleva al primer padre: Adán (**Lucas 3:38**{class=livro}). Jesús golpeó la cabeza de Satanás en la cruz del Calvario: **"después de despojar a los principados y potestades, los mostró públicamente y sobre ellos _triunfó_ en la cruz"**{class=verso} (**Colosenses 2:15**{class=livro}). Sufriendo como una oveja muda, exhibió públicamente la maldad de Satanás y los verdaderos principios de su gobierno, atrayendo de los seres santos toda simpatía por su causa.
 
 El gobierno de Dios fue justificado como mejor, sabio y justo en la cruz de Cristo. En este sentido, Jesús hirió la cabeza de Satanás. Pero para golpear la cabeza del enemigo, Jesús tuvo que soportar los sufrimientos de la cruz; por tanto, en lenguaje figurado, Dios dijo: la serpiente le golpearía el talón. Una herida temporal, pero sería curada por la gloriosa resurrección de Cristo. 
 
 El evangelio de Cristo anunciado en Génesis siguió siendo el mismo hasta la época de los apóstoles. Y Dios no nos da ninguna motivación para pensar que cambiaría al final de los tiempos. 
 
 **4) ¿Cambia Dios el evangelio enviado a los hombres cuando llegan los tiempos modernos?**{class=questao} **Malaquías 3:6**{class=livroQ}   
-**“Porque yo, el Señor, _no cambio _”**{class=versoQ} (**Malaquías 3:6**{class=livroVerso}).  
+**“Porque yo, el Señor, _no cambio_”**{class=versoQ} (**Malaquías 3:6**{class=livroVerso}).  
 R .: _______________________________________________________________ 
 
 ## Miércoles 
 
 ### Proclamando el Evangelio
  
-**“Vi otro ángel volando por el cielo, y había un evangelio eterno _para proclamar _”**{class=verso} **Apocalipsis 14:6**{class=livro}
+**“Vi otro ángel volando por el cielo, y tenía un evangelio eterno _para proclamar_”**{class=verso} **Apocalipsis 14:6**{class=livro}
  
-Dios quiere que el evangelio sea proclamado, no secreto guardado. Una vez que lo recibimos, Él espera que lo pasemos a otros. Dado que el evangelio es la proclamación de Cristo, el poder de Dios, proclamarlo es proclamar a Cristo como el libertador de los pecados. No proclamarlo, significa dejar de confesar a Cristo. **...r tanto, cualquiera que me confiese delante de los hombres, yo también lo confesaré delante de mi Padre que está en los cielos. Pero cualquiera que me niegue delante de los hombres, yo también lo negaré delante de mi Padre que está en los cielos ”.**{class=verso} (**Mateo 10:32, 33**{class=livro}).
+Dios quiere que el evangelio sea proclamado, no secreto guardado. Una vez que lo recibimos, Él espera que lo pasemos a otros. Dado que el evangelio es la proclamación de Cristo, el poder de Dios, proclamarlo es proclamar a Cristo como el libertador de los pecados. No proclamarlo, significa dejar de confesar a Cristo. **por tanto, cualquiera que me confiese delante de los hombres, yo también lo confesaré delante de mi Padre que está en los cielos. Pero cualquiera que me niegue delante de los hombres, yo también lo negaré delante de mi Padre que está en los cielos ”.**{class=verso} (**Mateo 10:32, 33**{class=livro}).
 
-Así, todo aquel que sea confesado por Cristo en el cielo, lo habrá proclamado Salvador en la tierra. El verdadero cristiano nace como misionero. Su motivación para proclamar a Cristo no es un salario, sino el deseo de que otros también encuentren al Salvador que él encontró en Jesús. Trabaja para el Maestro **...pontáneamente según la voluntad de Dios”**{class=verso} y no **“por codicia impía, sino voluntariamente”**{class=verso} (**I Pedro 5:2**{class=livro}). 
+Así, todo aquel que sea confesado por Cristo en el cielo, lo habrá proclamado Salvador en la tierra. El verdadero cristiano nace como misionero. Su motivación para proclamar a Cristo no es un salario, sino el deseo de que otros también encuentren al Salvador que él encontró en Jesús. Trabaja para el Maestro **espontáneamente según la voluntad de Dios”**{class=verso} y no **“por codicia impía, sino voluntariamente”**{class=verso} (**I Pedro 5:2**{class=livro}). 
 
 
-**5) ¿Qué parte de los tímidos, que se niegan a confesarse con Jesús?**{class=questao} **Apocalipsis 21:8**{class=livro}  
-**“Pero en cuanto a los tímidos, los incrédulos, los abominables, los homicidas, los fornicadores, los hechiceros, los idólatras y todos los mentirosos, su parte estará en el lago que arde con fuego y azufre, cuál es la muerte segunda _ ”**{class=versoQ} (**Apocalipsis 21:8**{class=livroVerso}).  
+**5) ¿Cuál es la parte de los tímidos, que se niegan a confesarse con Jesús?**{class=questao} **Apocalipsis 21:8**{class=livro}  
+**“Pero en cuanto a los tímidos, los incrédulos, los abominables, los homicidas, los fornicadores, los hechiceros, los idólatras y todos los mentirosos, su parte estará en el lago que arde con fuego y azufre, cuál es la muerte segunda_ ”**{class=versoQ} (**Apocalipsis 21:8**{class=livroVerso}).  
 R .: _______________________________________________________________ 
 
 Jesús no se avergüenza de nosotros, a pesar de que hemos cometido tantos pecados horribles. ¿Nos avergonzaríamos de él? ¡Qué deshonra para el cielo que un ser humano salvado por el precio infinito del sacrificio de Cristo se niegue a proclamar el nombre de su Salvador! Esta es la mayor prueba de descuido de todo el sacrificio que se hizo por nosotros. Que nadie se encuentre en esta situación.
 
-Pablo aconsejó a los efesios que estuvieran **...ando en todo tiempo ... velando con toda perseverancia y súplica por todos los santos y por mí, para que se dé la palabra, en la apertura de mi boca, a, dar a conocer con valentía el misterio del evangelio, del cual soy embajador encadenado, para que yo tenga el valor de hablar como debo hablar »**{class=verso} (**Efesios 6:18-20**{class=livro}). Tenemos que hacer lo mismo, confiando en que nuestros esfuerzos por proclamar a Jesús solo nos llevarán a negarlo como lo hizo Pedro. Toda nuestra fuerza es debilidad en nosotros mismos. Solo al recibir la fuerza de Dios tendremos el valor de proclamar el evangelio mientras hablamos. 
+Pablo aconsejó a los efesios que estuvieran **andando en todo tiempo ... velando con toda perseverancia y súplica por todos los santos y por mí, para que se dé la palabra, en la apertura de mi boca, a, dar a conocer con valentía el misterio del evangelio, del cual soy embajador encadenado, para que yo tenga el valor de hablar como debo hablar »**{class=verso} (**Efesios 6:18-20**{class=livro}). Tenemos que hacer lo mismo, confiando en que nuestros esfuerzos por proclamar a Jesús solo nos llevarán a negarlo como lo hizo Pedro. Toda nuestra fuerza es debilidad en nosotros mismos. Solo al recibir la fuerza de Dios tendremos el valor de proclamar el evangelio mientras hablamos. 
 
 <div class='page'>&nbsp;</div> 
 
@@ -131,22 +131,22 @@ Pablo aconsejó a los efesios que estuvieran **...ando en todo tiempo ... veland
 
 ### Salva almas
 
-**“Y vi a otro ángel volando por el cielo, y tenía un evangelio eterno para proclamar _a los que habitan en la tierra _”**{class=verso} **Apocalipsis 14:6**{class=livro}. 
+**“Y vi a otro ángel volando por el cielo, y tenía un evangelio eterno para proclamar _a los que habitan en la tierra_”**{class=verso} **Apocalipsis 14:6**{class=livro}. 
 
-Los moradores de la tierra son mencionados como los que persiguen y matan a los santos en la revelación de Apocalipsis 6: **...clamaron a gran voz, diciendo: Hasta cuando, oh Soberano, santo y verdadero, no juzgues ni vengues a nuestros ¿Sangre de los moradores de la tierra? ”**{class=verso} (**Apocalipsis 6:10**{class=livro}).
+Los moradores de la tierra son mencionados como los que persiguen y matan a los santos en la revelación de Apocalipsis 6: **...clamaron a gran voz, diciendo: ¿Hasta cuando, oh Soberano, santo y verdadero, no juzgues ni vengues a nuestra Sangre de los moradores de la tierra? ”**{class=verso} (**Apocalipsis 6:10**{class=livro}).
 
-En el capítulo 8, se considera que conmemoran la muerte de los testigos de Dios: **...los que moran en la tierra se regocijarán y se regocijarán por ellos; y se enviarán regalos el uno al otro, porque estos dos profetas atormentaron a los moradores de la tierra ”.**{class=verso} (**Apocalipsis 11:10**{class=livro}). Es a esta clase de personas a las que Dios nos manda a proclamar el evangelio en los últimos días. Puede notar que el trabajo no parece muy prometedor, predicando para aquellos que quieren matar a los predicadores. Pero, esto es lo que hizo nuestro Maestro, Jesús: **"A lo que era suyo vino, y los suyos no le recibieron"**{class=verso} (**Juan 1:11**{class=livro}). Una vez les dije a los líderes de Israel: **“Buscan matarme a Mí, que les dije la verdad que escuché de Dios; esto no hizo Abraham ”**{class=verso} (**Juan 8:40**{class=livro}). Y a nosotros, nos aclara: **“No es un siervo más grande que su amo. Si me persiguieron a mí, también a ustedes los perseguirán ”**{class=verso} (**Juan 15:20**{class=livro}).
+En el capítulo 8, se considera que conmemoran la muerte de los testigos de Dios: **...los que moran en la tierra se regocijarán y se regocijarán por ellos; y se enviarán regalos el uno al otro, porque estos dos profetas atormentaron a los moradores de la tierra ”.**{class=verso} (**Apocalipsis 11:10**{class=livro}). Es a esta clase de personas a las que Dios nos manda a proclamar el evangelio en los últimos días. Puede notar que el trabajo no parece muy prometedor, predicando para aquellos que quieren matar a los predicadores. Pero, esto es lo que hizo nuestro Maestro, Jesús: **"A lo que era suyo vino, y los suyos no le recibieron"**{class=verso} (**Juan 1:11**{class=livro}). Una vez les dijo a los líderes de Israel: **“Buscan matarme a Mí, que les dije la verdad que escuché de Dios; esto no hizo Abraham ”**{class=verso} (**Juan 8:40**{class=livro}). Y a nosotros, nos aclara: **“No es un siervo más grande que su amo. Si me persiguieron a mí, también a ustedes los perseguirán ”**{class=verso} (**Juan 15:20**{class=livro}).
 
-La evaluación de Dios es diferente a la nuestra. No ve lo que el hombre es hoy: perseguidor y rechazador de la gracia, sino lo que puede ser por Su poder: santo. Quiere que presentemos las buenas nuevas, porque si bien muchos pueden rechazar la invitación del evangelio de salvación, muchos otros lo aceptarán. La profecía de Isaías dice que Jesús **...rá el fruto de la obra de su alma y quedará satisfecho; con su conocimiento, mi Siervo Justo justificará a muchos, y sus iniquidades recaerán sobre él ”**{class=verso} (**Isaías 53:11**{class=livro}). Mostró amor por los ingratos, y este amor transformaría a muchos de ellos, dándoles el poder de ser llamados hijos de Dios.
+La evaluación de Dios es diferente a la nuestra. No ve lo que el hombre es hoy: perseguidor y rechazador de la gracia, sino lo que puede ser por Su poder: santo. Quiere que presentemos las buenas nuevas, porque si bien muchos pueden rechazar la invitación del evangelio de salvación, muchos otros lo aceptarán. La profecía de Isaías dice que Jesús **Verá el fruto de la obra de su alma y quedará satisfecho; con su conocimiento, mi Siervo Justo justificará a muchos, y sus iniquidades recaerán sobre él ”**{class=verso} (**Isaías 53:11**{class=livro}). Mostró amor por los ingratos, y este amor transformaría a muchos de ellos, dándoles el poder de ser llamados hijos de Dios.
 
-Hoy, se nos invita a trabajar por almas como Él, a amar a los enemigos mortales como Él lo hizo. Luego, después de todo, compartiremos Su gozo de ver a las almas eternamente salvadas, y escucharemos Sus palabras: **...en, buen siervo y fiel; sobre lo poco has sido fiel, sobre lo mucho te colocaré; _Entra en el gozo de tu Señor _ ”**{class=verso} (**Mateo 25:21**{class=livro}). ¡Yo deseo! ¡Todos compartimos este gozo con Cristo! 
+Hoy, se nos invita a trabajar por almas como Él, a amar a los enemigos mortales como Él lo hizo. Luego, después de todo, compartiremos Su gozo de ver a las almas eternamente salvadas, y escucharemos Sus palabras: **Bien, buen siervo y fiel; sobre lo poco has sido fiel, sobre lo mucho te colocaré; _Entra en el gozo de tu Señor _ ”**{class=verso} (**Mateo 25:21**{class=livro}). ¡Yo deseo! ¡Todos compartimos este gozo con Cristo! 
 
 ## Viernes 
 
 **“Y vi otro ángel volando por el cielo, y tenía un evangelio eterno para proclamar a los que habitan en la tierra, y a toda nación, tribu, lengua y pueblo”**{class=verso} **Apocalipsis 14:6**{class=livro}. 
 
 !!!resumen Resumen
-    Dios envió un ángel, que se representa volando por el cielo, tiene un mensaje solemne que debe ser conocido por todos, antes del final. Este es el evangelio eterno, las buenas nuevas de que el Padre nos envió un Salvador, Cristo Jesús, y Él es el poder de Dios para salvación. Todo el que crea en Él será salvo, para perdón de sus pecados y desobediencia a la ley de Dios. Porque el que cree en Jesucristo, mediante la verdadera conversión, será obediente a los Diez Mandamientos en el poder de Dios que Jesús concede a todo el que lo pida. Por lo tanto, será restaurado a la condición en la que cayó la raza humana: del estado santo y feliz en el que vivieron Adán y Eva. Al aceptar el evangelio, se cumplirá la promesa que Dios nos hizo: **...orque soy santo ”**{class=verso} (**Levítico 11:45**{class=livro}).
+    Dios envió un ángel, que se representa volando por en medio del cielo, tiene un mensaje solemne que debe ser conocido por todos, antes del final. Este es el evangelio eterno, las buenas nuevas de que el Padre nos envió un Salvador, Cristo Jesús, y Él es el poder de Dios para salvación. Todo el que crea en Él será salvo, para perdón de sus pecados y desobediencia a la ley de Dios. Porque el que cree en Jesucristo, mediante la verdadera conversión, será obediente a los Diez Mandamientos en el poder de Dios que Jesús concede a todo el que lo pida. Por lo tanto, será restaurado a la condición en la que cayó la raza humana: del estado santo y feliz en el que vivieron Adán y Eva. Al aceptar el evangelio, se cumplirá la promesa que Dios nos hizo: **Sereis, pues, santos, porque soy santo ”**{class=verso} (**Levítico 11:45**{class=livro}).
 
 
 ## Sábado

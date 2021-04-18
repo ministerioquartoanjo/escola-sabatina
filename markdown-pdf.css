@@ -37,6 +37,14 @@ body {
   letter-spacing: -0.03rem;
 }
 
+em {
+  color: darkslategray;
+  font-style: italic;
+  font-family: 'Bellefair';
+  font-size: 28px;
+  word-spacing: -2px;
+}
+
 code {
   font-family: monospace !important;
   font-size: 18px !important;

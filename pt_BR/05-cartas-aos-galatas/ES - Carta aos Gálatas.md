@@ -21,7 +21,7 @@ puppeteer:
 
 **Carta aos Gálatas**{class=titulo_capa}
 
-<div class='page'>&nbsp; versão 20210418</div>
+<div class='page'>&nbsp; versão 20210420</div>
 
 [[TOC]]
 
@@ -307,7 +307,7 @@ A palavra de Deus é viva e eficaz **(Hebreus 4:12)**{class=livro}. Seja qual fo
 
 Os irmãos, em Jerusalém, verificaram sua comunhão com Deus e viram **"a graça que"** tinha sido dada a Paulo. Os que são guiados pelo Espírito de Deus sempre estarão prontos a reconhecer o trabalho do Espírito Santo nos outros. A evidência mais segura de que alguém não conhece pessoalmente nada do Espírito Santo é a inabilidade em reconhecer sua obra. Os outros apóstolos tiveram o Espírito Santo, e apreciaram como Deus tinha escolhido Paulo para um trabalho especial entre os pagãos; e embora sua forma de trabalhar fosse diferente da deles, Deus havia lhe concedido dons especiais para esse trabalho especial e não duvidaram em lhe estender sua mão direita, em sinal de companheirismo, só lhe pedindo que se lembrasse dos pobres entre seu próprio povo, **"no que também fui solícito em cumprir"**.
 
-**Perfeita unidade** - Notemos que não existia diferença de opinião entre os apóstolos, nem na igreja, com respeito ao que era o evangelho. Havia falsos irmãos, é certo; mas desde que eram falsos, não eram parte da igreja, o corpo de Cristo, que é a verdade. Muitos professos cristãos, pessoas sinceras, supõem que constitui pouco menos que uma necessidade que haja diferenças na igreja. **"Todos não podem ver as coisas da mesma maneira"**, é o comentário frequente. Interpretam mal **Efésios 4:13**{class=livro}, deduzindo que Deus nos concedeu dons **"até que todos cheguemos à unidade da fé"**{class=verso}. Mas o ensino da Palavra é que **"na unidade da fé e no conhecimento do Filho de Deus"**, cheguemos **"a um estado perfeito, na estatura da plenitude de Cristo"**. Há apenas **"uma fé"**{class=verso} **(Vers. 5)**{class=livro}, a fé de Jesus. Como também há um só Senhor, aqueles que careçam dessa fé necessariamente estarão desprovidos de Cristo.
+**Perfeita unidade** - Notemos que não existia diferença de opinião entre os apóstolos, nem na igreja, com respeito ao que era o evangelho. Havia falsos irmãos, é certo; mas desde que eram falsos, não eram parte da igreja, o corpo de Cristo, que é a verdade. Muitos professos cristãos, pessoas sinceras, supõem que constitui pouco menos que uma necessidade que haja diferenças na igreja. **"Todos não podem ver as coisas da mesma maneira"**, é o comentário frequente. Interpretam mal **Efésios 4:13**{class=livro}, deduzindo que Deus nos concedeu dons **"até que todos cheguemos à unidade da fé"**{class=verso}. Mas o ensino da Palavra é que **"na unidade da fé e no conhecimento do Filho de Deus"**, cheguemos **"a um estado perfeito, na estatura da plenitude de Cristo"**. Há apenas **"uma fé"**{class=verso} **(v. 5)**{class=livro}, a fé de Jesus. Como também há um só Senhor, aqueles que careçam dessa fé necessariamente estarão desprovidos de Cristo.
 
 A Palavra de Deus é Verdade e luz. Só um homem cego pode deixar de apreciar o esplendor da luz. Embora um homem não tenha conhecido qualquer outro tipo de luz artificial, exceto a que vem de uma luminária, reconhecerá imediatamente que é luz o que emite uma lâmpada elétrica que lhe é mostrada pela primeira vez. Está claro que há graus diversos de conhecimento, mas não há nenhuma controvérsia entre os graus de conhecimento. A verdade inteira é uma.
 

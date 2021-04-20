@@ -1,3 +1,11 @@
+# como usar este script
+
+# 1) copie o arquivo original (em pt_BR)
+# 2) faça uma copia do arquivo no vscode, o nome ficara "nome-do-arquivo copy.md", abra este arquivo no navegador, 
+#   e traduza-o pelo google Chrome, copie e cole o texto traduzido neste documento
+# 3) execute na pasta do arquivo: ../corrige_apos_traducao_no_google.sh "nome-do-arquivo copy.md"
+
+
 
 # File é o arquivo "... copy.md"
 FILE_COPY="$1"

@@ -2,7 +2,7 @@
 puppeteer:
     pdf:
         format: A4
-        displayHeaderFooter: false
+        displayHeaderFooter: true
         margin:
             top: 1.5cm
             right: 1cm
@@ -669,7 +669,7 @@ Não há o que se confundir: Não é maldito porque obedece à lei, mas sim porq
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 
-**Boas obras** - A Bíblia não rejeita as boas obras. Pelo contrário, exalta-as. **"Fiel é a palavra. E isto quero que deveras afirmes, para que os que creem em Deus procurem aplicar-se às boas obras; estas coisas são boas e proveitosas aos homens"**{class=verso} **(Tito 3:8)**{class=livro}. A acusação que pesa contra os incrédulos é que eles negam a Deus com os atos: são **reprovados para toda boa obra**{class=verso} **(Tito 1:16)**{class=livro}. Paulo exortou Timóteo para que mandasse aos ricos deste mundo **que hajam bem, que sejam ricos em boas obras**{class=verso} **(1 Tim. 6:17 e 18)**{class=livro}. E o apóstolo orou por todos nós **"para que possais andar dignamente diante do Senhor, agradando-Lhe em tudo, frutificando em toda boa obra"**{class=verso} **(Colossenses 1:10)**{class=livro}. Mais ainda, dá-nos a segurança de sermos **criados em Cristo Jesus para boas obras ... para que andássemos nelas**{class=verso} **(Efésios 2:10)**{class=livro}.
+**Boas obras** - A Bíblia não rejeita as boas obras. Pelo contrário, exalta-as. **"Fiel é a palavra. E isto quero que deveras afirmes, para que os que creem em Deus procurem aplicar-se às boas obras; estas coisas são boas e proveitosas aos homens"**{class=verso} **(Tito 3:8)**{class=livro}. A acusação que pesa contra os incrédulos é que eles negam a Deus com os atos: são **reprovados para toda boa obra**{class=verso} **(Tito 1:16)**{class=livro}. Paulo exortou Timóteo para que mandasse aos ricos deste mundo **que hajam bem, que sejam ricos em boas obras**{class=verso} **(1 Timóteo 6:17,18)**{class=livro}. E o apóstolo orou por todos nós **"para que possais andar dignamente diante do Senhor, agradando-Lhe em tudo, frutificando em toda boa obra"**{class=verso} **(Colossenses 1:10)**{class=livro}. Mais ainda, dá-nos a segurança de sermos **criados em Cristo Jesus para boas obras ... para que andássemos nelas**{class=verso} **(Efésios 2:10)**{class=livro}.
 
 Ele mesmo preparou essas obras para nós; produziu-as, e concede-as a todo o que nEle crê **(Salmos 31:19)**{class=livro}. **Esta é a obra de Deus, que creiais nAquele a quem enviou**{class=verso} **(João 6:29)**{class=livro}. São requeridas boas obras, mas não podemos fazê-las. Somente Aquele que é Bom, que é Deus, pode fazê-las. Se é que em nós existe o mínimo de bem, deve-se à obra de Deus. Nada que Deus faça é merecedor de desprezo. **O Deus de paz, que pelo sangue do concerto eterno, ressuscitou dos mortos a nosso Senhor Jesus Cristo, o grande Pastor das ovelhas, lhes aperfeiçoe em toda boa obra, para fazerdes a Sua vontade, operando em vós o que perante Ele é agradável por meio de Jesus Cristo, ao qual seja a glória pelos séculos dos séculos. Amém**{class=verso} **(Hebreus 13:20 e 21)**{class=livro}.
 
@@ -2005,7 +2005,7 @@ Deus é revelado na cruz. **Não se gabe o sábio em sua sabedoria, nem de sua c
 
 Que diremos nós do poder? **"Toda a carne é erva"**{class=verso} **(Isaias 40:6)**{class=livro}. **Certamente é vaidade completa todo o homem que vive**{class=verso} **(Salmos 39:5)**{class=livro}. **Os homens são apenas um sopro, tanto o pobre como o rico. Se fossem pesados todos juntos na balança, pesariam menos que um sopro. Mas de Deus é o poder**{class=verso} **(Salmos 62:9, 11)**{class=livro}.
 
-Como para a riqueza, esperar nelas é **"incerteza"**{class=verso} **(1 Tim. 6:17)**{class=livro}. **"O homem labuta em vão; empilha riqueza, sem saber para quem"**{class=verso} **(Salmos 39:6)**{class=livro}. **"Hás de pôr teus olhos na riqueza, que não são nada? Porque criaram asas de águias, e voarão ao céu"**{class=verso} **(Provérbios 23:5)**{class=livro}. Só em Cristo há riquezas inescrutáveis e eternas.
+Como para a riqueza, esperar nelas é **"incerteza"**{class=verso} **(1 Timóteo 6:17)**{class=livro}. **"O homem labuta em vão; empilha riqueza, sem saber para quem"**{class=verso} **(Salmos 39:6)**{class=livro}. **"Hás de pôr teus olhos na riqueza, que não são nada? Porque criaram asas de águias, e voarão ao céu"**{class=verso} **(Provérbios 23:5)**{class=livro}. Só em Cristo há riquezas inescrutáveis e eternas.
 
 Então, o homem não tem absolutamente nada de que se orgulhar. O que é do homem que carece de toda a riqueza, sabedoria e poder? Tudo aquilo que o homem é ou tem, vem do Senhor.
 

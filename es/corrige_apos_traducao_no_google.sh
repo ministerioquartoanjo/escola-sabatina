@@ -62,6 +62,7 @@ sed -ri 's/ "\*\*/"**/' "$FILE" # God. "**
 sed -ri 's/\*\* ([a-z])/**\1/gi' "$FILE"
 
 ACCENTS="áéíóúâêîôûãẽĩõũç"
+
 sed -ri "s/(\*\*[a-z$ACCENTS ]+:) \*\*/\1**/gi" "$FILE"
 sed -ri "s/\* \"([a-z$ACCENTS \(\)]+)\"(|,) \*/*\"\1\"\2*/gi" "$FILE" # * "Holy" *
 
@@ -105,6 +106,8 @@ sed -ri 's/” \*\*/”\*\*/g' "$FILE"
 
 # Correção de & nbsp; & nbsp; => &nbsp;&nbsp;
 sed -ri 's/\& nbsp; \& nbsp;/\&nbsp;\&nbsp;/g' "$FILE"
+sed -ri 's/\& nbsp;/\&nbsp;/g' "$FILE"
+sed -ri "s/class = 'página'/class='page'/g" "$FILE"
 
 # Correção de "(** a" para "(**a"
 sed -ri 's/\(\*\* /(**/g' "$FILE"
@@ -118,3 +121,6 @@ sed -ri 's/([a-z])\*\*“/\1 **“/g' "$FILE"
 
 # Correção das aspas ” ** -> ”**
 sed -ri 's/”\*\*([a-z])/”\*\* \1/g' "$FILE"
+
+
+sed -ri "s/^\*\*([a-z ]+) \*\*/**\1** - /g" "$FILE";

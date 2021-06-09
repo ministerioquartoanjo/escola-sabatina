@@ -21,7 +21,7 @@ puppeteer:
 
 **Carta aos Gálatas**{class=titulo_capa}
 
-<div class='page'>&nbsp; versão 20210602</div>
+<div class='page'>&nbsp; versão 20210609</div>
 
 [[TOC]]
 
@@ -1115,7 +1115,7 @@ Podemos ver já a forma em que veio **redimir aos que estavam debaixo da Lei**{c
 
 ## Quinta-Feira
 
-**A fim de que recebêssemos a adoção de filhos**{class=verso} **(Gálatas 4:5)**{class=livro} - **Amados, agora já somos filhos de Deus**{class=verso} **(1 João 3:2)**{class=livro}. **A todos que o receberam, aos que creram em Seu nome, lhes deu o poder de serem filhos de Deus**{class=verso} **(João 1:12)**{class=livro}. É um estado radicalmente diferente do descrito em Gálatas 4:3 (**quando éramos meninos**{class=verso}. Naquela situação, poderia ser dito de nós **"que este povo é rebelde, filhos mentirosos que não querem obedecer à Lei do Eterno"**{class=verso} **(Isaias 30:9)**{class=livro}. Ao crer em Jesus e receber **"a adoção de filhos"**{class=verso}, somos descritos como **"filhos obedientes"**{class=verso}, não conforme os maus desejos que obedecíamos em nossa ignorância **(1 Pedro 1:14)**{class=livro}. Cristo disse: **Meu Deus, Me deleito em fazer a Tua vontade, e Tua Lei está no Meu coração**{class=verso} **(Salmos 40:8)**{class=livro}. Portanto, uma vez que Se fez nosso Substituto, tomando literalmente nosso lugar, não no lugar de nós, mas vindo a nós e vivendo Sua vida em nós e para nós, fica claro que Sua lei estará em nosso coração, quando recebermos a adoção de filhos.
+**A fim de que recebêssemos a adoção de filhos**{class=verso} **(Gálatas 4:5)**{class=livro} - **Amados, agora já somos filhos de Deus**{class=verso} **(1 João 3:2)**{class=livro}. **A todos que o receberam, aos que creram em Seu nome, lhes deu o poder de serem filhos de Deus**{class=verso} **(João 1:12)**{class=livro}. É um estado radicalmente diferente do descrito em **Gálatas 4:3**{class=livro} (**quando éramos meninos**{class=verso}. Naquela situação, poderia ser dito de nós **"que este povo é rebelde, filhos mentirosos que não querem obedecer à Lei do Eterno"**{class=verso} **(Isaias 30:9)**{class=livro}. Ao crer em Jesus e receber **"a adoção de filhos"**{class=verso}, somos descritos como **"filhos obedientes"**{class=verso}, não conforme os maus desejos que obedecíamos em nossa ignorância **(1 Pedro 1:14)**{class=livro}. Cristo disse: **Meu Deus, Me deleito em fazer a Tua vontade, e Tua Lei está no Meu coração**{class=verso} **(Salmos 40:8)**{class=livro}. Portanto, uma vez que Se fez nosso Substituto, tomando literalmente nosso lugar, não no lugar de nós, mas vindo a nós e vivendo Sua vida em nós e para nós, fica claro que Sua lei estará em nosso coração, quando recebermos a adoção de filhos.
 
 **5) Os filhos de Deus, adotados e feitos herdeiros, permanecem desobedientes à lei de Deus?**{class=questao} **(Tito 3:3-7 e I João 3:9 e 10)**{class=livro}
 <br>_____________________________________________________________
@@ -1175,7 +1175,9 @@ Não é surpreendente que os homens prefiram continuar encarcerados? Cristo veio
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
-<div class='page'>&nbsp;</div>
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 ## Segunda-Feira
 
@@ -1327,6 +1329,9 @@ Mas não permitas que ninguém te seduza com palavras vãs, assegurando-te de qu
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 ## Quarta-Feira
 
@@ -1339,6 +1344,7 @@ Se houvessem continuado cantando teriam chegado bastante próximo do monte Sião
 Não obstante, Deus não os privou do testemunho de Sua fidelidade. No Sinai, a lei estava nas mãos do mesmo Mediador - Jesus - a quem nos dirigimos quando vamos a Sião. Da pedra em Horebe **(ou Sinai)** brotou o manancial de águas vivas a partir do coração de Cristo, **e a Rocha era Cristo**{class=verso} **(Êxodo 17:6; 1 Coríntios 10:4)**{class=livro}. Perante eles esteve a realidade do monte Sião. Todo aquele cujo coração se voltasse ali ao Senhor, contemplaria Sua glória sem véu, tal como Moisés, e sendo transformado por ela, encontraria o **ministério que traz justificação, em lugar do ministério de condenação**{class=verso} **(2 Coríntios 3:9)**{class=livro}. **"Seu amor é para sempre"**, e até mesmo das mesmas nuvens ameaçadoras de ira que procederam dos raios e trovões, brilha o glorioso rosto do Sol da Justiça, formando o arco-íris da promessa.
 
 **4) Onde, disse Paulo, os crentes chegam pela fé?**{class=questao} **(Hebreus 12:22 e 23)**{class=livro}
+<br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
@@ -1356,6 +1362,8 @@ O filho da escrava é a carne e suas obras. **A carne e o sangue não podem herd
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
+<br>_____________________________________________________________
+
 
 ## Sexta-Feira
 
@@ -1375,6 +1383,9 @@ A promessa de Deus, aceita pela fé, gera em nós a mente do Espírito, de forma
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+
 
 	Do mundo escuro já saí:
 	de Cristo sou eu e Ele é meu;
@@ -1443,7 +1454,9 @@ Que fez Jesus por nós? Toma nossa fraqueza, e dá-nos em troca Sua força. **"N
 Para que Jesus livrou essa mulher de sua enfermidade? Para fazê-la caminhar em liberdade. Não foi certamente para que continuasse fazendo, por sua própria e livre vontade, as mesmas coisas que anteriormente tinha que fazer por obrigação, quando estava em seu estado de penosa escravidão. Com que propósito nos livra do pecado? Para que possamos viver livres do pecado. Devido à debilidade de nossa carne, somos incapazes de obrar a justiça da lei. Portanto, Cristo, que veio em carne, e que tem poder sobre a carne, fortalece-nos. Provê-nos Seu poderoso Espírito para que a justiça da lei possa cumprir-se em nós. Em Cristo não andamos na carne, mas no Espírito. Não podemos saber de que maneira Ele o faz. Ele o sabe, já que é Ele quem possui o poder. Mas nós podemos conhecer sua realidade.
 
 **4) Em que se apegou a mulher para se endireitar-se?**{class=questao} **(1 Pedro 1:23)**{class=livro}
-<br>_______________________________________________________________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 Quando a mulher estava ainda presa e sem forças para se endireitar, Jesus lhe disse: **"Mulher, estás livre da tua enfermidade"**. É um tempo verbal presente. Ele também diz isso a nós hoje. Proclama liberdade a todo cativo.
 
@@ -1457,15 +1470,21 @@ Não é a fé que produz os atos, mas ela é que reconhece o que já é um fato.
 
 Cristo veio resgatar o que se havia perdido. Redime-nos da maldição. Redimiu-nos. Tem-nos redimido. Então, a liberdade com que nos faz livres é aquela que existia antes que viesse a maldição. Ao homem foi dado o domínio sobre a Terra. Não meramente ao primeiro homem criado, mas a toda a humanidade. No dia em que Deus criou o homem, à semelhança de Deus o fez; **"homem e mulher os criou, e os abençoou, e lhes chamou pelo nome de Adão, no dia em que foram criados"**{class=verso} **(Gênesis 5:1 e 2)**{class=livro}. **"Também disse Deus: Façamos o homem à nossa imagem, conforme à nossa semelhança; tenha ele domínio sobre os peixes do mar, sobre as aves dos céus, sobre os animais domésticos, sobre toda a terra e sobre todos os répteis que rastejam pela terra. Criou Deus, pois, o homem à Sua imagem, à imagem de Deus o criou; homem e mulher os criou. E Deus os abençoou e lhes disse: Sede fecundos, multiplicai-vos, enchei a terra e sujeitai-a; dominai sobre os peixes do mar, sobre as aves dos céus e sobre todo animal que rasteja pela terra"**{class=verso} **(Gênesis 1:26-28)**{class=livro}. Vemos que o domínio foi dado a todo o ser humano, macho ou fêmea.
 
-**5) A quem Deus delegou o domínio de todas as coisas no princípio? (Hebreus 2:7 e 8) Como foi perdido este domínio?**{class=questao} **(Romanos 5:12)**{class=livro}
-<br>_______________________________________________________________________________________________________________
+**5) A quem Deus delegou o domínio de todas as coisas no princípio?**{class=questao} (**Hebreus 2:7 e 8**{class=livro}) **Como foi perdido este domínio?**{class=questao} **(Romanos 5:12)**{class=livro}
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 Quando Deus fez o homem, **"lhe sujeitou [sob seus pés] todas as coisas"**{class=verso} **(Hebreus 2:8)**{class=livro}. É certo que agora não vemos que todas as coisas são sujeitas ao homem, **"vemos, todavia, Àquele que, por um pouco, tendo sido feito menor que os anjos, Jesus, por causa do sofrimento da morte, foi coroado de glória e de honra, para que, pela graça de Deus, provasse a morte por todo homem"**{class=verso} **(v. 9)**{class=livro}. Jesus redime a todo homem da maldição do domínio perdido. Uma coroa implica um Reino, e a coroa de Cristo é a mesma que foi dada ao homem, quando Deus o recomendou dominar sobre a obra de Suas mãos. Como homem, estando na carne, depois de haver ressuscitado e estar a ponto de ascender, Cristo declarou: **Toda a autoridade Me foi dada no céu e na terra. Portanto, ide**{class=verso} **(Mateus 28:18 e 19)**{class=livro}. NEle nos é dado todo o poder que se perdeu pelo pecado.
 
 Cristo - como homem - provou a morte para nós, e por meio da cruz nos redimiu da maldição. Se estamos crucificados com Ele, estamos igualmente ressuscitados e assentados com Ele nos lugares celestiais, com todas as coisas sob nossos pés.
 
 **6) Como podemos estar assentados nos lugares celestiais?**{class=questao} **(Efésios 2:6)**{class=livro}
-<br>_______________________________________________________________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 Se não sabemos isto, é porque não permitimos ao Espírito que nos revele. Os olhos de nosso coração têm que ser iluminados pelo Espírito, **"para saberdes qual é a esperança do Seu chamamento, qual a riqueza da glória da Sua herança nos santos"**{class=verso} **(Efésios 1:18)**{class=livro}.
 <div class='page'>&nbsp;</div>
@@ -1497,7 +1516,7 @@ Permanecei, pois, firmes. **"Pela palavra de Jeová foram feitos os céus, e tod
 
 É necessário compreender que isso envolve muito mais que o simples rito da circuncisão. O Senhor fez com que esta epístola, que tanto fala da circuncisão, fosse preservada para nosso benefício porque contém a mensagem do evangelho para todas as épocas, mesmo não sendo a circuncisão como rito, em nossos dias, objeto de nenhuma polêmica.
 
-**9) Por que Paulo afirma que, se nos circuncidarmos, Cristo de nada nos aproveitará? Qual a questão envolvida?**{class=questao} Leia atentamente o texto logo abaixo)
+**9) Por que Paulo afirma que, se nos circuncidarmos, Cristo de nada nos aproveitará? Qual a questão envolvida?**{class=questao} Leia atentamente o texto logo abaixo
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 
@@ -1508,6 +1527,7 @@ O que devia ter sido apenas um sinal indicativo de uma realidade preexistente fo
 É estabelecida esta verdade: se uma pessoa faz algo com a esperança de ser salvo por isto, quer dizer, de obter a salvação por suas próprias obras, **de nada lhe aproveitará Cristo**. Se Cristo não é aceito como um Redentor pleno, não se O aceita em nada. Quer dizer, ou se aceita a Cristo tal qual é, ou O rejeita. Não pode ser de outro modo. Cristo não está dividido, e não compartilha com nenhuma outra pessoa ou coisa a honra de ser Salvador. Então é fácil ver que se alguém fosse circuncidado com a intenção de ser salvo deste modo, estaria manifestando falta de fé em Cristo como o pleno e único Salvador do homem.
 
 **10) Qual é a verdadeira circuncisão?**{class=questao} **(Filipenses 3:3)**{class=livro}
+<br>_____________________________________________________________
 <br>_____________________________________________________________
 
 Deus deu a circuncisão como um sinal da fé em Cristo. Os judeus a perverteram transformando-a em um substituto da fé. Quando um judeu se gloriava em sua circuncisão, ele estava gloriando-se de sua própria justiça. Assim mostra o versículo quatro: **Separados estais de Cristo, vós os que vos justificais pela lei: da graça tendes caído**{class=verso} **(Gálatas 5:4)**{class=livro}. Paulo não estava de modo algum depreciando a lei, mas a capacidade do homem para obedecê-la. Tão santa e gloriosa é a lei, e tão grande suas exigências que nenhum homem pode alcançar a sua perfeição. Somente em Cristo se faz a nossa justiça da lei. A verdadeira circuncisão é adorar a Deus em espírito, alegrar-se em Jesus Cristo, e não pôr a confiança na carne **(Filipenses 3:3)**{class=livro}.
@@ -1524,6 +1544,7 @@ Não tão depressa, amigo. Vejamos mais atentamente o texto. Observe o que Paulo
 Um devedor é aquele que deve algo. O que está em dívida com a lei deve a justiça que ela demanda. Então, todo aquele que está em dívida com a lei, está debaixo da maldição.
 
 **11) Como a Bíblia considera aquele que não permanece em tudo o que está escrito no livro da lei?**{class=questao} **(Gálatas 3:10)**{class=livro}
+<br>_____________________________________________________________
 <br>_____________________________________________________________
 
 Portanto, tentar obter justiça de qualquer outro modo que não seja pela fé em Cristo significa estar sob a maldição da dívida eterna. Está endividado pela eternidade, uma vez que não tem nada com que pagar. Porém, o fato de que seja devedor à lei - **devedor é toda a lei a cumprir** - demonstra que deveria cumpri-la em sua totalidade. Como? **"Esta é a obra de Deus, que creiais nAquele a quem Ele enviou"**{class=verso} **(João 6:29)**{class=livro}. Deixará de confiar em si mesmo e receberá e confessará a Cristo em sua carne, e então a justiça da lei se cumprirá nele, porque não andará de acordo com a carne, mas com o Espírito.
@@ -1854,6 +1875,8 @@ Você se lembra da **"Lei de Cristo"**? Embora Ele tudo fosse, **"se despojou de
 **6) Quem é o homem que se exalta?**{class=questao} **(2 Tessalonicenses 2:3 e 4)**{class=livro}.
 <br>_____________________________________________________________
 <br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 **Porque cada qual levará a sua própria carga.**
 
@@ -1871,7 +1894,7 @@ Aprendi o segredo! Não cansarei a qualquer outro fazendo-Lhe participante de mi
 
 Aprendemos essa lição na vida de Cristo. Andava fazendo o bem porque Deus estava com Ele. Consolou aos tristes, curou os de coração quebrantado, libertou os que foram oprimidos pelo diabo. Nem um só dos que foram a Ele levando seus sofrimentos e enfermidades saíram sem alívio. Assim se cumpriu o que disse o profeta Isaías: **"Ele mesmo tomou nossas enfermidades e levou nossas dores"**{class=verso} **(Mateus 8:17)**{class=livro}.
 
-E depois, quando à noite as multidões se colocavam no leito, Jesus procurava as montanhas ou a floresta, para que em comunhão com o Pai **(para quem vivia)**{class=livro} pudesse obter provisão renovada de vida e força para sua própria alma. **"Cada um examine seu próprio trabalho"**. **"Examinai-vos a vós mesmos, se permaneceis na fé; provai-vos a vós mesmos. Ou não sabeis quanto a vós mesmos, que Jesus Cristo está em vós? Se não é que já estais reprovados"**{class=verso} **(2 Coríntios 13:5)**{class=livro}. **"Porque embora crucificado em fraqueza, vive pelo poder de Deus. Também nós somos fracos, mas pelo poder de Deus, viveremos com ele pelo poder de Deus em vós"**{class=verso} (v4). Deste modo, se nossa fé prova que Cristo está em nós (e a fé demonstra a realidade do fato), teremos do que nos alegrar perante nós, e não ante outro. Alegramo-nos em Deus por meio de nosso Senhor Jesus Cristo, e nosso gozo não depende de qualquer outra pessoa no mundo. Mesmo que todos desanimem e caiam, resistiremos, uma vez que **"o fundamento de Deus permanece firme"**{class=verso} **(2 Timóteo 2:19)**{class=livro}.
+E depois, quando à noite as multidões se colocavam no leito, Jesus procurava as montanhas ou a floresta, para que em comunhão com o Pai **(para quem vivia)** pudesse obter provisão renovada de vida e força para sua própria alma. **"Cada um examine seu próprio trabalho"**. **"Examinai-vos a vós mesmos, se permaneceis na fé; provai-vos a vós mesmos. Ou não sabeis quanto a vós mesmos, que Jesus Cristo está em vós? Se não é que já estais reprovados"**{class=verso} **(2 Coríntios 13:5)**{class=livro}. **"Porque embora crucificado em fraqueza, vive pelo poder de Deus. Também nós somos fracos, mas pelo poder de Deus, viveremos com ele pelo poder de Deus em vós"**{class=verso} (v4). Deste modo, se nossa fé prova que Cristo está em nós (e a fé demonstra a realidade do fato), teremos do que nos alegrar perante nós, e não ante outro. Alegramo-nos em Deus por meio de nosso Senhor Jesus Cristo, e nosso gozo não depende de qualquer outra pessoa no mundo. Mesmo que todos desanimem e caiam, resistiremos, uma vez que **"o fundamento de Deus permanece firme"**{class=verso} **(2 Timóteo 2:19)**{class=livro}.
 
 Então, que ninguém que se tem por cristão conforme-se em se apoiar em algum outro. Embora você seja o mais fraco entre os fracos, sempre seja um carregador de cargas, um obreiro juntamente com Deus, levando em Cristo sua própria carga e a de seu próximo, sem reclamações nem impaciência. Podes inclusive descobrir algumas das cargas pelas quais seu irmão não expresse lamento algum, e também levá-las. E a mesma coisa pode fazer o outro. O fraco então, regozijar-se-á assim: **"Minha força e minha canção é o Eterno, o Senhor, que tem sido minha salvação"**{class=verso} **(Isaias 12:2)**{class=livro}.
 
@@ -1985,7 +2008,7 @@ Mas as oportunidades têm que ser buscadas. Os homens labutam procurando oportun
 
 É possível ver o zelo que inflamava o apóstolo Paulo ao escrever a epístola, pelo fato de que, contrariamente ao seu costume, tomou a pena e começou a escrever a carta, ou parte dela, do próprio punho e letra. Como se pode deduzir do capítulo quatro, Paulo sofria algum problema na visão. Isso o impedia de fazer seu trabalho, ou o teria impedido, a não ser pelo poder de Deus que nele habitava. Precisou sempre que houvesse alguma pessoa que o assistisse. Alguns tiraram proveito daquela circunstância para escrever cartas espúrias para as igrejas em nome de Paulo, transtornando assim aos irmãos **(2 Tessalonicenses 2:2)**{class=livro}.
 
-**3) Na época de Paulo, outros escreveram cartas espúrias como se fossem dele. Você acredita que isso possa acontecer hoje também com Ellen Gould White ou com a Bíblia?**{class=questao} Leia Apocalipse 22:18, e comente:
+**3) Na época de Paulo, outros escreveram cartas espúrias como se fossem dele. Você acredita que isso possa acontecer hoje também com Ellen Gould White ou com a Bíblia?**{class=questao} Leia **Apocalipse 22:18**{class=livro} e comente:
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
@@ -2031,11 +2054,11 @@ Então, o homem não tem absolutamente nada de que se orgulhar. O que é do home
 
 **Mas o que se gloriar, glorie-se nisto: em me entender e me conhecer, que eu sou o SENHOR, que faço beneficência, juízo e justiça na terra; porque destas coisas me agrado, diz o SENHOR.**{class=verso} **(Jeremias 9:24)**{class=livro}
 
-Relacione o versículo anterior com **Gálatas 6:14**{class=livro} O mesmo Espírito inspirou ambas as passagens, assim não podem estar em contradição mútua. Em um lugar, lemos que temos que nos gloriar só no conhecimento do Senhor. Em outro, que não há em nada que se gloriar, exceto na cruz de Cristo. Então, a conclusão é que na cruz de Cristo achamos o conhecimento de Deus. Conhecer a Deus é vida eterna **(ver João 17:3)**{class=livro}, e não há nenhuma vida para o homem fora da cruz de Cristo. Vemos, pois, uma vez mais, que tudo aquilo que pode ser conhecido de Deus, está revelado na cruz. Fora da cruz não há conhecimento de Deus.
+Relacione o versículo anterior com **Gálatas 6:14**{class=livro}. O mesmo Espírito inspirou ambas as passagens, assim não podem estar em contradição mútua. Em um lugar, lemos que temos que nos gloriar só no conhecimento do Senhor. Em outro, que não há em nada que se gloriar, exceto na cruz de Cristo. Então, a conclusão é que na cruz de Cristo achamos o conhecimento de Deus. Conhecer a Deus é vida eterna **(ver João 17:3)**{class=livro}, e não há nenhuma vida para o homem fora da cruz de Cristo. Vemos, pois, uma vez mais, que tudo aquilo que pode ser conhecido de Deus, está revelado na cruz. Fora da cruz não há conhecimento de Deus.
 
 Isso nos mostra que a cruz é manifestada na criação inteira. O eterno poder e divindade de Deus, tudo quanto podemos conhecer dEle, se podem ver nas coisas que criou, e **a cruz é o poder de Deus**{class=verso} **(1 Coríntios 1:18)**{class=livro}. Deus gera forças a partir da fraqueza. Salva o homem por meio da morte, de forma que até os que morrem podem descansar na esperança. Nenhum homem é tão pobre, fraco e pecador, tão degradado e depreciado para não poder se gloriar na cruz. A cruz o toca justamente nessa situação em que está, pois é símbolo de vergonha e degradação. Revela o poder de Deus nele, e há nele motivo para glória eterna.
 
-**6)**{class=questao} Diz Paulo que para nós, os que somos salvos, a palavra da cruz é _______________________________________________, mas para os que perecem __________________________________ **(1 Coríntios 1:18)**{class=livro}
+**6)**{class=questao} Paulo diz: que para nós, os que somos salvos, a palavra da cruz é _______________________________________________, mas para os que perecem __________________________________ **(1 Coríntios 1:18)**{class=livro}
 
 A cruz crucifica. A cruz nos separa do mundo. Une-nos a Deus, a Ele seja a glória! A amizade do mundo é inimizade contra Deus. **Quem queira ser amigo do mundo, se constitui em inimigo de Deus**{class=verso} **(Tiago 4:4)**{class=livro}. Na cruz, Cristo destruiu a inimizade **(ver Efésios 2:15 e 16)**{class=livro}. **E o mundo e seus desejos passam. Mas, o que faz a vontade de Deus, permanece para sempre**{class=verso} **(1 João 2:17)**{class=livro}. 
 
@@ -2073,9 +2096,11 @@ A salvação não vem do homem, seja qual for a condição deste, ou o que ele p
 
 A cruz faz uma nova criação. Vemos aqui outra razão para se gloriar nela. Quando a criação deixou as mãos de Deus no princípio, **Todas as estrelas do amanhecer louvaram, e se alegraram todos os filhos de Deus**{class=verso} **(Jó 38:7)**{class=livro}.
 
-O sinal da cruz. Relacione os textos que até agora consideramos:
+**O sinal da cruz** 
 
-1. A cruz de Cristo é a única coisa na qual temos que nos gloriar;
+Agora, relacione os textos que até agora consideramos:
+
+1. A cruz de Cristo é o único motivo na qual temos que nos gloriar;
 2. O que se gloria, deveria fazê-lo somente em conhecer a Deus;
 3. Deus escolheu ao mais fraco no mundo para envergonhar os sábios, de forma que ninguém pode se gloriar, exceto nEle;
 4. Deus é revelado nas coisas que criou. A criação, que manifesta o poder de Deus, também apresenta a cruz, pois a cruz de Cristo é o poder de Deus, e Deus Se faz conhecer por meio dela.

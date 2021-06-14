@@ -21,7 +21,7 @@ puppeteer:
 
 **Carta aos Gálatas**{class=titulo_capa}
 
-<div class='page'>&nbsp; versão 20210609</div>
+<div class='page'>&nbsp; versão 20210614</div>
 
 [[TOC]]
 
@@ -1314,6 +1314,8 @@ Lembre-se que em nenhum lugar da epístola se questiona se a lei deve ser ou nã
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
+<br>_____________________________________________________________
+<br>_____________________________________________________________
 
 ## Terça-Feira
 
@@ -1341,7 +1343,7 @@ Por que o Senhor não levou o povo diretamente ao monte Sião, onde poderia enco
 
 Se houvessem continuado cantando teriam chegado bastante próximo do monte Sião, pois **os resgatados do Senhor voltarão, e virão a Sião com júbilo: e alegria eterna haverá sobre as suas cabeças: gozo e alegria alcançarão, e deles fugirá a tristeza e o gemido**{class=verso} **(Isaias 35:10)**{class=livro}. A travessia do Mar Vermelho o confirmava **(Isaias 51:10 e 11)**{class=livro}. Mas logo esqueceram o Senhor, e em sua incredulidade se entregaram à murmuração. Por conseguinte, **"foi dada [a lei] por causa das transgressões"**{class=verso} **(Gálatas 3:19)**{class=livro}. Foram eles - sua incredulidade pecaminosa - que criou a necessidade de ir ao monte Sinai, em vez de ir ao de Sião.
 
-Não obstante, Deus não os privou do testemunho de Sua fidelidade. No Sinai, a lei estava nas mãos do mesmo Mediador - Jesus - a quem nos dirigimos quando vamos a Sião. Da pedra em Horebe **(ou Sinai)** brotou o manancial de águas vivas a partir do coração de Cristo, **e a Rocha era Cristo**{class=verso} **(Êxodo 17:6; 1 Coríntios 10:4)**{class=livro}. Perante eles esteve a realidade do monte Sião. Todo aquele cujo coração se voltasse ali ao Senhor, contemplaria Sua glória sem véu, tal como Moisés, e sendo transformado por ela, encontraria o **ministério que traz justificação, em lugar do ministério de condenação**{class=verso} **(2 Coríntios 3:9)**{class=livro}. **"Seu amor é para sempre"**, e até mesmo das mesmas nuvens ameaçadoras de ira que procederam dos raios e trovões, brilha o glorioso rosto do Sol da Justiça, formando o arco-íris da promessa.
+Não obstante, Deus não os privou do testemunho de Sua fidelidade. No Sinai, a lei estava nas mãos do mesmo Mediador - Jesus - a quem nos dirigimos quando vamos a Sião. Da pedra em Horebe **(ou Sinai)** brotou o manancial de águas vivas a partir do coração de Cristo, **e a Rocha era Cristo**{class=verso} **(Êxodo 17:6; 1 Coríntios 10:4)**{class=livro}. Perante eles esteve a realidade do monte Sião. Todo aquele cujo coração se voltasse ali ao Senhor, contemplaria Sua glória sem véu, tal como Moisés, e sendo transformado por ela, encontraria o **ministério que traz justificação, em lugar do ministério de condenação**{class=verso} **(2 Coríntios 3:9)**{class=livro}. **"Seu amor é para sempre"**{class=verso} (**Salmos 136:6**{class=livro}), e até mesmo das mesmas nuvens ameaçadoras de ira que procederam dos raios e trovões, brilha o glorioso rosto do Sol da Justiça, formando o arco-íris da promessa.
 
 **4) Onde, disse Paulo, os crentes chegam pela fé?**{class=questao} **(Hebreus 12:22 e 23)**{class=livro}
 <br>_____________________________________________________________
@@ -1358,7 +1360,7 @@ Palavras de ânimo para toda a alma! Você era um pecador. Na melhor das hipóte
 
 O filho da escrava é a carne e suas obras. **A carne e o sangue não podem herdar o Reino de Deus**{class=verso} **(1 Coríntios 15:50)**{class=livro}. Mas Deus diz: **"Lança fora a escrava e seu filho"**{class=verso} (**Gálatas 4:30**{class=livro}). Se deseja que Sua vontade seja cumprida em você, tal como se cumpre no céu, Ele fará o necessário para remover a carne e suas obras. Sua vida **será libertada da escravidão da corrupção, para participar da gloriosa liberdade dos filhos de Deus**{class=verso} **(Romanos 8:21)**{class=livro}. Essa afirmação, que tanto te atemorizou, não é mais que a voz que ordena ao mau espírito que saia de ti, para não voltar nunca mais. Declara a ti vitória sobre todo pecado. Receba a Cristo pela fé, e obtenha o poder de ser feito filho de Deus, herdeiro do Reino imortal, que permanece para sempre com seus habitantes.
 
-**5) Os que creem nas promessas de Deus são filhos de quem?**{class=questao} **(Gálatas 3:28 e 31)**{class=livro}
+**5) Os que creem nas promessas de Deus são filhos de quem?**{class=questao} **(Gálatas 4:28 e 31)**{class=livro}
 <br>_____________________________________________________________
 <br>_____________________________________________________________
 <br>_____________________________________________________________
@@ -1399,7 +1401,7 @@ A promessa de Deus, aceita pela fé, gera em nós a mente do Espírito, de forma
 	saúde de minha alma enferma foi.
 	(T. M. Westrup, #330)
 
-## Sábado:
+## Sábado
 
 **Para meditar:** **Romanos 8:14-23**{class=livro}
 

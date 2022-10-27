@@ -112,3 +112,28 @@ Obs: Fora programado para algumas edições da escola sabatina, ter a versão co
 <script>
 document.write("aaaa");
 </script>
+
+
+# Linux Ubuntu
+
+Se estiver usando linux, instalar o gerenciador de fontes (ubuntu), neste gerenciador você pode instalar fontes do Google
+
+```sh
+sudo add-apt-repository ppa:font-manager/staging
+sudo apt-get update
+sudo apt-get install font-manager
+```
+
+- Alike
+- Aref_Ruqaa
+- Bellefair
+- Calligraffitti
+- Cantora_One
+- Charm
+- Chicle
+- Cormorant_Upright
+- Farsan
+- Julee
+- Lato
+- Noticia_Text
+- Oregano

@@ -1502,12 +1502,14 @@ Quando **nos libertou de nossos pecados com Seu sangue, nos fez reis e sacerdote
 **7) Cristo nos liberta do pecado, mas, mais do que isso, nos fez?**{class=questao} **(1 Pedro 2:9)**{class=livro}
 <br>_____________________________________________________________
 <br>_____________________________________________________________
+<br>_____________________________________________________________
 
 É uma tal liberdade que nada no céu nem na Terra nos pode obrigar a proceder contra nossa eleição. Deus nunca nos obrigará, pois é quem nos dá a liberdade. E nenhum outro fora dEle pode obrigar-nos. É um poder sobre os elementos, de forma que sejam postos a nosso serviço, em vez de sermos controlados por eles. Aprenderemos a reconhecer Cristo e a cruz em todo o lugar, de forma que a maldição careça, para nós, de poder. Nossa saúde **apressadamente brotará**{class=verso} **(Isaias 58:8)**{class=livro}, pois que a vida de Cristo se manifestará em nossa carne mortal. Uma liberdade gloriosa como nenhuma língua ou pena podem descrever.
 
 Permanecei, pois, firmes. **"Pela palavra de Jeová foram feitos os céus, e todo o exército deles pelo espírito de Sua boca. Porque falou, e tudo se fez; mandou, e logo tudo apareceu"**{class=verso} **(Salmos 33:6 e 9)**{class=livro}.
 
 **8) A mesma palavra que criou o firmamento estrelado, o que nos ensina?**{class=questao} **(2 Tessalonicenses 2:15)**{class=livro}
+<br>_____________________________________________________________
 <br>_____________________________________________________________
 
 **"Permanecei, pois, firmes".** Isto não é uma ordem que nos deixa no mesmo estado de impotência anterior, mas que leva em si mesma o cumprimento do fato. Os céus não se formaram por si mesmos, foram trazidos à existência pela palavra do Senhor. Permitamos-lhe, pois, ser nosso **Instrutor. Levantai vossos olhos para o alto, e vede quem criou estas coisas, quem criou seu exército de estrelas, quem a todas chama pelos seus nomes, por causa da grandeza de Sua força**{class=verso} **(Isaias 40:26)**{class=livro}. **Ele dá energia ao cansado, e multiplica as forças ao que não tem nenhum vigor**{class=verso} **(Isaias 40:29)**{class=livro}.

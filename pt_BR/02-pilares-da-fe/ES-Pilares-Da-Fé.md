@@ -24,11 +24,12 @@ puppeteer:
 
 <div class='page'>&nbsp;</div>
 <div class='page'>&nbsp;</div>
+
 [[TOC]]
 
 **Citações bíblicas:** ARA: Almeida Revista e Atualizada, ARC: Almeida Revista e Corrigida
  
-**Versão:** 20201014
+**Versão:** 20221027
 <div class='page'>&nbsp;</div>
 
 # Introdução
@@ -135,12 +136,12 @@ A Palavra de Deus nos mostra que a casa de Deus, que somos nós (Sua igreja), po
 
 |     | Pilares                                |
 | --- | -------------------------------------- |
-| I   | O TEMPLO DE DEUS NO CÉU                |
-| II  | A PURIFICAÇÃO DO SANTUÁRIO             |
+| I   | 2300 TARDES E MANHÃS                   |
+| II  | SANTUÁRIO NO CÉU                       |
+| III | ÚLTIMA OBRA DE CRISTO - A EXPIAÇÃO     |
 | III | AS TRÊS MENSAGENS ANGÉLICAS            |
 | IV  | OS MANDAMENTOS DE DEUS E A FÉ DE JESUS |
-| V   | A LEI DE DEUS                          |
-| VI  | O SÁBADO                               |
+| V   | O SÁBADO                               |
 | VII | A MORTALIDADE DA ALMA                  |
 
 

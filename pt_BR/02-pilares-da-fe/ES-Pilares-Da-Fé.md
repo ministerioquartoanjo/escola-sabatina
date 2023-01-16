@@ -23,7 +23,6 @@ puppeteer:
 **Os Pilares da Fé**{class=titulo_capa}
 
 <div class='page'>&nbsp;</div>
-<div class='page'>&nbsp;</div>
 
 [[TOC]]
 

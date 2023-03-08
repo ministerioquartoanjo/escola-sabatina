@@ -2,6 +2,8 @@
     "recommendations": [
         "phoihos.markdown-auto-gen-toc",
         "jebbs.markdown-extended",
-        "jebbs.markdown-extension-pack"
+        "jebbs.markdown-extension-pack",
+        "analytic-signal.preview-pdf",
+        "gerrnperl.outline-map"
     ]
 }

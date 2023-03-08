@@ -12,6 +12,8 @@ puppeteer:
         quality: 100
         fullPage: true
 ---
+<br><br><br><br>
+
 **Lição da Escola Bíblica**{class=titulo_capa}
 
 ![](../logo-mqa.jpg)
@@ -24,7 +26,7 @@ puppeteer:
 
 **Citações bíblicas:** ARA: Almeida Revista e Atualizada, ARC: Almeida Revista e Corrigida
 
-**Versão:** 20230115
+**Versão:** 20230307
 
 # (1) O Evangelho Eterno
 
@@ -128,8 +130,6 @@ Jesus não se envergonha de nós, embora tenhamos cometido tantos pecados horrí
 
 Paulo aconselhou os Efésios para que estivessem **“orando em todo tempo... vigiando com toda a perseverança e súplica, por todos os santos, e por mim, para que me seja dada a palavra, no _abrir da minha boca, para, com intrepidez, fazer conhecido o mistério do evangelho,_ pelo qual sou embaixador em cadeias, para que nele _eu tenha coragem_ para falar como devo falar”**{class=verso} (**Efésios 6:18-20**{class=livro}). Nós precisamos fazer o mesmo, confiar em nossos esforços para proclamar Jesus só nos levará a negá-lo como o fez Pedro. Toda nossa força é fraqueza em nós mesmos. Somente recebendo força de Deus, teremos a coragem necessária para proclamar o evangelho como devemos falar.
 
-<div class='page'> </div>
-
 ## Quinta-Feira
 
 ### Salvar Almas
@@ -147,6 +147,8 @@ Hoje, nós somos convidados a trabalhar pelas almas como Ele, amarmos os inimigo
 ## Sexta-Feira
 
 **“E vi outro anjo voando pelo meio do céu, e tinha um evangelho eterno para proclamar aos que habitam sobre a terra, e a toda nação, e tribo, e língua, e povo”**{class=verso} **Apocalipse 14:6**{class=livro}.
+
+<div class='page'> </div>
 
 !!!summary Resumo
     Deus enviou um anjo, o qual é representado a voar pelo meio do céu, ele tem uma solene mensagem que deve ser conhecida por todos, antes do fim. Este é o evangelho eterno, a boa nova de que o Pai nos enviou um Salvador, Cristo Jesus, e Ele é o poder de Deus para a salvação. Será salvo todos que nEle crê, para perdão dos seus pecados, e da desobediência à lei de Deus. Pois o que crê em Jesus Cristo, pela verdadeira conversão, será feito obediente aos Dez Mandamentos no poder de Deus que Jesus concede a cada um que pedir. Assim, será restaurado à condição de onde a raça humana um dia caiu - do estado santo e feliz no qual viviam Adão e Eva. Por aceitarmos o evangelho, se cumprirá a promessa de Deus ao nosso respeito: **“sereis, pois, santos, porque Eu Sou santo”**{class=verso} (**Levíticos 11:45**{class=livro}).
@@ -195,8 +197,6 @@ As boas e as más obras são igualmente registradas: **“o SENHOR atenta e ouve
 A regra, o padrão de justiça com a qual as obras de todos serão comparadas a fim de serem justificados ou condenados é a santa lei de Deus, os Dez Mandamentos. **“todos os que sem lei pecaram sem lei também perecerão; e todos os que sob a lei pecaram pela lei serão julgados. Porque os que ouvem a lei não são justos diante de Deus, mas os que praticam a lei hão de ser justificados.”**{class=verso} (**Romanos 2:16, 12, 13**{class=livro}).
 
 Daí vemos que, para sermos aprovados no juízo, precisamos do devido preparo. Por isso o anjo diz: **“temei a Deus e dai-Lhe glória”!** Estudaremos esta mensagem de preparo no decorrer desta semana.
-
-<div class='page'> </div>
 
 ## Segunda-Feira
 
@@ -264,8 +264,6 @@ E a mensagem do primeiro anjo, ao dizer: **“temei a Deus”**, nos convida a c
 
 Obedeçamo-la, para nosso próprio bem!
 
-<div class='page'> </div>
-
 ## Sexta-Feira
 
 **“E vi outro anjo voar pelo meio do céu ... dizendo com _grande voz_”**{class=verso} **Apocalipse 14:6, 7**{class=livro}.
@@ -321,6 +319,8 @@ A mensagem do primeiro anjo anuncia ao mundo o juízo iniciado no céu. E o que 
 - **Daniel 8: 13:**{class=livro} entrega do santuário
 
 Ambas expressões se referem à perseguição dos santos. A história revela que a perseguição foi levada a cabo pelo papado medieval. Ele teve sua supremacia desde o ano 538d.C. até 1798d.C., quando o papa foi aprisionado e perdeu seu poder temporal. Pela profecia, depois disso, viria o juízo: **“Mas o tribunal se assentará em juízo, e lhe tirará o domínio”**{class=verso} (**Daniel 7:26**{class=livro}). Portanto, o juízo no céu começaria em algum tempo depois de 1798. A informação adicional vem no capítulo 8, quando o tempo do juízo é indicado de forma mais precisa: **“Até quando durará a visão relativamente ... à entrega do santuário e do exército, para serem pisados? Ele me respondeu: Até duas mil e trezentas tardes e manhãs; então o santuário sera purificado”**{class=verso} (**Daniel 8:14**{class=livro}). Outras traduções mostram: **“Até duas mil e trezentas tardes e manhãs; então o santuário será justificado”.**{class=verso} Aqui, a conexão com o trabalho que se faz no santuário é óbvia. E pelo capítulo 7, vemos que o trabalho apontado é o juízo: **“assentou-se o tribunal, e abriram-se os livros”**{class=verso} (**Daniel 7:10**{class=livro}). Portanto, a profecia de Daniel 8 aponta o juízo no céu. O anúncio do primeiro anjo: **“é chegada a hora do seu juízo”**{class=verso}, aponta o cumprimento desta profecia.
+
+<div class='page'> </div>
 
 ## Segunda-Feira
 
@@ -461,6 +461,8 @@ Decreto de Artaxerxes                e será purificado, Santuário
 Recomendamos que você leia novamente a lição deste domingo. Ali, comparando Daniel 7 e 8, verificamos que os 2300 dias apontam também o tempo no qual o tribunal se assentaria para iniciar o juízo: **“assentou-se o tribunal, e abriram-se os livros”.** As 2300 tardes e manhãs cumpriram-se em 1844. Foi neste tempo, portanto, que os livros começaram a ser abertos no céu e iniciou-se o juízo. Por isso Deus enviou o primeiro anjo do Apocalipse com a mensagem: **“Temei a Deus e dai-Lhe glória, porque vinda é a hora do seu juízo.”**{class=verso} (**Apocalipse 14:7**{class=livro}). Esta hora chegou em 1844.
 
 Desde então, a mensagem do primeiro anjo tem ecoado com força em todo o mundo, despertando muitos para a necessidade de preparo para comparecer diante do tribunal de Deus. Ele te convida para unir-se à obra deste anjo, e proclamar aos homens a chegada do juízo. Que possamos nós todos sermos encontrados unidos à obra deste anjo, é o desejo do céu.
+
+<div class='page'> </div>
 
 ## Sábado
 
@@ -894,6 +896,8 @@ Uma mulher virgem representa uma igreja fiel a Cristo. Já a prostituta deve rep
 
 Ensinando doutrinas contrárias aos ensinos da Sua palavra. A grande Babilônia é uma igreja assim, pois é representada como sendo rotulada, em sua testa: **“a mãe das prostituições”.** Ela se intitula **“mãe”.** Para ela, as outras igrejas não são suas irmãs, _mas filhas_. Que igreja toma para si o título de **“santa madre igreja”**. Se o símbolo ainda não fosse claro o suficiente, para alguns, para que se identificasse com perfeição a grande Babilônia, ainda foi dito a seu respeito: **“a mulher estava embriagada do sangue dos santos e do sangue das testemunhas de Jesus”**{class=verso}. O símbolo não nos deixa margem para dúvidas. Hoje existe apenas uma igreja com tais características, ela ensina dogmas contrários à palavra de Deus (bíblia), também carrega em sua história a mancha do registro do assassinato de mais de cem milhões de pessoas crentes na bíblia, no passado foi um grande poder político e religioso, e ainda hoje, tem grande poder religioso. Esta igreja, ela é a única que preenche todas as características apontadas no símbolo do apocalipse.
 
+<div class='page'> </div>
+
 ## Quinta-Feira
 
 **“Caiu, _caiu_, a grande _Babilônia_”**{class=verso} (**Apocalipse 14:8**{class=livro}).
@@ -935,6 +939,8 @@ Ontem comentamos que um dos erros pregados pela igreja babilônica moderna é a 
 R.:_______________________________________________________________
 
 Portanto, não há pecador imortal. Disse Deus: **“a alma que pecar, esta morrerá”**{class=verso} (**Ezequiel 18:20**{class=livro}). A alma do pecador não é imortal. Para devolver a imortalidade perdida pelo pecador, Deus teve de enviar Seu Filho Jesus para morrer pelo homem pecador. **“Nosso Salvador Cristo Jesus, o qual destruiu a morte, e trouxe à luz a vida e a imortalidade pelo evangelho”**{class=verso} (**II Timóteo 1:10**{class=livro}). Pela morte de nosso Salvador, podemos viver. Este é o único meio de reconquistar a imortalidade. Mas as igrejas populares hoje ensinam que, após a morte a alma do homem ainda permanece em estado consciente, em lugares como o céu, o inferno ou o limbo. Tal ensino não tem qualquer amparo bíblico. Falando da morte, o Senhor diz: **“Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos”**{class=verso} (**Salmos 146: 4**{class=livro}). Portanto, na morte não há consciência. Jesus a comparou a um sono, referindo-se à morte de Lázaro, Ele disse: **“Lázaro, o nosso amigo, dorme... disseram-Lhe, pois, os discípulos: Senhor, se dorme, ficará bom. Mas Jesus falara da sua morte; eles, porém, entenderam que falava do repouso do sono. Então Jesus lhes disse claramente: Lázaro morreu”**{class=verso} (**João 11:11-13**{class=livro}).
+
+<div class='page'> </div>
 
 ## Sábado
 
@@ -979,8 +985,6 @@ Vimos na lição da semana passada que Babilônia é a igreja que ensina as dout
 
 O texto do Apocalipse diz que Babilônia dá a beber do vinho da ira. Não é difícil de entender isso. Os líderes da igreja católica, no passado, se iravam contra os que não aceitavam suas doutrinas contrárias à Palavra de Deus. Por isso perseguiram e mataram os santos. E Babilônia **“dará a beber”** às nações do mesmo vinho da ira. Isso significa que chegará o tempo no qual os líderes das diferentes nações serão imbuídos do mesmo espírito de intolerância religiosa. Se irarão e buscarão matar os que crêem e pregam a verdade. Haverão decretos das cortes legislativas ordenando a perseguição e morte dos que seguem a Cristo. Diz a Escritura. Qual deve ser a atitude dos servos de Deus neste terrível tempo? **“não seguirás a multidão para fazeres o mal; nem numa demanda darás testemunho, acompanhando a maioria, para perverteres a justiça”**{class=verso} (**Êxodo 23:2**{class=livro}).
 
-<div class='page'> </div>
-
 ## Terça-Feira
 
 **“Babilônia, que a todas as nações deu a beber do vinho da ira da _sua prostituição_.”**{class=verso} **Apocalipse 14:8**{class=livro}.
@@ -1013,6 +1017,8 @@ O papa considera os membros de todas as demais igrejas como irmãos separados, q
 Aa palavra **“católica”** significa **“universal”.** Assim, o movimento ecumênico sugere a união de todas as igrejas em uma - católica. O movimento ecumênico é hoje promovido pelo Concílio Mundial das Igrejas, o qual disponibiliza informações e atualizações na internet. Quando seu objetivo for atingido só haverão duas classes de pessoas na terra. Uma estará ao lado da religião oficial da terra. A outra é apontada pelo anjo do céu: **“Aqui está a paciência dos santos, aqui estão os que guardam os mandamentos de Deus e a fé de Jesus”**{class=verso} (**Apocalipse 14:12**{class=livro}).
 
 **Em qual delas você estará?**
+
+<div class='page'> </div>
 
 ## Quinta-Feira
 
@@ -1061,9 +1067,7 @@ O mesmo também ocorre no caso dos anjos que anunciaram aos discípulos a ressur
 Deus te abençoe.
 
 !!!check Minha Decisão
-    Quero adorar o Deus o Pai em espírito e verdade, conforme as palavras de Jesus?
-
-    (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
+    Quero adorar o Deus o Pai em espírito e verdade, conforme as palavras de Jesus? (&nbsp;&nbsp;) Sim (&nbsp;&nbsp;) Não
 
 # (8) 3ª - Parte Final do Evangelho Enviado ao Mundo
 
@@ -1275,18 +1279,17 @@ Os que não aceitam o sacrifício de Cristo não terão paga esta dívida e ter�
 
 **3) O que o cálice da ira simboliza?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 **4) Por quê os salvos, após o fechamento da porta da graça, não beberão deste cálice?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **5) O que significa o fato de Cristo ter bebido a taça da ira final de Deus?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 ## Quarta-Feira
 
@@ -1300,25 +1303,20 @@ R.:_______________________________________________________________
 
 **6) A que se refere o tormento mencionado pelo terceiro anjo?**{class=questao}
 
-R.:_______________________________________________________________
-.___________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **7) Por quê não pode ele ser infligido sobre os homens hoje?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **8) Como será este tormento?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **9) A quem o termo “Gogue e Magogue” se refere?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
-<div class='page'> </div>
 
 ## Quinta-Feira
 
@@ -1338,18 +1336,18 @@ Sobre os ímpios fará chover laços, fogo, enxofre e vento tempestuoso; eis a p
 
 **10) Em que consiste o lago de fogo?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **11) Quando e por quanto tempo existirá este lago de fogo?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **12) Por quê é impossível que os ímpios queimem eternamente?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+<div class='page'> </div>
 
 ## Sexta-Feira
 
@@ -1365,13 +1363,11 @@ R.:_______________________________________________________________
 
 **13) Qual morte é a paga pelo pecado?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **14) Por quê morremos a primeira morte (exceto os 144 mil)? Por quê todas vão ressuscitar, justos e ímpios?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 <div class='page'> </div>
 
@@ -1389,18 +1385,15 @@ R.:_______________________________________________________________
 
 **15) Serão a fumaça e o fogo eternos em sua duração?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **16) Quanto tempo durará o castigo para cada um?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 **17) Que significa o fato de que serão como se nunca houvessem sido?**{class=questao}
 
-R.:_______________________________________________________________
-.__________________________________________________________________
+R.:___________________________________________________________________________________________________________________________________________________________________________________________________
 
 !!!check Minha Decisão
     Desejo das pragas que virão, aceitando o preparo para encontrar com Jesus?
@@ -1730,6 +1723,8 @@ Cristo, em Seu santuário, nos aponta o Seu sacrifício na cruz. Ali vemos que f
 
 Louvado seja o nome de Jesus por tão grande salvação!
 
+<div class='page'> </div>
+
 ## Terça-Feira
 
 ### Receba por Fé
@@ -1743,6 +1738,8 @@ Aprendemos que os mandamentos de Deus são um **“depósito”**, um presente q
 **“tendo por certo isto mesmo, _que Aquele que em vós começou a boa obra a aperfeiçoará até o dia de Cristo Jesus_”**{class=versoQ} (**Filipenses 1:6**{class=livroVerso}).
 
 R.:_______________________________________________________________
+
+<div class='page'> </div>
 
 ## Quarta-Feira
 
@@ -1904,8 +1901,6 @@ Para meditar:
 
 **Dada a urgencia do tempo, deveriamos clamar mais insistentemente a Deus, para que Jesus derrame o Espírito Santo sobre nós?**{class=questao}
 
-<div class='page'> </div>
-
 ## Quinta-Feira
 
 ### A Promessa do Espírito
@@ -1919,6 +1914,8 @@ O plantio do trigo, na terra de Israel, era feito logo antes das primeiras chuva
 Paulo mostra que o espírito é derramado sobre os que recebem a Jesus pela fé. Escrevendo aos Gálatas, relembrando-lhes da pregação de Cristo crucificado que escutaram e do dom que receberam ao crerem na mensagem, disse: **“Ó insentatos gálatas! Quem vos fascinou a vós, ante cujos olhos foi representado Jesus Cristo como crucificado? só isto quero saber de vós: Foi por obras da lei que recebestes o Espírito, ou pelo ouvir com fé?”**{class=verso} (**Gálatas 3:1, 2**{class=livro}).
 
 O Espírito foi recebido ao contemplarem eles o Salvador crucificado e O aceitarem. Oséias nos aconselha a prosseguir no conhecer ao Senhor Jesus. Assim fazendo, **“Sua saída, como a alva, é certa; e Ele a nós virá como a chuva, como a chuva serôdia que rega a terra”.**{class=verso} O derramamento final e mais abundante do Espírito é prometido aos que perseverarem em conhecer o caráter e obra de Jesus revelados em Sua Palavra. Os que a receberem, estarão finalmente maduros para a colheita. Serão contados no grupo apontado pelo terceiro anjo: **“aqui estão os que guardam os mandamentos de Deus e a fé de Jesus”**{class=verso}. Estarão preparados e Jesus virá para buscá-los como Seus. Esses, não experimentarão a morte, antes, serão trasladados vivos ao céu. O conselho de Oséias é um convite para o preparação, a fim de que que estejamos entre eles. Portanto, prossigamos em conhecer Jesus mais e mais, para que Ele venha a nós como a chuva! Amém!
+
+<div class='page'> </div>
 
 ## Sexta-Feira
 

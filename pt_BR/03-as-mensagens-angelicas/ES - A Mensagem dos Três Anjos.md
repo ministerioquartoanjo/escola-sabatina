@@ -1427,8 +1427,7 @@ Quando criou os céus e a terra, Deus instituiu o descanso do sábado. O homem f
 
 **2) Por que abençoou Deus o sétimo dia?**{class=questao} **Gênesis 2:3**{class=livroQ}
 
-**“E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fizera.”**
-{class=versoQ} **Gênesis 2:3**{class=livroVerso}
+**“E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fizera.”**{class=versoQ} **Gênesis 2:3**{class=livroVerso}
 
 R.:_______________________________________________________________
 
